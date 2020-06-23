@@ -26,4 +26,3 @@ jobs:
         github-token: ${{ secrets.GITHUB_TOKEN }}
         commit-message: 'Update README.md'
         push-branch: 'master'
-        files: README.md
