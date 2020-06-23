@@ -20,10 +20,10 @@ jobs:
       run: |
         chmod a+x awesome-persian-youtubers
         ./awesome-persian-youtubers > README.md
-    - name: Create Pull Request
-      uses: peter-evans/create-pull-request@v2
+    - name: Commit the changes
+      uses: github-actions-x/commit@v2.6
       with:
-        token: ${{ secrets.GITHUB_TOKEN }}
+        github-token: ${{ secrets.GITHUB_TOKEN }}
         commit-message: 'Update README.md'
-        title: Update README.md
-        assignees: omid
+        push-branch: 'master'
+        files: README.md
