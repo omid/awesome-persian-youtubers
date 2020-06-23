@@ -21,8 +21,6 @@ jobs:
         chmod a+x awesome-persian-youtubers
         ./awesome-persian-youtubers > README.md
     - name: Commit the changes
-      uses: github-actions-x/commit@v2.6
+      uses: stefanzweifel/git-auto-commit-action@v4
       with:
-        github-token: ${{ secrets.GITHUB_TOKEN }}
-        commit-message: 'Update README.md'
-        push-branch: 'master'
+        commit-message: Update README.md
