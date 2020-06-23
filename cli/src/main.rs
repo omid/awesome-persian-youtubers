@@ -103,7 +103,7 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
         };
 
         // skip if number of subscribers is not enough
-        if youtube_channel.subscriber_count < 25 {
+        if youtube_channel.subscriber_count < 10 {
             continue;
         }
 
