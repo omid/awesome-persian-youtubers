@@ -7,6 +7,8 @@ use std::collections::HashMap;
 struct Category {
     id: String,
     title: String,
+    #[serde(default)]
+    total_subscribers: i32,
 }
 
 #[derive(Deserialize, Debug)]
@@ -77,7 +79,7 @@ struct YoutubeResponseItemStatistics {
 async fn main() -> Result<(), Box<dyn std::error::Error>> {
     dotenv::dotenv().ok();
 
-    let categories = read_categories();
+    let mut categories = read_categories();
     let channels = read_channels();
 
     let domain = "https://www.googleapis.com/youtube/v3/channels";
@@ -127,6 +129,16 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
         }
     }
 
+    // sort categories
+    for c in &mut categories {
+        if category_list.contains_key(&c.id) {
+            let channels = category_list.get(&c.id).unwrap();
+            c.total_subscribers = channels.total_subscribers;
+        }
+    }
+    categories.sort_by(|a, b| b.total_subscribers.cmp(&a.total_subscribers));
+
+    // generate README
     let mut toc = String::new();
     let mut list = String::new();
     for c in categories {
