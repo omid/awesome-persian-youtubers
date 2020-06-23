@@ -10,6 +10,10 @@ Categories MUST be general enough. For example, "Music" is acceptable, but "Rock
 
 [
   {
+    id: "learning",
+    title: "آموزشی",
+  },
+  {
     id: "programming",
     title: "برنامه‌نویسی",
   },
@@ -28,6 +32,22 @@ Categories MUST be general enough. For example, "Music" is acceptable, but "Rock
   {
     id: "cooking",
     title: "آشپزی",
+  },
+  {
+    id: "technology",
+    title: "فناوری و گجت",
+  },
+  {
+    id: "language",
+    title: "آموزش زبان",
+  },
+  {
+    id: "graphic",
+    title: "عکاسی و گرافیک",
+  },
+  {
+    id: "gaming",
+    title: "بازی",
   },
   {
     id: "misc",
