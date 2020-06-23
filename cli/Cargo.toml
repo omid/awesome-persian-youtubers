@@ -1,0 +1,20 @@
+[package]
+name = "awesome-persian-youtubers"
+version = "0.1.0"
+authors = ["Omid Rad <omidmr@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+json5 = "0.2"
+reqwest = { version = "0.10", features = ["json"] }
+tokio = { version = "0.2", features = ["full"] }
+serde = "1.0"
+serde_derive = "1.0"
+dotenv = "0.15"
+
+[profile.release.build-override]
+opt-level = 0
+
+[profile.release]
+lto = true
+codegen-units = 1

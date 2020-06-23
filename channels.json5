@@ -1,0 +1,47 @@
+/*
+Add another row at the end of the list, similar to the following object
+
+{
+  "id": "CHANNEL_ID",
+  "name": "CHANNEL_NAME (Just a name to refer to in this list)",
+  "category": "CATEGORY_ID (Check available categories in the categories.json5, or add a new one)"
+},
+*/
+
+[
+  {
+  	"id": "UCagCnbyplNpFlIg3WqCf0bQ",
+    "name": "amirhosseinab",
+    "category": "programming",
+  },
+  {
+    "id": "UC06FQRG-LX4Y1DeS08oGWbw",
+    "name": "محمّدرضا علی حسینی",
+    "category": "programming",
+  },
+  {
+  	"id": "UC9aYF7SavRo_A9psgpEmw0A",
+    "name": "SkillVid",
+    "category": "vlog",
+  },
+  {
+  	"id": "UCkuHzng-3im8CtounzRO-GQ",
+    "name": "Alireza Ayinmehr",
+    "category": "programming",
+  },
+  {
+  	"id": "UCbDzaRXf6kr9VFaTDA_twRw",
+    "name": "Coding Dojo - باشگاه کدزنی",
+    "category": "programming",
+  },
+  {
+  	"id": "UC06PtN6hXEGN3AXYcG8jQUw",
+    "name": "bitrun",
+    "category": "automotive",
+  },
+  {
+  	"id": "UCzcG-EnZ_-G-hTs7zmh823w",
+    "name": "Vidoal",
+    "category": "science",
+  },
+]

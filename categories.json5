@@ -1,0 +1,36 @@
+/*
+Add a category with the following format.
+Categories MUST be general enough. For example, "Music" is acceptable, but "Rock" is not.
+
+{
+  id: "CATEGORY_ID",
+  title: "CATEGORY_TITLE",
+},
+*/
+
+[
+  {
+    id: "programming",
+    title: "برنامه‌نویسی",
+  },
+  {
+    id: "science",
+    title: "علمی",
+  },
+  {
+    id: "automotive",
+    title: "خودرو",
+  },
+  {
+    id: "vlog",
+    title: "ولاگ",
+  },
+  {
+    id: "cooking",
+    title: "آشپزی",
+  },
+  {
+    id: "misc",
+    title: "متفرقه",
+  },
+]
