@@ -19,7 +19,7 @@ jobs:
         GITHUB_TOKEN: ${{ secrets.YOUTUBE_API_TOKEN }}
       run: |
         chmod a+x awesome-persian-youtubers
-        awesome-persian-youtubers > README.md
+        ./awesome-persian-youtubers > README.md
     - name: Create Pull Request
       uses: peter-evans/create-pull-request@v2
       with:
