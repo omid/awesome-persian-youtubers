@@ -259,4 +259,10 @@ Add another row at the end of the list, similar to the following object
     "name": "M.A. Saatchi",
     "category": "misc",
   },
+  {
+  	"id": "UCIOAToXqGOahdcukztzznFA",
+    "name": "Baa Pooya",
+    "category": "technology",
+  },
+]
 ]
