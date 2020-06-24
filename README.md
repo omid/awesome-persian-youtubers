@@ -30,27 +30,27 @@
 * <img src="https://yt3.ggpht.com/a/AATXAJxvoKbSEkEBxM9j7leDTd-6g8FVsBhqOpurwA=s88-c-k-c0xffffffff-no-rj-mo" alt="جنگولک بازیهای من My dodgings" width="25"/> **جنگولک بازیهای من My dodgings** <a href="https://www.youtube.com/channel/UCi_E-xnlfj3UYQZNUxSoS3g">:link:</a> (118 عضو)
 
     Love cooking all over the world cusines
-* <img src="https://yt3.ggpht.com/a/AATXAJyqepF9-ePz-dgYsbuBb4YxqFSWj6qveMo36nDi=s88-c-k-c0xffffffff-no-rj-mo" alt="Cafe Matbakh" width="25"/> **Cafe Matbakh** <a href="https://www.youtube.com/channel/UCTz1gQUaMXe_73vYNLFCDAw">:link:</a> (80 عضو)
+* <img src="https://yt3.ggpht.com/a/AATXAJyqepF9-ePz-dgYsbuBb4YxqFSWj6qveMo36nDi=s88-c-k-c0xffffffff-no-rj-mo" alt="Cafe Matbakh" width="25"/> **Cafe Matbakh** <a href="https://www.youtube.com/channel/UCTz1gQUaMXe_73vYNLFCDAw">:link:</a> (79 عضو)
 
     هر هفته آموزش پخت یک غذا در کافه مطبخ
 ## آموزش زبان
 * <img src="https://yt3.ggpht.com/a/AATXAJyjOtUBPvI41ZYvLqChcsS5jWd1wFUEmaH9=s88-c-k-c0xffffffff-no-rj-mo" alt="Learn With Babak" width="25"/> **Learn With Babak** <a href="https://www.youtube.com/channel/UCCQfEp0QPDdeeN_uS2udc1Q">:link:</a> (29000 عضو)
 
     Hey there! I'm Babak and I teach Turkish, French, Spanish and Persian.
-* <img src="https://yt3.ggpht.com/a/AATXAJwmG3fB-st9E7IR7ENdGq9lOyA9stnNwTmPXA=s88-c-k-c0xffffffff-no-rj-mo" alt="Mostafa Shalchi" width="25"/> **Mostafa Shalchi** <a href="https://www.youtube.com/channel/UCABVLZ3YJ4MLFpvrO_wqDuA">:link:</a> (9070 عضو)
+* <img src="https://yt3.ggpht.com/a/AATXAJwmG3fB-st9E7IR7ENdGq9lOyA9stnNwTmPXA=s88-c-k-c0xffffffff-no-rj-mo" alt="Mostafa Shalchi" width="25"/> **Mostafa Shalchi** <a href="https://www.youtube.com/channel/UCABVLZ3YJ4MLFpvrO_wqDuA">:link:</a> (9080 عضو)
 
     Je m'appelle Mostafa SHALCHI. Je suis enseignant et traducteur de la langue française. Selon moi, beaucoup de méthodes pour apprendre une langue étrangères sont inefficaces et incorrectes. J'ai donc pour but de vous faciliter le chemin d'apprentissage.
 * <img src="https://yt3.ggpht.com/a/AATXAJxVaDz_Bg-tD00Dxpx_f0uXjoHpZwG3oxjbfH2gyw=s88-c-k-c0xffffffff-no-rj-mo" alt="İşte Türkçe by Saba آموزش ترکی استانبولی با صبا" width="25"/> **İşte Türkçe by Saba آموزش ترکی استانبولی با صبا** <a href="https://www.youtube.com/channel/UCHXFMqf_vM498zUYGIbyElg">:link:</a> (503 عضو)
 
     سلام 
-* <img src="https://yt3.ggpht.com/a/AATXAJyW8gyUR2oFWLh_pt9iBESPIb1eU-kMc3KF4NQM=s88-c-k-c0xffffffff-no-rj-mo" alt="M.A. Saatchi" width="25"/> **M.A. Saatchi** <a href="https://www.youtube.com/channel/UCZFPhD0VwLY4lHrtqiKTqtg">:link:</a> (264 عضو)
+* <img src="https://yt3.ggpht.com/a/AATXAJyW8gyUR2oFWLh_pt9iBESPIb1eU-kMc3KF4NQM=s88-c-k-c0xffffffff-no-rj-mo" alt="M.A. Saatchi" width="25"/> **M.A. Saatchi** <a href="https://www.youtube.com/channel/UCZFPhD0VwLY4lHrtqiKTqtg">:link:</a> (265 عضو)
 
     محمدعلی ساعتچی هستم متولد ۱۳۷۲. بنیان‌گذار و عضو هیئت‌مدیره شرکت Quiz of Kings تصمیم گرفتم تجربه شخصیم رو که تو این چندین سال کسب کردم، در اختیارتون بذارم و تا جایی که بتونم مطالبی رو باهاتون به اشتراک بذارم که باعث بشه زندگی بهتری از نظر مالی و اقتصادی داشته باشید. موضوعاتی که تو این کانال دربارشون صحبت می‌کنیم: ارتقای فردی، مدیریت مالی و سرمایه، کسب درامد آنلاین، ساخت محصولات آنلاین و اقتصاد ایران خواهند بود.
 * <img src="https://yt3.ggpht.com/a/AATXAJz9Mmlng3nzJgvvc4M-h0q8qTy-VlGtoBXF-Q=s88-c-k-c0xffffffff-no-rj-mo" alt="Abolfazl Khadem" width="25"/> **Abolfazl Khadem** <a href="https://www.youtube.com/channel/UCz5rd9KctnDjWl7yQcAfsng">:link:</a> (219 عضو)
 
     Hey everyone, I'm Abolfazl Khadem. I'm your assisting coach helping you score higher on the IELTS test. Who's the head coach? YOU. 
 ## آموزشی
-* <img src="https://yt3.ggpht.com/a/AATXAJzHQ0_1ZTJ4j8gTb2AgzoUefRkUZRcvUyKl0ROCmA=s88-c-k-c0xffffffff-no-rj-mo" alt="FaraDars — فرادرس" width="25"/> **FaraDars — فرادرس** <a href="https://www.youtube.com/channel/UCyCTTHN1XuPCzAbB9dLikhw">:link:</a> (37800 عضو)
+* <img src="https://yt3.ggpht.com/a/AATXAJzHQ0_1ZTJ4j8gTb2AgzoUefRkUZRcvUyKl0ROCmA=s88-c-k-c0xffffffff-no-rj-mo" alt="FaraDars — فرادرس" width="25"/> **FaraDars — فرادرس** <a href="https://www.youtube.com/channel/UCyCTTHN1XuPCzAbB9dLikhw">:link:</a> (37900 عضو)
 
     فرادرس، بزرگ‌ترین پروژه آموزش آنلاین ایران است.
 ## ولاگ
@@ -63,7 +63,7 @@
 * <img src="https://yt3.ggpht.com/a/AATXAJyBGahSQ4oBirr_kqQ41ulzjZobBjGczHeJVQ=s88-c-k-c0xffffffff-no-rj-mo" alt="WeebHead" width="25"/> **WeebHead** <a href="https://www.youtube.com/channel/UCfHSZBC-aw_dEZK6LVDGCFA">:link:</a> (1180 عضو)
 
     اولین و تنها یوتیوبر انیمه ای فارسی زبان
-* <img src="https://yt3.ggpht.com/a/AATXAJyS590nltZpOhwgtnt7QE6aF_b0ORZHZATViA=s88-c-k-c0xffffffff-no-rj-mo" alt="Pelak Media - پلاک مدیا" width="25"/> **Pelak Media - پلاک مدیا** <a href="https://www.youtube.com/channel/UCGJQpeq3nqL0mQ75OJdusBA">:link:</a> (946 عضو)
+* <img src="https://yt3.ggpht.com/a/AATXAJyS590nltZpOhwgtnt7QE6aF_b0ORZHZATViA=s88-c-k-c0xffffffff-no-rj-mo" alt="Pelak Media - پلاک مدیا" width="25"/> **Pelak Media - پلاک مدیا** <a href="https://www.youtube.com/channel/UCGJQpeq3nqL0mQ75OJdusBA">:link:</a> (947 عضو)
 
     پلاک مدیا یک ولاگ است. ولاگ چیست؟ همان ویدیو بلاگ است که به صورت روزمره رکورد و ادیت می‌شود. ما در پلاک مدیا به سراغ مکان‌ها و چالش‌های مختلف رفته و از آنها ویدیو تهیه می‌کنیم و با شما به اشتراک می‌گذاریم.
 * <img src="https://yt3.ggpht.com/a/AATXAJx1FI60V6reiYw73I9DOcXokyYSi4n2VJt7uAQ1=s88-c-k-c0xffffffff-no-rj-mo" alt="Radio Offside" width="25"/> **Radio Offside** <a href="https://www.youtube.com/channel/UCLKv-TQUDn_4Lz0VdxWSPLQ">:link:</a> (725 عضو)
@@ -115,7 +115,7 @@
 * <img src="https://yt3.ggpht.com/a/AATXAJzKqloA4yH0QYSkknIABp28IwGhKVV4HdowsA=s88-c-k-c0xffffffff-no-rj-mo" alt="Sahar TheTallWitch" width="25"/> **Sahar TheTallWitch** <a href="https://www.youtube.com/channel/UC7vYWtZShDLheammtHJpOLw">:link:</a> (160 عضو)
 
     Posting Android tutorials
-* <img src="https://yt3.ggpht.com/a/AATXAJzWF9gTk_8pGpCpLzae01Upuz41kj98ecyUKOSh=s88-c-k-c0xffffffff-no-rj-mo" alt="Coding Dojo - باشگاه کدزنی" width="25"/> **Coding Dojo - باشگاه کدزنی** <a href="https://www.youtube.com/channel/UCbDzaRXf6kr9VFaTDA_twRw">:link:</a> (110 عضو)
+* <img src="https://yt3.ggpht.com/a/AATXAJzWF9gTk_8pGpCpLzae01Upuz41kj98ecyUKOSh=s88-c-k-c0xffffffff-no-rj-mo" alt="Coding Dojo - باشگاه کدزنی" width="25"/> **Coding Dojo - باشگاه کدزنی** <a href="https://www.youtube.com/channel/UCbDzaRXf6kr9VFaTDA_twRw">:link:</a> (111 عضو)
 
     مهارت‌هایی مثل توسعه‌ی تست‌محور (TDD)، بازسازی کد (Refactoring)، طراحی خوب و... سخت به دست میاد و ساده از دست می‌ره.
 * <img src="https://yt3.ggpht.com/a/AATXAJwyQx-Nm97faQ_jlkRSLjwqzU9rGSkAI7ZhVvo1=s88-c-k-c0xffffffff-no-rj-mo" alt="Farid Ahmadian" width="25"/> **Farid Ahmadian** <a href="https://www.youtube.com/channel/UCV-q5eC0hjN10KiCYRnVjnw">:link:</a> (107 عضو)
@@ -141,7 +141,7 @@
 
     در کانال ایگو ما سعی میکنیم موضوعات روانشناسی رو با انیمیشن های کوتاه و بیانی ساده مطرح کنیم.
 ## عکاسی و گرافیک
-* <img src="https://yt3.ggpht.com/a/AATXAJyvpsDRSdyNGQKk6Yu3Yi7S3b3dV1RbHOFPxReAng=s88-c-k-c0xffffffff-no-rj-mo" alt="MikaDArt" width="25"/> **MikaDArt** <a href="https://www.youtube.com/channel/UCh5qhWefiliKnwIHg55ZbYw">:link:</a> (1860 عضو)
+* <img src="https://yt3.ggpht.com/a/AATXAJyvpsDRSdyNGQKk6Yu3Yi7S3b3dV1RbHOFPxReAng=s88-c-k-c0xffffffff-no-rj-mo" alt="MikaDArt" width="25"/> **MikaDArt** <a href="https://www.youtube.com/channel/UCh5qhWefiliKnwIHg55ZbYw">:link:</a> (1870 عضو)
 
     فیلمسازی هم میتونه تفریح و سرگرمی باشه
 * <img src="https://yt3.ggpht.com/a/AATXAJxw84fNGh406XKsbMBMkt1GnY5kj_bGgbxzOg=s88-c-k-c0xffffffff-no-rj-mo" alt="Saman o Sarah" width="25"/> **Saman o Sarah** <a href="https://www.youtube.com/channel/UCYSzk311lW2qotWSv_Jtdng">:link:</a> (1330 عضو)
@@ -165,7 +165,7 @@
 
     بیت ران یک رسانه مستقل درباره صنعت حمل و نقل  است که سعی می کند با اصول حرفه ای روزنامه نگاری مانند انصاف و دقت به پوشش وقایع مختلف این صنعت  بپردازد. این رسانه سعی دارد تا با دید تحلیلی وقایع را کنکاش کرده و با یک بررسی دقیق و فنی محصولات جدید بازار را معرفی کند . نقل مطالب یا استفاده از فیلم ها با ذکر منبع مجاز است. 
 ## متفرقه
-* <img src="https://yt3.ggpht.com/a/AATXAJyW8gyUR2oFWLh_pt9iBESPIb1eU-kMc3KF4NQM=s88-c-k-c0xffffffff-no-rj-mo" alt="M.A. Saatchi" width="25"/> **M.A. Saatchi** <a href="https://www.youtube.com/channel/UCZFPhD0VwLY4lHrtqiKTqtg">:link:</a> (264 عضو)
+* <img src="https://yt3.ggpht.com/a/AATXAJyW8gyUR2oFWLh_pt9iBESPIb1eU-kMc3KF4NQM=s88-c-k-c0xffffffff-no-rj-mo" alt="M.A. Saatchi" width="25"/> **M.A. Saatchi** <a href="https://www.youtube.com/channel/UCZFPhD0VwLY4lHrtqiKTqtg">:link:</a> (265 عضو)
 
     محمدعلی ساعتچی هستم متولد ۱۳۷۲. بنیان‌گذار و عضو هیئت‌مدیره شرکت Quiz of Kings تصمیم گرفتم تجربه شخصیم رو که تو این چندین سال کسب کردم، در اختیارتون بذارم و تا جایی که بتونم مطالبی رو باهاتون به اشتراک بذارم که باعث بشه زندگی بهتری از نظر مالی و اقتصادی داشته باشید. موضوعاتی که تو این کانال دربارشون صحبت می‌کنیم: ارتقای فردی، مدیریت مالی و سرمایه، کسب درامد آنلاین، ساخت محصولات آنلاین و اقتصاد ایران خواهند بود.
 
@@ -178,17 +178,44 @@
 
 برای اضافه کردن کانال یوتیوب جدید، شناسه کانال و دسته‌بندی آن را در فایل `channels.json5` اضافه و یک پول‌ریکوئست ایجاد کنید.
 
-لیست بالا هر روز به صورت خودکار بازنویسی خواهد شد. در حال حاضر کانال شما باید دارای حداقل ۵ ویدئو و ۱۰ عضو باشد تا در لیست قرار گیرد.
+یا یک issue بسازید و لینک کانال و دسته‌بندی پیشنهادی رو بذارید تا اضافه کنم.
+
+لیست بالا هر روز به صورت خودکار بازنویسی خواهد شد. در حال حاضر کانال شما باید دارای حداقل ۵ ویدئو و ۱۰ عضو باشد تا در لیست قرار گیرد. (این تعداد می‌تواند در آینده تغییر کند)
+
+#### چرا؟
+
+- چرا کانال من اونجای لیست قرار داره؟
+
+    ترتیب کانال‌ها براساس تعداد اعضای کانال‌ها است.
+    
+- ترتیب دسته‌بندی‌ها چرا این شکلیه؟
+
+    ترتیب دسته‌بندی‌ها براساس مجموع تعداد کل اعضای هر دسته‌بندی است.
+    
+- چرا کانال من توی لیست نیست با اینکه اضافه‌اش کردم؟
+
+    عدم نمایش کانال‌ها می‌تواند به این دلیل باشد که اعضای کانال زیر ۱۰ نفر است یا تعداد اعضا مخفی است. و یا اینکه کمتر از ۵ ویدئو در کانال وجود دارد.
+    
+- چرا توضیحات کانال من نمایش داده نمی‌شه؟
+
+    در حال حاضر ما اولین خط توضیحات رو نمایش می‌دیم. دوستان یوتیوبر عزیز، توی توضیحات «سلام» نکنید، نامه که نیست! :)
+
+- چرا json5؟
+
+    چون json5 همون jsonئه، اما برای انسان‌ها! این هم منبعش: https://json5.org/
+
+- چرا Rust تا وقتی فلان زبان هست؟
+
+    !چرا که نه؟ با این سوالات مسخره‌تون!
 
 #### موقع پیشنهاد کانال به موارد زیر توجه کنید:
 
-- کانال باید حداقل ۱۰ عضو داشته باشد.
-- کانال باید حداقل ۵ ویدئو داشته باشد.
 - کانال نباید مرتبط با یک شبکه تلویزیونی یا یک سازمان دولتی باشد و باید توسط یک یوتیوبر تولید شده باشد.
 - زبان کانال باید فارسی باشد.
 
 #### سلب مسئولیت
-این مخزن هیچ نظارت و مسوولیتی در مورد محتوای کانال‌های یوتیوب معرفی شده ندارد.
+- این مخزن هیچ نظارت و مسوولیتی در مورد محتوای کانال‌های یوتیوب معرفی شده ندارد.
+
 
 </div>
 
