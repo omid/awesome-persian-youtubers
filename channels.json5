@@ -279,4 +279,9 @@ Add another row at the end of the list, similar to the following object
     "name": "Technolotin",
     "category": "programming",
   },
+  {
+    "id": "UCLXTPsfdA3fPUxj5SN1wlAA",
+    "name": "Amin Sani",
+    "category": "vlog",
+  },
 ]
