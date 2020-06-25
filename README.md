@@ -5,8 +5,8 @@
 </p>
 <br/><br/><br/><br/>
 
-- [آشپزی](#آشپزی)
 - [آموزشی](#آموزشی)
+- [آشپزی](#آشپزی)
 - [آموزش زبان](#آموزش-زبان)
 - [ولاگ](#ولاگ)
 - [برنامه‌نویسی](#برنامهنویسی)
@@ -17,6 +17,22 @@
 - [متفرقه](#متفرقه)
 
 
+## آموزشی
+* <img src="https://yt3.ggpht.com/a/AATXAJyTbgw6yMlveGV_0PsVwoUXjEra4AFm5ywASw=s88-c-k-c0xffffffff-no-rj-mo" alt="Deutsch Persisch TV" width="25"/> **Deutsch Persisch TV** <a href="https://www.youtube.com/channel/UCsVi4oXN98rMc4vmxRu61JA">:link:</a> (67500 عضو)
+
+    آموزش زبان آلمانی به فارسی از مبتدی تا پیشرفته  با روش آسان A1 bis C1
+* <img src="https://yt3.ggpht.com/a/AATXAJztAFbAVECM3mLOetX8XVh0p8Fm7LlP6eNSk7o2Sw=s88-c-k-c0xffffffff-no-rj-mo" alt="7play.studio" width="25"/> **7play.studio** <a href="https://www.youtube.com/channel/UCJ3QUKcd9yOhiJzZBR2zT3Q">:link:</a> (47100 عضو)
+
+    برای دسترسی به کلیه دروس  زبانهای #انگلیسی ، #آلمانی ، #فرانسه ، #ایتالیایی و #ترکی_استانبولی هم اکنون نسبت به پرداخت حق عضویت پنل زرین کانال یوتیوب از طریق لینک ذیل اقدام نمایید 
+* <img src="https://yt3.ggpht.com/a/AATXAJzHQ0_1ZTJ4j8gTb2AgzoUefRkUZRcvUyKl0ROCmA=s88-c-k-c0xffffffff-no-rj-mo" alt="FaraDars — فرادرس" width="25"/> **FaraDars — فرادرس** <a href="https://www.youtube.com/channel/UCyCTTHN1XuPCzAbB9dLikhw">:link:</a> (37900 عضو)
+
+    فرادرس، بزرگ‌ترین پروژه آموزش آنلاین ایران است.
+* <img src="https://yt3.ggpht.com/a/AATXAJyM8bk42ehh4DiLlY7n419pUMtyBhZUeRxy-A=s88-c-k-c0xffffffff-no-rj-mo" alt="Language with Kahi" width="25"/> **Language with Kahi** <a href="https://www.youtube.com/channel/UCiCLg475vLlYP2-u6etxZWQ">:link:</a> (7310 عضو)
+
+    ‏ ✅ تدریس حرفه ای قواعد زبان آلمانی به صورت  گام به گام و کاملا رایگان”
+* <img src="https://yt3.ggpht.com/a/AATXAJyrh0OFLCg51LF13qmYuuVr6t7ds4w81pm_UyFT=s88-c-k-c0xffffffff-no-rj-mo" alt="Almani ba Ehsan" width="25"/> **Almani ba Ehsan** <a href="https://www.youtube.com/channel/UCm9Vl12BiP7ZovQY5m2CPqA">:link:</a> (5230 عضو)
+
+    کانال دوم Deutsch Persisch TV
 ## آشپزی
 * <img src="https://yt3.ggpht.com/a/AATXAJzsiHZSsAaxWWzNAJZgDcuyx-sYYLEarEiQBsSUEg=s88-c-k-c0xffffffff-no-rj-mo" alt="Chef Javad Javadi" width="25"/> **Chef Javad Javadi** <a href="https://www.youtube.com/channel/UCqu8mtd9NBjgSaHUtHjRiLw">:link:</a> (159000 عضو)
 
@@ -33,13 +49,6 @@
 * <img src="https://yt3.ggpht.com/a/AATXAJyqepF9-ePz-dgYsbuBb4YxqFSWj6qveMo36nDi=s88-c-k-c0xffffffff-no-rj-mo" alt="Cafe Matbakh" width="25"/> **Cafe Matbakh** <a href="https://www.youtube.com/channel/UCTz1gQUaMXe_73vYNLFCDAw">:link:</a> (79 عضو)
 
     هر هفته آموزش پخت یک غذا در کافه مطبخ
-## آموزشی
-* <img src="https://yt3.ggpht.com/a/AATXAJyTbgw6yMlveGV_0PsVwoUXjEra4AFm5ywASw=s88-c-k-c0xffffffff-no-rj-mo" alt="Deutsch Persisch TV" width="25"/> **Deutsch Persisch TV** <a href="https://www.youtube.com/channel/UCsVi4oXN98rMc4vmxRu61JA">:link:</a> (67500 عضو)
-
-    آموزش زبان آلمانی به فارسی از مبتدی تا پیشرفته  با روش آسان A1 bis C1
-* <img src="https://yt3.ggpht.com/a/AATXAJzHQ0_1ZTJ4j8gTb2AgzoUefRkUZRcvUyKl0ROCmA=s88-c-k-c0xffffffff-no-rj-mo" alt="FaraDars — فرادرس" width="25"/> **FaraDars — فرادرس** <a href="https://www.youtube.com/channel/UCyCTTHN1XuPCzAbB9dLikhw">:link:</a> (37900 عضو)
-
-    فرادرس، بزرگ‌ترین پروژه آموزش آنلاین ایران است.
 ## آموزش زبان
 * <img src="https://yt3.ggpht.com/a/AATXAJzl2NFB61fIGwJiB9XJ32xEameivJoZgo_R7tu2=s88-c-k-c0xffffffff-no-rj-mo" alt="Learn With Babak" width="25"/> **Learn With Babak** <a href="https://www.youtube.com/channel/UCCQfEp0QPDdeeN_uS2udc1Q">:link:</a> (29000 عضو)
 
@@ -50,7 +59,7 @@
 * <img src="https://yt3.ggpht.com/a/AATXAJxVaDz_Bg-tD00Dxpx_f0uXjoHpZwG3oxjbfH2gyw=s88-c-k-c0xffffffff-no-rj-mo" alt="İşte Türkçe by Saba آموزش ترکی استانبولی با صبا" width="25"/> **İşte Türkçe by Saba آموزش ترکی استانبولی با صبا** <a href="https://www.youtube.com/channel/UCHXFMqf_vM498zUYGIbyElg">:link:</a> (501 عضو)
 
     سلام 
-* <img src="https://yt3.ggpht.com/a/AATXAJyW8gyUR2oFWLh_pt9iBESPIb1eU-kMc3KF4NQM=s88-c-k-c0xffffffff-no-rj-mo" alt="M.A. Saatchi" width="25"/> **M.A. Saatchi** <a href="https://www.youtube.com/channel/UCZFPhD0VwLY4lHrtqiKTqtg">:link:</a> (270 عضو)
+* <img src="https://yt3.ggpht.com/a/AATXAJyW8gyUR2oFWLh_pt9iBESPIb1eU-kMc3KF4NQM=s88-c-k-c0xffffffff-no-rj-mo" alt="M.A. Saatchi" width="25"/> **M.A. Saatchi** <a href="https://www.youtube.com/channel/UCZFPhD0VwLY4lHrtqiKTqtg">:link:</a> (271 عضو)
 
     محمدعلی ساعتچی هستم متولد ۱۳۷۲. بنیان‌گذار و عضو هیئت‌مدیره شرکت Quiz of Kings تصمیم گرفتم تجربه شخصیم رو که تو این چندین سال کسب کردم، در اختیارتون بذارم و تا جایی که بتونم مطالبی رو باهاتون به اشتراک بذارم که باعث بشه زندگی بهتری از نظر مالی و اقتصادی داشته باشید. موضوعاتی که تو این کانال دربارشون صحبت می‌کنیم: ارتقای فردی، مدیریت مالی و سرمایه، کسب درامد آنلاین، ساخت محصولات آنلاین و اقتصاد ایران خواهند بود.
 * <img src="https://yt3.ggpht.com/a/AATXAJw7QLfN1Z2Y7dqEnU4QlNG6GgotHZR4eaQHawQ-Tg=s88-c-k-c0xffffffff-no-rj-mo" alt="Abolfazl Khadem" width="25"/> **Abolfazl Khadem** <a href="https://www.youtube.com/channel/UCz5rd9KctnDjWl7yQcAfsng">:link:</a> (219 عضو)
@@ -180,7 +189,7 @@
 
     بیت ران یک رسانه مستقل درباره صنعت حمل و نقل  است که سعی می کند با اصول حرفه ای روزنامه نگاری مانند انصاف و دقت به پوشش وقایع مختلف این صنعت  بپردازد. این رسانه سعی دارد تا با دید تحلیلی وقایع را کنکاش کرده و با یک بررسی دقیق و فنی محصولات جدید بازار را معرفی کند . نقل مطالب یا استفاده از فیلم ها با ذکر منبع مجاز است. 
 ## متفرقه
-* <img src="https://yt3.ggpht.com/a/AATXAJyW8gyUR2oFWLh_pt9iBESPIb1eU-kMc3KF4NQM=s88-c-k-c0xffffffff-no-rj-mo" alt="M.A. Saatchi" width="25"/> **M.A. Saatchi** <a href="https://www.youtube.com/channel/UCZFPhD0VwLY4lHrtqiKTqtg">:link:</a> (270 عضو)
+* <img src="https://yt3.ggpht.com/a/AATXAJyW8gyUR2oFWLh_pt9iBESPIb1eU-kMc3KF4NQM=s88-c-k-c0xffffffff-no-rj-mo" alt="M.A. Saatchi" width="25"/> **M.A. Saatchi** <a href="https://www.youtube.com/channel/UCZFPhD0VwLY4lHrtqiKTqtg">:link:</a> (271 عضو)
 
     محمدعلی ساعتچی هستم متولد ۱۳۷۲. بنیان‌گذار و عضو هیئت‌مدیره شرکت Quiz of Kings تصمیم گرفتم تجربه شخصیم رو که تو این چندین سال کسب کردم، در اختیارتون بذارم و تا جایی که بتونم مطالبی رو باهاتون به اشتراک بذارم که باعث بشه زندگی بهتری از نظر مالی و اقتصادی داشته باشید. موضوعاتی که تو این کانال دربارشون صحبت می‌کنیم: ارتقای فردی، مدیریت مالی و سرمایه، کسب درامد آنلاین، ساخت محصولات آنلاین و اقتصاد ایران خواهند بود.
 
