@@ -37,7 +37,7 @@
 * <img src="https://yt3.ggpht.com/a/AATXAJzl2NFB61fIGwJiB9XJ32xEameivJoZgo_R7tu2=s88-c-k-c0xffffffff-no-rj-mo" alt="Learn With Babak" width="25"/> **Learn With Babak** <a href="https://www.youtube.com/channel/UCCQfEp0QPDdeeN_uS2udc1Q">:link:</a> (29000 عضو)
 
     Hey there! I'm Babak and I teach Turkish, French, Spanish and Persian.
-* <img src="https://yt3.ggpht.com/a/AATXAJwmG3fB-st9E7IR7ENdGq9lOyA9stnNwTmPXA=s88-c-k-c0xffffffff-no-rj-mo" alt="Mostafa Shalchi" width="25"/> **Mostafa Shalchi** <a href="https://www.youtube.com/channel/UCABVLZ3YJ4MLFpvrO_wqDuA">:link:</a> (9080 عضو)
+* <img src="https://yt3.ggpht.com/a/AATXAJwmG3fB-st9E7IR7ENdGq9lOyA9stnNwTmPXA=s88-c-k-c0xffffffff-no-rj-mo" alt="Mostafa Shalchi" width="25"/> **Mostafa Shalchi** <a href="https://www.youtube.com/channel/UCABVLZ3YJ4MLFpvrO_wqDuA">:link:</a> (9090 عضو)
 
     Je m'appelle Mostafa SHALCHI. Je suis enseignant et traducteur de la langue française. Selon moi, beaucoup de méthodes pour apprendre une langue étrangères sont inefficaces et incorrectes. J'ai donc pour but de vous faciliter le chemin d'apprentissage.
 * <img src="https://yt3.ggpht.com/a/AATXAJxVaDz_Bg-tD00Dxpx_f0uXjoHpZwG3oxjbfH2gyw=s88-c-k-c0xffffffff-no-rj-mo" alt="İşte Türkçe by Saba آموزش ترکی استانبولی با صبا" width="25"/> **İşte Türkçe by Saba آموزش ترکی استانبولی با صبا** <a href="https://www.youtube.com/channel/UCHXFMqf_vM498zUYGIbyElg">:link:</a> (501 عضو)
@@ -57,13 +57,13 @@
 * <img src="https://yt3.ggpht.com/a/AATXAJyLJLRU8nuW1B85R3sVxQw1Z4h2WHz-hUk8kB1Q=s88-c-k-c0xffffffff-no-rj-mo" alt="SkillVid" width="25"/> **SkillVid** <a href="https://www.youtube.com/channel/UC9aYF7SavRo_A9psgpEmw0A">:link:</a> (21600 عضو)
 
     سلام
-* <img src="https://yt3.ggpht.com/a/AATXAJwqaHYmdO_B4cCW1TbiS-ayD69-_alJHrmc7pHnEJY=s88-c-k-c0xffffffff-no-rj-mo" alt="Jadi Mirmirani" width="25"/> **Jadi Mirmirani** <a href="https://www.youtube.com/channel/UCgKePkWtPuF36bJy0n2cEMQ">:link:</a> (9960 عضو)
+* <img src="https://yt3.ggpht.com/a/AATXAJwqaHYmdO_B4cCW1TbiS-ayD69-_alJHrmc7pHnEJY=s88-c-k-c0xffffffff-no-rj-mo" alt="Jadi Mirmirani" width="25"/> **Jadi Mirmirani** <a href="https://www.youtube.com/channel/UCgKePkWtPuF36bJy0n2cEMQ">:link:</a> (9970 عضو)
 
     
 * <img src="https://yt3.ggpht.com/a/AATXAJwhNwaaRSOUG-NzBKGP5VQl6EjSQRWw4Gh2iRzf=s88-c-k-c0xffffffff-no-rj-mo" alt="WeebHead" width="25"/> **WeebHead** <a href="https://www.youtube.com/channel/UCfHSZBC-aw_dEZK6LVDGCFA">:link:</a> (1190 عضو)
 
     اولین و تنها یوتیوبر انیمه ای فارسی زبان
-* <img src="https://yt3.ggpht.com/a/AATXAJy51aww1XwGJF80TrVYgKH1CfzGsGFHWy3NA8Fz=s88-c-k-c0xffffffff-no-rj-mo" alt="Pelak Media - پلاک مدیا" width="25"/> **Pelak Media - پلاک مدیا** <a href="https://www.youtube.com/channel/UCGJQpeq3nqL0mQ75OJdusBA">:link:</a> (955 عضو)
+* <img src="https://yt3.ggpht.com/a/AATXAJy51aww1XwGJF80TrVYgKH1CfzGsGFHWy3NA8Fz=s88-c-k-c0xffffffff-no-rj-mo" alt="Pelak Media - پلاک مدیا" width="25"/> **Pelak Media - پلاک مدیا** <a href="https://www.youtube.com/channel/UCGJQpeq3nqL0mQ75OJdusBA">:link:</a> (956 عضو)
 
     پلاک مدیا یک ولاگ است. ولاگ چیست؟ همان ویدیو بلاگ است که به صورت روزمره رکورد و ادیت می‌شود. ما در پلاک مدیا به سراغ مکان‌ها و چالش‌های مختلف رفته و از آنها ویدیو تهیه می‌کنیم و با شما به اشتراک می‌گذاریم.
 * <img src="https://yt3.ggpht.com/a/AATXAJx1FI60V6reiYw73I9DOcXokyYSi4n2VJt7uAQ1=s88-c-k-c0xffffffff-no-rj-mo" alt="Radio Offside" width="25"/> **Radio Offside** <a href="https://www.youtube.com/channel/UCLKv-TQUDn_4Lz0VdxWSPLQ">:link:</a> (727 عضو)
@@ -79,7 +79,7 @@
 * <img src="https://yt3.ggpht.com/a/AATXAJwUUMdV5ygmTibW0V7VvEFEvI9FDSkPQOpBJor1=s88-c-k-c0xffffffff-no-rj-mo" alt="SoftwareTalks" width="25"/> **SoftwareTalks** <a href="https://www.youtube.com/channel/UCm4xezzuIlcEBFQwkAzm0CQ">:link:</a> (1910 عضو)
 
     دورهمی آنلاین جامعه نرم‌افزاری - پخش زنده سه‌شنبه هر هفته ساعت ۱۹ و جمعه‌ هر هفته ساعت ۱۰
-* <img src="https://yt3.ggpht.com/a/AATXAJxJZ-tiTvuwyZmcsHicJlthSEff-ied5WTlniUkBQ=s88-c-k-c0xffffffff-no-rj-mo" alt="amirhosseinab" width="25"/> **amirhosseinab** <a href="https://www.youtube.com/channel/UCagCnbyplNpFlIg3WqCf0bQ">:link:</a> (1850 عضو)
+* <img src="https://yt3.ggpht.com/a/AATXAJxJZ-tiTvuwyZmcsHicJlthSEff-ied5WTlniUkBQ=s88-c-k-c0xffffffff-no-rj-mo" alt="amirhosseinab" width="25"/> **amirhosseinab** <a href="https://www.youtube.com/channel/UCagCnbyplNpFlIg3WqCf0bQ">:link:</a> (1860 عضو)
 
     من امیرحسین عبدالخالق هستم و در این کانال، راجع به موضوعاتی که به مهندسی نرم افزار مربوط میشه و مطالبی که به تولید نرم افزار با کیفیت کمک میکنه صحبت میکنم
 * <img src="https://yt3.ggpht.com/a/AATXAJwQSGR7F9Z5MomPISXfcqQmx9MAjbLA17uazg=s88-c-k-c0xffffffff-no-rj-mo" alt="Silicium" width="25"/> **Silicium** <a href="https://www.youtube.com/channel/UCKSIjrrKLYi9N7cqREeENlw">:link:</a> (666 عضو)
@@ -88,7 +88,7 @@
 * <img src="https://yt3.ggpht.com/a/AATXAJzS8r5n_lEPRphZn4lCmj_4EWPVG2ye-9vDFA=s88-c-k-c0xffffffff-no-rj-mo" alt="ahmad tahani" width="25"/> **ahmad tahani** <a href="https://www.youtube.com/channel/UC0zTl0iFLUxrJ_hafwdnLsw">:link:</a> (502 عضو)
 
     share knowledge about programming and design mobile and web application in persian language.
-* <img src="https://yt3.ggpht.com/a/AATXAJxklKvqe9bVZt6aECygNBnZeaRh2LcN7TbI0w=s88-c-k-c0xffffffff-no-rj-mo" alt="Ramin Zare" width="25"/> **Ramin Zare** <a href="https://www.youtube.com/channel/UCwc1RZzEeELwPel5HFlKpzw">:link:</a> (492 عضو)
+* <img src="https://yt3.ggpht.com/a/AATXAJxklKvqe9bVZt6aECygNBnZeaRh2LcN7TbI0w=s88-c-k-c0xffffffff-no-rj-mo" alt="Ramin Zare" width="25"/> **Ramin Zare** <a href="https://www.youtube.com/channel/UCwc1RZzEeELwPel5HFlKpzw">:link:</a> (493 عضو)
 
     سلام. من رامین هستم. یه برنامه نویس که دوست دارم چیزایی که یادگرفتم را براتون منتشر کنم.
 * <img src="https://yt3.ggpht.com/a/AATXAJyGDAVXrB0e0TdZWcwk-qXnpAZ0_llUq4LQczpz=s88-c-k-c0xffffffff-no-rj-mo" alt="irlogcat" width="25"/> **irlogcat** <a href="https://www.youtube.com/channel/UCBM3dVa1OK3Mv2Mp2kbzdtA">:link:</a> (489 عضو)
@@ -97,7 +97,7 @@
 * <img src="https://yt3.ggpht.com/a/AATXAJz0BFYxvUn-SloeeoCpzowZ4-ZgXz_BkV2AyV2uquo=s88-c-k-c0xffffffff-no-rj-mo" alt="Mehdi Allahyari" width="25"/> **Mehdi Allahyari** <a href="https://www.youtube.com/channel/UC67Fo8C3orrbokwF0CkVCDw">:link:</a> (337 عضو)
 
     The goal of this channel is to provide Machine Learning videos in Farsi/Persian for all to enjoy and learn from.
-* <img src="https://yt3.ggpht.com/a/AATXAJxgBafefxDpibcnOOni_-nQ8bO7YXPwDtZk13kXlw=s88-c-k-c0xffffffff-no-rj-mo" alt="Alireza Ayinmehr" width="25"/> **Alireza Ayinmehr** <a href="https://www.youtube.com/channel/UCkuHzng-3im8CtounzRO-GQ">:link:</a> (288 عضو)
+* <img src="https://yt3.ggpht.com/a/AATXAJxgBafefxDpibcnOOni_-nQ8bO7YXPwDtZk13kXlw=s88-c-k-c0xffffffff-no-rj-mo" alt="Alireza Ayinmehr" width="25"/> **Alireza Ayinmehr** <a href="https://www.youtube.com/channel/UCkuHzng-3im8CtounzRO-GQ">:link:</a> (290 عضو)
 
     Full-Stack Developer from Iran.
 * <img src="https://yt3.ggpht.com/a/AATXAJxv3c9RifqNv34mY4VbmXS9PlA41wY7WiGyyW4DYg=s88-c-k-c0xffffffff-no-rj-mo" alt="Abbas Yazdanpanah" width="25"/> **Abbas Yazdanpanah** <a href="https://www.youtube.com/channel/UCriDa1A8msrOTmfIFNFOhzA">:link:</a> (228 عضو)
@@ -106,7 +106,7 @@
 * <img src="https://yt3.ggpht.com/a/AATXAJyV563NFZ0I9yrXQCt960SvY701CaZj5ckkHg=s88-c-k-c0xffffffff-no-rj-mo" alt="Sajjad Heydari" width="25"/> **Sajjad Heydari** <a href="https://www.youtube.com/channel/UCYUilKxAgwih1ih4Dj8k_WQ">:link:</a> (180 عضو)
 
     
-* <img src="https://yt3.ggpht.com/a/AATXAJyAArdZ13mKCAOqNkGqZtjT-4H6sW-MK8ey_jST=s88-c-k-c0xffffffff-no-rj-mo" alt="yazdkit یزدکیت" width="25"/> **yazdkit یزدکیت** <a href="https://www.youtube.com/channel/UCeTVcxtWMetcodC7Y6HdLjg">:link:</a> (174 عضو)
+* <img src="https://yt3.ggpht.com/a/AATXAJyAArdZ13mKCAOqNkGqZtjT-4H6sW-MK8ey_jST=s88-c-k-c0xffffffff-no-rj-mo" alt="yazdkit یزدکیت" width="25"/> **yazdkit یزدکیت** <a href="https://www.youtube.com/channel/UCeTVcxtWMetcodC7Y6HdLjg">:link:</a> (175 عضو)
 
     معرفی قطعات و ماژول های الکترونیک و نحوه راه اندازی ان ها ، ارائه سورس های مرتبط   www.yazdkit.com
 * <img src="https://yt3.ggpht.com/a/AATXAJzy9xPTwYNYPpnvfrnSeiiR-pgj7ld-ZS5o-ubP=s88-c-k-c0xffffffff-no-rj-mo" alt="Royal Codes" width="25"/> **Royal Codes** <a href="https://www.youtube.com/channel/UCmRdgrhxeOztHfTdXXKKvHg">:link:</a> (170 عضو)
@@ -127,6 +127,9 @@
 * <img src="https://yt3.ggpht.com/a/AATXAJxW8aG1P4xQ8CHVOGshkA5LQX_A_4V93qNibg=s88-c-k-c0xffffffff-no-rj-mo" alt="Geek Burger Show" width="25"/> **Geek Burger Show** <a href="https://www.youtube.com/channel/UCAzoPZezvbQ8J2SqW1NByPg">:link:</a> (73 عضو)
 
     Website: http://www.GeekBurgerShow.com
+* <img src="https://yt3.ggpht.com/a/AATXAJwO4H4sduyDGfmAqYA6lfm1iAiJXLlHn_xyuz7K=s88-c-k-c0xffffffff-no-rj-mo" alt="Technolotin" width="25"/> **Technolotin** <a href="https://www.youtube.com/channel/UClomSLRfvKQtV1npg-YOWjQ">:link:</a> (66 عضو)
+
+    
 ## علمی
 * <img src="https://yt3.ggpht.com/a/AATXAJwi2hgeMaqm8Pi_SAeWs0KLg_2LDxQburc-O6Hi=s88-c-k-c0xffffffff-no-rj-mo" alt="Vidoal" width="25"/> **Vidoal** <a href="https://www.youtube.com/channel/UCzcG-EnZ_-G-hTs7zmh823w">:link:</a> (3780 عضو)
 
@@ -134,7 +137,7 @@
 * <img src="https://yt3.ggpht.com/a/AATXAJwbjVUdMIeTXq8yfiuAO6z254obu4QnmCUzpMTq=s88-c-k-c0xffffffff-no-rj-mo" alt="Radio-Teb / رادیو طب" width="25"/> **Radio-Teb / رادیو طب** <a href="https://www.youtube.com/channel/UCWKn1Xuyq2K27ZAewFHQMcA">:link:</a> (2610 عضو)
 
     🍏مراقبت کامل، مجموعه ایست برای آموزش مطالب پزشکی به زبان فارسی.
-* <img src="https://yt3.ggpht.com/a/AATXAJyecq6cBRFQF3ByK0S0gU_LTKev4bDkFfpR7co=s88-c-k-c0xffffffff-no-rj-mo" alt="مختصر و مفید" width="25"/> **مختصر و مفید** <a href="https://www.youtube.com/channel/UCrj-Vs-7sMK0U9PSr5TbrZQ">:link:</a> (671 عضو)
+* <img src="https://yt3.ggpht.com/a/AATXAJyecq6cBRFQF3ByK0S0gU_LTKev4bDkFfpR7co=s88-c-k-c0xffffffff-no-rj-mo" alt="مختصر و مفید" width="25"/> **مختصر و مفید** <a href="https://www.youtube.com/channel/UCrj-Vs-7sMK0U9PSr5TbrZQ">:link:</a> (674 عضو)
 
     موضوعات بسیاری در دنیا هست که دانستنش برای ما جالبه، ولی نه وقت ما اجازه می‌ده که همه‌ش رو خیلی عمیق پیگیری کنیم و نه حتی لزومی داره! من اردشیر طیبی هستم و در «مختصر و مفید» تلاش می‌کنم موضوعاتی از دل تاریخ، سیاست و علم رو به زبانی ساده و قابل هضم و البته در مدت زمانی کوتاه، برای شما توضیح بدم. با این تذکر که من کارشناس هیچ چیزی نیستم. صرفا کنج‌کاوم و مشتاق یادگیری.
 * <img src="https://yt3.ggpht.com/a/AATXAJw1tbg2aOU5jzUvSC6HaiTAQZrodVOVcHFzljMz=s88-c-k-c0xffffffff-no-rj-mo" alt="EGO-persian" width="25"/> **EGO-persian** <a href="https://www.youtube.com/channel/UC3KlSuynF3PZlDnI88pkT6g">:link:</a> (25 عضو)
