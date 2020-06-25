@@ -264,4 +264,9 @@ Add another row at the end of the list, similar to the following object
     "name": "Baa Pooya",
     "category": "technology",
   },
+  {
+    "id": "UCKMq8ked2ePAL0bQtu6k7WA",
+    "name": "DoSarneshin",
+    "category": "automotive",
+  },
 ]
