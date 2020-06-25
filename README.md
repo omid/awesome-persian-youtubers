@@ -11,8 +11,8 @@
 - [ولاگ](#ولاگ)
 - [برنامه‌نویسی](#برنامهنویسی)
 - [علمی](#علمی)
-- [عکاسی و گرافیک](#عکاسی-و-گرافیک)
 - [فناوری و گجت](#فناوری-و-گجت)
+- [عکاسی و گرافیک](#عکاسی-و-گرافیک)
 - [خودرو](#خودرو)
 - [متفرقه](#متفرقه)
 
@@ -43,7 +43,7 @@
 * <img src="https://yt3.ggpht.com/a/AATXAJxVaDz_Bg-tD00Dxpx_f0uXjoHpZwG3oxjbfH2gyw=s88-c-k-c0xffffffff-no-rj-mo" alt="İşte Türkçe by Saba آموزش ترکی استانبولی با صبا" width="25"/> **İşte Türkçe by Saba آموزش ترکی استانبولی با صبا** <a href="https://www.youtube.com/channel/UCHXFMqf_vM498zUYGIbyElg">:link:</a> (501 عضو)
 
     سلام 
-* <img src="https://yt3.ggpht.com/a/AATXAJyW8gyUR2oFWLh_pt9iBESPIb1eU-kMc3KF4NQM=s88-c-k-c0xffffffff-no-rj-mo" alt="M.A. Saatchi" width="25"/> **M.A. Saatchi** <a href="https://www.youtube.com/channel/UCZFPhD0VwLY4lHrtqiKTqtg">:link:</a> (269 عضو)
+* <img src="https://yt3.ggpht.com/a/AATXAJyW8gyUR2oFWLh_pt9iBESPIb1eU-kMc3KF4NQM=s88-c-k-c0xffffffff-no-rj-mo" alt="M.A. Saatchi" width="25"/> **M.A. Saatchi** <a href="https://www.youtube.com/channel/UCZFPhD0VwLY4lHrtqiKTqtg">:link:</a> (270 عضو)
 
     محمدعلی ساعتچی هستم متولد ۱۳۷۲. بنیان‌گذار و عضو هیئت‌مدیره شرکت Quiz of Kings تصمیم گرفتم تجربه شخصیم رو که تو این چندین سال کسب کردم، در اختیارتون بذارم و تا جایی که بتونم مطالبی رو باهاتون به اشتراک بذارم که باعث بشه زندگی بهتری از نظر مالی و اقتصادی داشته باشید. موضوعاتی که تو این کانال دربارشون صحبت می‌کنیم: ارتقای فردی، مدیریت مالی و سرمایه، کسب درامد آنلاین، ساخت محصولات آنلاین و اقتصاد ایران خواهند بود.
 * <img src="https://yt3.ggpht.com/a/AATXAJw7QLfN1Z2Y7dqEnU4QlNG6GgotHZR4eaQHawQ-Tg=s88-c-k-c0xffffffff-no-rj-mo" alt="Abolfazl Khadem" width="25"/> **Abolfazl Khadem** <a href="https://www.youtube.com/channel/UCz5rd9KctnDjWl7yQcAfsng">:link:</a> (219 عضو)
@@ -63,7 +63,7 @@
 * <img src="https://yt3.ggpht.com/a/AATXAJwhNwaaRSOUG-NzBKGP5VQl6EjSQRWw4Gh2iRzf=s88-c-k-c0xffffffff-no-rj-mo" alt="WeebHead" width="25"/> **WeebHead** <a href="https://www.youtube.com/channel/UCfHSZBC-aw_dEZK6LVDGCFA">:link:</a> (1190 عضو)
 
     اولین و تنها یوتیوبر انیمه ای فارسی زبان
-* <img src="https://yt3.ggpht.com/a/AATXAJy51aww1XwGJF80TrVYgKH1CfzGsGFHWy3NA8Fz=s88-c-k-c0xffffffff-no-rj-mo" alt="Pelak Media - پلاک مدیا" width="25"/> **Pelak Media - پلاک مدیا** <a href="https://www.youtube.com/channel/UCGJQpeq3nqL0mQ75OJdusBA">:link:</a> (956 عضو)
+* <img src="https://yt3.ggpht.com/a/AATXAJy51aww1XwGJF80TrVYgKH1CfzGsGFHWy3NA8Fz=s88-c-k-c0xffffffff-no-rj-mo" alt="Pelak Media - پلاک مدیا" width="25"/> **Pelak Media - پلاک مدیا** <a href="https://www.youtube.com/channel/UCGJQpeq3nqL0mQ75OJdusBA">:link:</a> (955 عضو)
 
     پلاک مدیا یک ولاگ است. ولاگ چیست؟ همان ویدیو بلاگ است که به صورت روزمره رکورد و ادیت می‌شود. ما در پلاک مدیا به سراغ مکان‌ها و چالش‌های مختلف رفته و از آنها ویدیو تهیه می‌کنیم و با شما به اشتراک می‌گذاریم.
 * <img src="https://yt3.ggpht.com/a/AATXAJx1FI60V6reiYw73I9DOcXokyYSi4n2VJt7uAQ1=s88-c-k-c0xffffffff-no-rj-mo" alt="Radio Offside" width="25"/> **Radio Offside** <a href="https://www.youtube.com/channel/UCLKv-TQUDn_4Lz0VdxWSPLQ">:link:</a> (727 عضو)
@@ -82,7 +82,7 @@
 * <img src="https://yt3.ggpht.com/a/AATXAJxJZ-tiTvuwyZmcsHicJlthSEff-ied5WTlniUkBQ=s88-c-k-c0xffffffff-no-rj-mo" alt="amirhosseinab" width="25"/> **amirhosseinab** <a href="https://www.youtube.com/channel/UCagCnbyplNpFlIg3WqCf0bQ">:link:</a> (1850 عضو)
 
     من امیرحسین عبدالخالق هستم و در این کانال، راجع به موضوعاتی که به مهندسی نرم افزار مربوط میشه و مطالبی که به تولید نرم افزار با کیفیت کمک میکنه صحبت میکنم
-* <img src="https://yt3.ggpht.com/a/AATXAJwQSGR7F9Z5MomPISXfcqQmx9MAjbLA17uazg=s88-c-k-c0xffffffff-no-rj-mo" alt="Silicium" width="25"/> **Silicium** <a href="https://www.youtube.com/channel/UCKSIjrrKLYi9N7cqREeENlw">:link:</a> (665 عضو)
+* <img src="https://yt3.ggpht.com/a/AATXAJwQSGR7F9Z5MomPISXfcqQmx9MAjbLA17uazg=s88-c-k-c0xffffffff-no-rj-mo" alt="Silicium" width="25"/> **Silicium** <a href="https://www.youtube.com/channel/UCKSIjrrKLYi9N7cqREeENlw">:link:</a> (666 عضو)
 
     آموزش برنامه نویسی
 * <img src="https://yt3.ggpht.com/a/AATXAJzS8r5n_lEPRphZn4lCmj_4EWPVG2ye-9vDFA=s88-c-k-c0xffffffff-no-rj-mo" alt="ahmad tahani" width="25"/> **ahmad tahani** <a href="https://www.youtube.com/channel/UC0zTl0iFLUxrJ_hafwdnLsw">:link:</a> (502 عضو)
@@ -100,7 +100,7 @@
 * <img src="https://yt3.ggpht.com/a/AATXAJxgBafefxDpibcnOOni_-nQ8bO7YXPwDtZk13kXlw=s88-c-k-c0xffffffff-no-rj-mo" alt="Alireza Ayinmehr" width="25"/> **Alireza Ayinmehr** <a href="https://www.youtube.com/channel/UCkuHzng-3im8CtounzRO-GQ">:link:</a> (288 عضو)
 
     Full-Stack Developer from Iran.
-* <img src="https://yt3.ggpht.com/a/AATXAJxv3c9RifqNv34mY4VbmXS9PlA41wY7WiGyyW4DYg=s88-c-k-c0xffffffff-no-rj-mo" alt="Abbas Yazdanpanah" width="25"/> **Abbas Yazdanpanah** <a href="https://www.youtube.com/channel/UCriDa1A8msrOTmfIFNFOhzA">:link:</a> (227 عضو)
+* <img src="https://yt3.ggpht.com/a/AATXAJxv3c9RifqNv34mY4VbmXS9PlA41wY7WiGyyW4DYg=s88-c-k-c0xffffffff-no-rj-mo" alt="Abbas Yazdanpanah" width="25"/> **Abbas Yazdanpanah** <a href="https://www.youtube.com/channel/UCriDa1A8msrOTmfIFNFOhzA">:link:</a> (228 عضو)
 
     در این کانال ویدئوهایی که توسط من در سایت blog.abyz.ir پخش می‌شود به اشتراک گذاشته می‌شود.
 * <img src="https://yt3.ggpht.com/a/AATXAJyV563NFZ0I9yrXQCt960SvY701CaZj5ckkHg=s88-c-k-c0xffffffff-no-rj-mo" alt="Sajjad Heydari" width="25"/> **Sajjad Heydari** <a href="https://www.youtube.com/channel/UCYUilKxAgwih1ih4Dj8k_WQ">:link:</a> (180 عضو)
@@ -140,6 +140,19 @@
 * <img src="https://yt3.ggpht.com/a/AATXAJw1tbg2aOU5jzUvSC6HaiTAQZrodVOVcHFzljMz=s88-c-k-c0xffffffff-no-rj-mo" alt="EGO-persian" width="25"/> **EGO-persian** <a href="https://www.youtube.com/channel/UC3KlSuynF3PZlDnI88pkT6g">:link:</a> (25 عضو)
 
     در کانال ایگو ما سعی میکنیم موضوعات روانشناسی رو با انیمیشن های کوتاه و بیانی ساده مطرح کنیم.
+## فناوری و گجت
+* <img src="https://yt3.ggpht.com/a/AATXAJynNsmrROT5omJRXWPt8EvwkWGb3oIrthjAURjT=s88-c-k-c0xffffffff-no-rj-mo" alt="Binosha - بینوشا" width="25"/> **Binosha - بینوشا** <a href="https://www.youtube.com/channel/UCNqT8Qk747G4alIBzPgRQiw">:link:</a> (3720 عضو)
+
+    اینجا بینوشاس ما تو بینوشا از تکنولوژی میگیم از گجت‌ها و موبایل‌ها و سعی میکنیم بهترین برنامه‌ها رو برای پیدا کردن یه زندگی تکنولوژیک خوب درست کنیم 😍
+* <img src="https://yt3.ggpht.com/a/AATXAJy7AExfTQd2gmgu7-4Fc38EhMPRezOFHbFy7g-O=s88-c-k-c0xffffffff-no-rj-mo" alt="Shahrouz Chorakchi" width="25"/> **Shahrouz Chorakchi** <a href="https://www.youtube.com/channel/UC5H38NMrMF1cOrKy_zOVGCg">:link:</a> (1520 عضو)
+
+    ➠Geek
+* <img src="https://yt3.ggpht.com/a/AATXAJw-tF6BxH2xwFS_3kyAyJGxRxu1RV4ACGuWMg=s88-c-k-c0xffffffff-no-rj-mo" alt="BaaPooya" width="25"/> **BaaPooya** <a href="https://www.youtube.com/channel/UCIOAToXqGOahdcukztzznFA">:link:</a> (237 عضو)
+
+    من پویام و اینجا کانال باپویاست به کانال من خوش اومدید. توی این کانال سعی دارم هرهفته در مورد تکنولوژی های جالب با شما صحبت کنم.
+* <img src="https://yt3.ggpht.com/a/AATXAJxrhAONiIxo1jvJuTrFXbSUr_1reVgfpDGmq_rg_g=s88-c-k-c0xffffffff-no-rj-mo" alt="SampoyTech فارسی" width="25"/> **SampoyTech فارسی** <a href="https://www.youtube.com/channel/UCD_13oc95PQEtvAvzQVUaLA">:link:</a> (160 عضو)
+
+    من سامان هستم 
 ## عکاسی و گرافیک
 * <img src="https://yt3.ggpht.com/a/AATXAJyvpsDRSdyNGQKk6Yu3Yi7S3b3dV1RbHOFPxReAng=s88-c-k-c0xffffffff-no-rj-mo" alt="MikaDArt" width="25"/> **MikaDArt** <a href="https://www.youtube.com/channel/UCh5qhWefiliKnwIHg55ZbYw">:link:</a> (1880 عضو)
 
@@ -153,22 +166,12 @@
 * <img src="https://yt3.ggpht.com/a/AATXAJyb-UwD5hCIb0TVCeQMRQQXrLnH248q4SOn0cUShL4=s88-c-k-c0xffffffff-no-rj-mo" alt="Mohammad Khalilbeigi" width="25"/> **Mohammad Khalilbeigi** <a href="https://www.youtube.com/channel/UC134y8iVcSgvt0Qe4WDuinQ">:link:</a> (423 عضو)
 
     من محمد خلیل بیگی هستم.یک علاقه‌مند به دنیای عکاسی و البته تجهیزات عکاسی!
-## فناوری و گجت
-* <img src="https://yt3.ggpht.com/a/AATXAJynNsmrROT5omJRXWPt8EvwkWGb3oIrthjAURjT=s88-c-k-c0xffffffff-no-rj-mo" alt="Binosha - بینوشا" width="25"/> **Binosha - بینوشا** <a href="https://www.youtube.com/channel/UCNqT8Qk747G4alIBzPgRQiw">:link:</a> (3720 عضو)
-
-    اینجا بینوشاس ما تو بینوشا از تکنولوژی میگیم از گجت‌ها و موبایل‌ها و سعی میکنیم بهترین برنامه‌ها رو برای پیدا کردن یه زندگی تکنولوژیک خوب درست کنیم 😍
-* <img src="https://yt3.ggpht.com/a/AATXAJw-tF6BxH2xwFS_3kyAyJGxRxu1RV4ACGuWMg=s88-c-k-c0xffffffff-no-rj-mo" alt="BaaPooya" width="25"/> **BaaPooya** <a href="https://www.youtube.com/channel/UCIOAToXqGOahdcukztzznFA">:link:</a> (237 عضو)
-
-    من پویام و اینجا کانال باپویاست به کانال من خوش اومدید. توی این کانال سعی دارم هرهفته در مورد تکنولوژی های جالب با شما صحبت کنم.
-* <img src="https://yt3.ggpht.com/a/AATXAJxrhAONiIxo1jvJuTrFXbSUr_1reVgfpDGmq_rg_g=s88-c-k-c0xffffffff-no-rj-mo" alt="SampoyTech فارسی" width="25"/> **SampoyTech فارسی** <a href="https://www.youtube.com/channel/UCD_13oc95PQEtvAvzQVUaLA">:link:</a> (160 عضو)
-
-    من سامان هستم 
 ## خودرو
 * <img src="https://yt3.ggpht.com/a/AATXAJz19S2K9AVF0-Tb3Se7Xxs8rV9ZMHGN1vXtk1__=s88-c-k-c0xffffffff-no-rj-mo" alt="bitrun" width="25"/> **bitrun** <a href="https://www.youtube.com/channel/UC06PtN6hXEGN3AXYcG8jQUw">:link:</a> (2370 عضو)
 
     بیت ران یک رسانه مستقل درباره صنعت حمل و نقل  است که سعی می کند با اصول حرفه ای روزنامه نگاری مانند انصاف و دقت به پوشش وقایع مختلف این صنعت  بپردازد. این رسانه سعی دارد تا با دید تحلیلی وقایع را کنکاش کرده و با یک بررسی دقیق و فنی محصولات جدید بازار را معرفی کند . نقل مطالب یا استفاده از فیلم ها با ذکر منبع مجاز است. 
 ## متفرقه
-* <img src="https://yt3.ggpht.com/a/AATXAJyW8gyUR2oFWLh_pt9iBESPIb1eU-kMc3KF4NQM=s88-c-k-c0xffffffff-no-rj-mo" alt="M.A. Saatchi" width="25"/> **M.A. Saatchi** <a href="https://www.youtube.com/channel/UCZFPhD0VwLY4lHrtqiKTqtg">:link:</a> (269 عضو)
+* <img src="https://yt3.ggpht.com/a/AATXAJyW8gyUR2oFWLh_pt9iBESPIb1eU-kMc3KF4NQM=s88-c-k-c0xffffffff-no-rj-mo" alt="M.A. Saatchi" width="25"/> **M.A. Saatchi** <a href="https://www.youtube.com/channel/UCZFPhD0VwLY4lHrtqiKTqtg">:link:</a> (270 عضو)
 
     محمدعلی ساعتچی هستم متولد ۱۳۷۲. بنیان‌گذار و عضو هیئت‌مدیره شرکت Quiz of Kings تصمیم گرفتم تجربه شخصیم رو که تو این چندین سال کسب کردم، در اختیارتون بذارم و تا جایی که بتونم مطالبی رو باهاتون به اشتراک بذارم که باعث بشه زندگی بهتری از نظر مالی و اقتصادی داشته باشید. موضوعاتی که تو این کانال دربارشون صحبت می‌کنیم: ارتقای فردی، مدیریت مالی و سرمایه، کسب درامد آنلاین، ساخت محصولات آنلاین و اقتصاد ایران خواهند بود.
 
