@@ -289,4 +289,19 @@ Add another row at the end of the list, similar to the following object
     "name": "Deutsch Persisch TV",
     "category": "learning",
   },
+  {
+    "id": "UCm9Vl12BiP7ZovQY5m2CPqA",
+    "name": "Almani ba Ehsan",
+    "category": "learning",
+  },
+  {
+    "id": "UCiCLg475vLlYP2-u6etxZWQ",
+    "name": "Language with Kahi",
+    "category": "learning",
+  },
+  {
+    "id": "UCJ3QUKcd9yOhiJzZBR2zT3Q",
+    "name": "7play.studio",
+    "category": "learning",
+  },
 ]
