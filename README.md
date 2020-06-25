@@ -6,8 +6,8 @@
 <br/><br/><br/><br/>
 
 - [آشپزی](#آشپزی)
-- [آموزش زبان](#آموزش-زبان)
 - [آموزشی](#آموزشی)
+- [آموزش زبان](#آموزش-زبان)
 - [ولاگ](#ولاگ)
 - [برنامه‌نویسی](#برنامهنویسی)
 - [علمی](#علمی)
@@ -33,6 +33,13 @@
 * <img src="https://yt3.ggpht.com/a/AATXAJyqepF9-ePz-dgYsbuBb4YxqFSWj6qveMo36nDi=s88-c-k-c0xffffffff-no-rj-mo" alt="Cafe Matbakh" width="25"/> **Cafe Matbakh** <a href="https://www.youtube.com/channel/UCTz1gQUaMXe_73vYNLFCDAw">:link:</a> (79 عضو)
 
     هر هفته آموزش پخت یک غذا در کافه مطبخ
+## آموزشی
+* <img src="https://yt3.ggpht.com/a/AATXAJyTbgw6yMlveGV_0PsVwoUXjEra4AFm5ywASw=s88-c-k-c0xffffffff-no-rj-mo" alt="Deutsch Persisch TV" width="25"/> **Deutsch Persisch TV** <a href="https://www.youtube.com/channel/UCsVi4oXN98rMc4vmxRu61JA">:link:</a> (67500 عضو)
+
+    آموزش زبان آلمانی به فارسی از مبتدی تا پیشرفته  با روش آسان A1 bis C1
+* <img src="https://yt3.ggpht.com/a/AATXAJzHQ0_1ZTJ4j8gTb2AgzoUefRkUZRcvUyKl0ROCmA=s88-c-k-c0xffffffff-no-rj-mo" alt="FaraDars — فرادرس" width="25"/> **FaraDars — فرادرس** <a href="https://www.youtube.com/channel/UCyCTTHN1XuPCzAbB9dLikhw">:link:</a> (37900 عضو)
+
+    فرادرس، بزرگ‌ترین پروژه آموزش آنلاین ایران است.
 ## آموزش زبان
 * <img src="https://yt3.ggpht.com/a/AATXAJzl2NFB61fIGwJiB9XJ32xEameivJoZgo_R7tu2=s88-c-k-c0xffffffff-no-rj-mo" alt="Learn With Babak" width="25"/> **Learn With Babak** <a href="https://www.youtube.com/channel/UCCQfEp0QPDdeeN_uS2udc1Q">:link:</a> (29000 عضو)
 
@@ -49,10 +56,6 @@
 * <img src="https://yt3.ggpht.com/a/AATXAJw7QLfN1Z2Y7dqEnU4QlNG6GgotHZR4eaQHawQ-Tg=s88-c-k-c0xffffffff-no-rj-mo" alt="Abolfazl Khadem" width="25"/> **Abolfazl Khadem** <a href="https://www.youtube.com/channel/UCz5rd9KctnDjWl7yQcAfsng">:link:</a> (219 عضو)
 
     Hey everyone, I'm Abolfazl Khadem. I'm your assisting coach helping you score higher on the IELTS test. Who's the head coach? YOU. 
-## آموزشی
-* <img src="https://yt3.ggpht.com/a/AATXAJzHQ0_1ZTJ4j8gTb2AgzoUefRkUZRcvUyKl0ROCmA=s88-c-k-c0xffffffff-no-rj-mo" alt="FaraDars — فرادرس" width="25"/> **FaraDars — فرادرس** <a href="https://www.youtube.com/channel/UCyCTTHN1XuPCzAbB9dLikhw">:link:</a> (37900 عضو)
-
-    فرادرس، بزرگ‌ترین پروژه آموزش آنلاین ایران است.
 ## ولاگ
 * <img src="https://yt3.ggpht.com/a/AATXAJyLJLRU8nuW1B85R3sVxQw1Z4h2WHz-hUk8kB1Q=s88-c-k-c0xffffffff-no-rj-mo" alt="SkillVid" width="25"/> **SkillVid** <a href="https://www.youtube.com/channel/UC9aYF7SavRo_A9psgpEmw0A">:link:</a> (21600 عضو)
 
