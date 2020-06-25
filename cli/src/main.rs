@@ -199,7 +199,7 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
                 .sort_by(|a, b| b.subscriber_count.cmp(&a.subscriber_count));
             for ch in &channels.channels {
                 list += &format!(
-                    "<tr><td style=\"text-align: center; padding: 5px;\">\
+                    "<tr><td style=\"text-align: center; padding: 5px; vertical-align: top;\">\
 <img src=\"{}\" alt=\"{}\"/><br/><span title=\"تعداد اعضا\">:thumbsup:<span> {}<br/>\
 <span title=\"تعداد ویدیو\">:arrow_forward:<span> {}<br/>\
 <span title=\"آخرین فعالیت\">:{}:<span> {}</td>\
