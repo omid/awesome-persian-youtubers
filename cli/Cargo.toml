@@ -12,6 +12,8 @@ serde = "1.0"
 serde_derive = "1.0"
 dotenv = "0.15"
 chrono = { version = "0.4", features = ["serde"] }
+persian = "0.1"
+ptime = "0.1"
 
 [profile.release.build-override]
 opt-level = 0

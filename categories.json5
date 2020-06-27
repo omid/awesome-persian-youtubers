@@ -54,6 +54,10 @@ Categories MUST be general enough. For example, "Music" is acceptable, but "Rock
     title: "ورزش",
   },
   {
+    id: "music",
+    title: "موسیقی",
+  },
+  {
     id: "misc",
     title: "متفرقه",
   },

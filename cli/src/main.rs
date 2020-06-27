@@ -1,4 +1,6 @@
-use chrono::{DateTime, Duration, Utc};
+use chrono::{DateTime, Datelike, Duration, Utc};
+use persian::english_to_persian_digits;
+use ptime::from_gregorian_date;
 use serde_derive::Deserialize;
 use std::collections::HashMap;
 use std::fs::File;
@@ -198,6 +200,13 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
                 .channels
                 .sort_by(|a, b| b.subscriber_count.cmp(&a.subscriber_count));
             for ch in &channels.channels {
+                let p_date = from_gregorian_date(
+                    ch.updated_at.date().year(),
+                    ch.updated_at.date().month() as i32 - 1,
+                    ch.updated_at.date().day() as i32,
+                )
+                .unwrap();
+
                 list += &format!(
                     "<tr><td style=\"text-align: center; padding: 5px; vertical-align: top;\">\
 <img src=\"{}\" alt=\"{}\"/><br/><span title=\"تعداد اعضا\">:thumbsup:<span> {}<br/>\
@@ -206,10 +215,10 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
 <td style=\"vertical-align: top; padding: 5px;\"><a href=\"{}\">:link: <b>{}</b></a><br/>{}</td></tr>",
                     ch.thumbnail,
                     ch.title,
-                    ch.subscriber_count,
-                    ch.video_count,
+                    english_to_persian_digits(&ch.subscriber_count.to_string()),
+                    english_to_persian_digits(&ch.video_count.to_string()),
                     if ch.updated_at.gt(&Utc::now().checked_sub_signed(Duration::days(6*30)).unwrap()) { "blush" } else { "unamused" },
-                    ch.updated_at.date().format("%Y-%m-%d"),
+                    english_to_persian_digits(&p_date.to_string("yyyy/MM/dd")),
                     ch.link,
                     ch.title,
                     ch.description.trim(),
@@ -219,8 +228,6 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
             list += "</tbody></table>\n\n";
         }
     }
-
-    // return Ok(());
 
     let mut readme = read_readme_template();
     readme = readme.replace("{TOC}", &toc);
