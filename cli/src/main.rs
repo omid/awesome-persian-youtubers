@@ -1,3 +1,4 @@
+use crate::youtube::Request;
 use chrono::{DateTime, Datelike, Duration, Utc};
 use persian::english_to_persian_digits;
 use ptime::from_gregorian_date;
@@ -5,6 +6,8 @@ use serde_derive::Deserialize;
 use std::collections::HashMap;
 use std::fs::File;
 use std::io::Read;
+
+mod youtube;
 
 #[derive(Deserialize, Debug)]
 struct Category {
@@ -14,84 +17,33 @@ struct Category {
     total_subscribers: i32,
 }
 
-#[derive(Deserialize, Debug)]
+#[derive(Debug, Eq, Ord, PartialEq, PartialOrd, Deserialize)]
 struct Channel {
     id: String,
     name: String,
     category: String,
+    #[serde(default)]
+    title: String,
+    #[serde(default)]
+    description: String,
+    #[serde(default)]
+    thumbnail: String,
+    #[serde(default)]
+    link: String,
+    #[serde(default)]
+    subscriber_count: i32,
+    #[serde(default)]
+    video_count: i32,
+    #[serde(default)]
+    created_at: Option<DateTime<Utc>>,
+    #[serde(default)]
+    updated_at: Option<DateTime<Utc>>,
 }
 
 #[derive(Debug)]
 struct CategoryListItem {
-    channels: Vec<YoutubeChannel>,
+    channels: Vec<Channel>,
     total_subscribers: i32,
-}
-
-// Structs from youtube
-#[derive(Debug, Eq, Ord, PartialEq, PartialOrd)]
-struct YoutubeChannel {
-    id: String,
-    title: String,
-    description: String,
-    thumbnail: String,
-    link: String,
-    subscriber_count: i32,
-    video_count: i32,
-    created_at: DateTime<Utc>,
-    updated_at: DateTime<Utc>,
-}
-
-#[derive(Deserialize, Debug)]
-struct YoutubeResponse<T> {
-    items: Vec<T>,
-}
-
-#[derive(Deserialize, Debug)]
-struct YoutubeChannelResponseItem {
-    id: String,
-    snippet: YoutubeChannelResponseItemSnippet,
-    statistics: YoutubeChannelResponseItemStatistics,
-}
-
-#[derive(Deserialize, Debug)]
-struct YoutubeChannelResponseItemSnippet {
-    title: String,
-    description: String,
-    thumbnails: YoutubeChannelResponseItemThumbnail,
-    #[serde(rename = "publishedAt")]
-    published_at: DateTime<Utc>,
-}
-
-#[derive(Deserialize, Debug)]
-struct YoutubeChannelResponseItemThumbnail {
-    default: YoutubeChannelResponseItemThumbnailItem,
-}
-
-#[derive(Deserialize, Debug)]
-struct YoutubeChannelResponseItemThumbnailItem {
-    url: String,
-}
-
-#[derive(Deserialize, Debug)]
-struct YoutubeChannelResponseItemStatistics {
-    #[serde(rename = "subscriberCount")]
-    subscriber_count: String,
-    #[serde(rename = "videoCount")]
-    video_count: String,
-    #[serde(rename = "viewCount")]
-    view_count: String,
-}
-
-#[derive(Deserialize, Debug)]
-struct YoutubeActivitiesResponseItem {
-    id: String,
-    snippet: YoutubeActivitiesResponseItemSnippet,
-}
-
-#[derive(Deserialize, Debug)]
-struct YoutubeActivitiesResponseItemSnippet {
-    #[serde(rename = "publishedAt")]
-    published_at: DateTime<Utc>,
 }
 
 #[tokio::main]
@@ -101,20 +53,12 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
     let mut categories = read_categories();
     let channels = read_channels();
 
-    let url_prefix = "https://www.googleapis.com/youtube/v3";
     let key = std::env::var("API_KEY").expect("API_KEY env var is not defined");
     let mut category_list: HashMap<String, CategoryListItem> = HashMap::new();
 
-    for ch in channels {
-        let url = format!(
-            "{}/channels?part=snippet,statistics&id={}&key={}",
-            url_prefix, ch.id, key
-        );
-
-        let youtube_channel_res: YoutubeResponse<YoutubeChannelResponseItem> = reqwest::get(&url)
-            .await?
-            .json::<YoutubeResponse<YoutubeChannelResponseItem>>()
-            .await?;
+    for mut ch in channels {
+        let req = Request::new(&ch.id, &key);
+        let youtube_channel_res = req.get_channel().await;
 
         if youtube_channel_res.items.len() == 0 {
             continue;
@@ -131,16 +75,7 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
             continue;
         }
 
-        let url = format!(
-            "{}/activities?part=snippet&channelId={}&maxResults=1&key={}",
-            url_prefix, ch.id, key
-        );
-
-        let youtube_activity_res: YoutubeResponse<YoutubeActivitiesResponseItem> =
-            reqwest::get(&url)
-                .await?
-                .json::<YoutubeResponse<YoutubeActivitiesResponseItem>>()
-                .await?;
+        let youtube_activity_res = req.get_activities().await;
 
         if youtube_activity_res.items.len() == 0 {
             continue;
@@ -148,27 +83,24 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
 
         let activity_snippet = &youtube_activity_res.items[0].snippet;
 
-        let youtube_channel = YoutubeChannel {
-            id: ch.id.clone(),
-            title: channel_snippet.title.clone(),
-            description: channel_snippet.description.clone(),
-            thumbnail: channel_snippet.thumbnails.default.url.clone(),
-            link: format!("https://www.youtube.com/channel/{}", ch.id),
-            subscriber_count,
-            video_count,
-            created_at: channel_snippet.published_at,
-            updated_at: activity_snippet.published_at,
-        };
+        ch.title = channel_snippet.title.clone();
+        ch.description = channel_snippet.description.clone();
+        ch.thumbnail = channel_snippet.thumbnails.default.url.clone();
+        ch.link = format!("https://www.youtube.com/channel/{}", ch.id);
+        ch.subscriber_count = subscriber_count;
+        ch.video_count = video_count;
+        ch.created_at = Some(channel_snippet.published_at);
+        ch.updated_at = Some(activity_snippet.published_at);
 
         if category_list.contains_key(&ch.category) {
             let item = category_list.get_mut(&ch.category).unwrap();
-            item.total_subscribers += youtube_channel.subscriber_count.clone();
-            item.channels.push(youtube_channel);
+            item.total_subscribers += ch.subscriber_count.clone();
+            item.channels.push(ch);
         } else {
             category_list.insert(
-                ch.category,
+                ch.category.clone(),
                 CategoryListItem {
-                    channels: vec![youtube_channel],
+                    channels: vec![ch],
                     total_subscribers: subscriber_count,
                 },
             );
@@ -201,9 +133,9 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
                 .sort_by(|a, b| b.subscriber_count.cmp(&a.subscriber_count));
             for ch in &channels.channels {
                 let p_date = from_gregorian_date(
-                    ch.updated_at.date().year(),
-                    ch.updated_at.date().month() as i32 - 1,
-                    ch.updated_at.date().day() as i32,
+                    ch.updated_at.unwrap().date().year(),
+                    ch.updated_at.unwrap().date().month() as i32 - 1,
+                    ch.updated_at.unwrap().date().day() as i32,
                 )
                 .unwrap();
 
@@ -217,7 +149,7 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
                     ch.title,
                     english_to_persian_digits(&ch.subscriber_count.to_string()),
                     english_to_persian_digits(&ch.video_count.to_string()),
-                    if ch.updated_at.gt(&Utc::now().checked_sub_signed(Duration::days(6*30)).unwrap()) { "blush" } else { "unamused" },
+                    if ch.updated_at.unwrap().gt(&Utc::now().checked_sub_signed(Duration::days(6*30)).unwrap()) { "blush" } else { "unamused" },
                     english_to_persian_digits(&p_date.to_string("yyyy/MM/dd")),
                     ch.link,
                     ch.title,
