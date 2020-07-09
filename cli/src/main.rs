@@ -2,11 +2,13 @@ use crate::youtube::Request;
 use chrono::{DateTime, Datelike, Duration, Utc};
 use persian::english_to_persian_digits;
 use ptime::from_gregorian_date;
+use serde::de;
 use serde_derive::Deserialize;
 use std::collections::HashMap;
-use std::fs::File;
-use std::io::Read;
+use tokio::fs;
 
+#[cfg(test)]
+mod tests;
 mod youtube;
 
 #[derive(Deserialize, Debug)]
@@ -50,8 +52,8 @@ struct CategoryListItem {
 async fn main() -> Result<(), Box<dyn std::error::Error>> {
     dotenv::dotenv().ok();
 
-    let mut categories = read_categories();
-    let channels = read_channels();
+    let mut categories: Vec<Category> = read_json_file("categories.json5").await?;
+    let channels: Vec<Channel> = read_json_file("channels.json5").await?;
 
     let key = std::env::var("API_KEY").expect("API_KEY env var is not defined");
     let mut category_list: HashMap<String, CategoryListItem> = HashMap::new();
@@ -60,7 +62,7 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
         let req = Request::new(&ch.id, &key);
         let youtube_channel_res = req.get_channel().await;
 
-        if youtube_channel_res.items.len() == 0 {
+        if youtube_channel_res.items.is_empty() {
             continue;
         }
 
@@ -77,7 +79,7 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
 
         let youtube_activity_res = req.get_activities().await;
 
-        if youtube_activity_res.items.len() == 0 {
+        if youtube_activity_res.items.is_empty() {
             continue;
         }
 
@@ -94,7 +96,7 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
 
         if category_list.contains_key(&ch.category) {
             let item = category_list.get_mut(&ch.category).unwrap();
-            item.total_subscribers += ch.subscriber_count.clone();
+            item.total_subscribers += ch.subscriber_count;
             item.channels.push(ch);
         } else {
             category_list.insert(
@@ -161,7 +163,7 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
         }
     }
 
-    let mut readme = read_readme_template();
+    let mut readme = read_string_file("README.template").await?;
     readme = readme.replace("{TOC}", &toc);
     readme = readme.replace("{LIST}", &list);
 
@@ -169,28 +171,21 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
     Ok(())
 }
 
-fn read_readme_template() -> String {
-    let mut file = File::open("README.template").expect("Expect to see README.template here!");
-    let mut buffer = String::new();
-    file.read_to_string(&mut buffer)
-        .expect("Cannot read README.template contents");
-    buffer
+async fn read_string_file(file_name: &str) -> Result<String, String> {
+    fs::read_to_string(file_name)
+        .await
+        .map_err(|e| format!("Read {} failed error messsage {}", file_name, e))
 }
 
-fn read_categories() -> Vec<Category> {
-    let mut file = File::open("categories.json5").expect("Expect to see categories.json5 here!");
-    let mut buffer = String::new();
-    file.read_to_string(&mut buffer)
-        .expect("Cannot read categories.json5 contents");
-
-    json5::from_str(&buffer).expect("Content of categories.json5 is not a valid json5")
-}
-
-fn read_channels() -> Vec<Channel> {
-    let mut file = File::open("channels.json5").expect("Expect to see channels.json5 here!");
-    let mut buffer = String::new();
-    file.read_to_string(&mut buffer)
-        .expect("Cannot read channels.json5 contents");
-
-    json5::from_str(&buffer).expect("Content of channels.json5 is not a valid json5")
+async fn read_json_file<'a, T>(file_name: &str) -> Result<T, String>
+where
+    T: de::Deserialize<'a>,
+{
+    let content = read_string_file(file_name).await?;
+    json5::from_str::<T>(Box::leak(Box::new(content))).map_err(|e| {
+        format!(
+            "convert json file {} failed error messsage {}",
+            file_name, e
+        )
+    })
 }
