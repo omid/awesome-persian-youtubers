@@ -1,5 +1,4 @@
-
-use crate::{read_string_file, read_json_file, Channel};
+use crate::{read_json_file, read_string_file, Channel};
 use tokio::fs;
 
 #[tokio::test]

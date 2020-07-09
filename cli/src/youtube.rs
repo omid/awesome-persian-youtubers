@@ -78,24 +78,42 @@ impl<'a> Request<'a> {
         }
     }
 
-    pub async fn get_channel(&self) -> Response<ChannelResponseItem> {
+    pub async fn get_channel(&self) -> Result<Response<ChannelResponseItem>, String> {
         self.get(ChannelRequest)
-            .await
+            .await?
             .json::<Response<ChannelResponseItem>>()
             .await
-            .unwrap()
+            .map_err(|e| {
+                format!(
+                    "Youtube response is not valid for \"{}\" with \"{}\" error.",
+                    ChannelRequest.get_url(self),
+                    e
+                )
+            })
     }
 
-    pub async fn get_activities(&self) -> Response<ActivitiesResponseItem> {
+    pub async fn get_activities(&self) -> Result<Response<ActivitiesResponseItem>, String> {
         self.get(ActivitiesRequest)
-            .await
+            .await?
             .json::<Response<ActivitiesResponseItem>>()
             .await
-            .unwrap()
+            .map_err(|e| {
+                format!(
+                    "Youtube response is not valid for \"{}\" with \"{}\" error.",
+                    ActivitiesRequest.get_url(self),
+                    e
+                )
+            })
     }
 
-    async fn get(&self, request: impl RequestTrait) -> reqwest::Response {
-        reqwest::get(&request.get_url(self)).await.unwrap()
+    async fn get(&self, request: impl RequestTrait) -> Result<reqwest::Response, String> {
+        reqwest::get(&request.get_url(self)).await.map_err(|e| {
+            format!(
+                "Youtube response is not valid for \"{}\" with \"{}\" error.",
+                request.get_url(self),
+                e,
+            )
+        })
     }
 }
 
