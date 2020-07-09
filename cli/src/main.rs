@@ -60,7 +60,13 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
 
     for mut ch in channels {
         let req = Request::new(&ch.id, &key);
-        let youtube_channel_res = req.get_channel().await;
+        let youtube_channel_res = match req.get_channel().await {
+            Ok(r) => r,
+            Err(e) => {
+                eprintln!("{}", e);
+                continue;
+            }
+        };
 
         if youtube_channel_res.items.is_empty() {
             continue;
@@ -77,7 +83,13 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
             continue;
         }
 
-        let youtube_activity_res = req.get_activities().await;
+        let youtube_activity_res = match req.get_activities().await {
+            Ok(r) => r,
+            Err(e) => {
+                eprintln!("{}", e);
+                continue;
+            }
+        };
 
         if youtube_activity_res.items.is_empty() {
             continue;
@@ -174,7 +186,7 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
 async fn read_string_file(file_name: &str) -> Result<String, String> {
     fs::read_to_string(file_name)
         .await
-        .map_err(|e| format!("Read {} failed error messsage {}", file_name, e))
+        .map_err(|e| format!("Read \"{}\" failed with \"{}\" error.", file_name, e))
 }
 
 async fn read_json_file<'a, T>(file_name: &str) -> Result<T, String>
@@ -184,7 +196,7 @@ where
     let content = read_string_file(file_name).await?;
     json5::from_str::<T>(Box::leak(Box::new(content))).map_err(|e| {
         format!(
-            "convert json file {} failed error messsage {}",
+            "Convert json file \"{}\" failed with \"{}\" error.",
             file_name, e
         )
     })
