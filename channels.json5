@@ -79,11 +79,11 @@ Add another row at the end of the list, similar to the following object
     "name": "SoftwareTalks",
     "category": "programming",
   },
-  {
-    "id": "UCyCTTHN1XuPCzAbB9dLikhw",
-    "name": "FaraDars — فرادرس",
-    "category": "learning",
-  },
+//  {  // Youtube: This account has been terminated because we received multiple third-party claims of copyright infringement regarding material the user posted.
+//    "id": "UCyCTTHN1XuPCzAbB9dLikhw",
+//    "name": "FaraDars — فرادرس",
+//    "category": "learning",
+//  },
   {
     "id": "UC0zTl0iFLUxrJ_hafwdnLsw",
     "name": "ahmad tahani",
@@ -388,5 +388,20 @@ Add another row at the end of the list, similar to the following object
     "id": "UChLs096B3kOpLYhVK1ldSvg",
     "name": "Khosousi",
     "category": "music",
+  },
+  {
+    "id": "UCw1NhBzoRNvb7gnLWxNqoIQ",
+    "name": "Yaser Zhian",
+    "category": "programming",
+  },
+  {
+    "id": "UCYzkK_bvLoTKmN1WIhOj_zQ",
+    "name": "بشنووباورکن",
+    "category": "misc",
+  },
+  {
+    "id": "UCzN0k-uatGbvpzyAUfxLgBw",
+    "name": "Farzad Bayan",
+    "category": "misc",
   },
 ]
