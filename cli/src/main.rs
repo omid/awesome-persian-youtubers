@@ -177,12 +177,12 @@ async fn read_string_file(file_name: &str) -> Result<String, String> {
         .map_err(|e| format!("Read {} failed error messsage {}", file_name, e))
 }
 
-async fn read_json_file<'a, T>(file_name: &str) -> Result<T, String>
+async fn read_json_file<T>(file_name: &str) -> Result<T, String>
 where
-    T: de::Deserialize<'a>,
+    T: de::DeserializeOwned,
 {
     let content = read_string_file(file_name).await?;
-    json5::from_str::<T>(Box::leak(Box::new(content))).map_err(|e| {
+    json5::from_str::<T>(&*content).map_err(|e| {
         format!(
             "convert json file {} failed error messsage {}",
             file_name, e
