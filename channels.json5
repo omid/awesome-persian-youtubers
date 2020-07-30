@@ -12,12 +12,12 @@ Add another row at the end of the list, similar to the following object
   {
     "id": "UCagCnbyplNpFlIg3WqCf0bQ",
     "name": "amirhosseinab",
-    "category": "programming",
+    "category": "computer",
   },
   {
     "id": "UC06FQRG-LX4Y1DeS08oGWbw",
     "name": "محمّدرضا علی حسینی",
-    "category": "programming",
+    "category": "computer",
   },
   {
     "id": "UC9aYF7SavRo_A9psgpEmw0A",
@@ -27,12 +27,12 @@ Add another row at the end of the list, similar to the following object
   {
     "id": "UCkuHzng-3im8CtounzRO-GQ",
     "name": "Alireza Ayinmehr",
-    "category": "programming",
+    "category": "computer",
   },
   {
     "id": "UCbDzaRXf6kr9VFaTDA_twRw",
     "name": "Coding Dojo - باشگاه کدزنی",
-    "category": "programming",
+    "category": "computer",
   },
   {
     "id": "UC06PtN6hXEGN3AXYcG8jQUw",
@@ -57,27 +57,27 @@ Add another row at the end of the list, similar to the following object
   {
     "id": "UCAzoPZezvbQ8J2SqW1NByPg",
     "name": "Geek Burger Show",
-    "category": "programming",
+    "category": "computer",
   },
   {
     "id": "UC7vYWtZShDLheammtHJpOLw",
     "name": "Sahar TheTallWitch",
-    "category": "programming",
+    "category": "computer",
   },
   {
     "id": "UCmRdgrhxeOztHfTdXXKKvHg",
     "name": "Royal Codes",
-    "category": "programming",
+    "category": "computer",
   },
   {
     "id": "UCV-q5eC0hjN10KiCYRnVjnw",
     "name": "Farid Ahmadian",
-    "category": "programming",
+    "category": "computer",
   },
   {
     "id": "UCm4xezzuIlcEBFQwkAzm0CQ",
     "name": "SoftwareTalks",
-    "category": "programming",
+    "category": "computer",
   },
 //  {  // Youtube: This account has been terminated because we received multiple third-party claims of copyright infringement regarding material the user posted.
 //    "id": "UCyCTTHN1XuPCzAbB9dLikhw",
@@ -87,27 +87,27 @@ Add another row at the end of the list, similar to the following object
   {
     "id": "UC0zTl0iFLUxrJ_hafwdnLsw",
     "name": "ahmad tahani",
-    "category": "programming",
+    "category": "computer",
   },
   {
     "id": "UCYUilKxAgwih1ih4Dj8k_WQ",
     "name": "Sajjad Heydari",
-    "category": "programming",
+    "category": "computer",
   },
   {
     "id": "UCdtGLDEOsnWlW1IsQFbCAsA",
     "name": "Forud Ghafouri",
-    "category": "programming",
+    "category": "computer",
   },
   {
     "id": "UCwc1RZzEeELwPel5HFlKpzw",
     "name": "Ramin Zare",
-    "category": "programming",
+    "category": "computer",
   },
   {
     "id": "UCriDa1A8msrOTmfIFNFOhzA",
     "name": "Abbas Yazdanpanah",
-    "category": "programming",
+    "category": "computer",
   },
   {
     "id": "UCAhExxi6ABgTxP_JcE8Cq4w",
@@ -117,12 +117,12 @@ Add another row at the end of the list, similar to the following object
   {
     "id": "UCeTVcxtWMetcodC7Y6HdLjg",
     "name": "yazdkit یزدکیت",
-    "category": "programming",
+    "category": "computer",
   },
   {
     "id": "UCABVLZ3YJ4MLFpvrO_wqDuA",
     "name": "Mostafa Shalchi",
-    "category": "language",
+    "category": "learning",
   },
   {
     "id": "UCLKv-TQUDn_4Lz0VdxWSPLQ",
@@ -137,12 +137,12 @@ Add another row at the end of the list, similar to the following object
   {
     "id": "UC67Fo8C3orrbokwF0CkVCDw",
     "name": "Mehdi Allahyari",
-    "category": "programming",
+    "category": "computer",
   },
   {
     "id": "UCBM3dVa1OK3Mv2Mp2kbzdtA",
     "name": "irlogcat",
-    "category": "programming",
+    "category": "computer",
   },
   {
     "id": "UCi_E-xnlfj3UYQZNUxSoS3g",
@@ -177,7 +177,7 @@ Add another row at the end of the list, similar to the following object
   {
     "id": "UCKSIjrrKLYi9N7cqREeENlw",
     "name": "Silicium",
-    "category": "programming",
+    "category": "computer",
   },
   {
     "id": "UC134y8iVcSgvt0Qe4WDuinQ",
@@ -192,17 +192,17 @@ Add another row at the end of the list, similar to the following object
   {
     "id": "UCxo6YXU563OFTePEGFviq9w",
     "name": "Fatemeh Mk",
-    "category": "programming",
+    "category": "computer",
   },
   {
     "id": "UCz5rd9KctnDjWl7yQcAfsng",
     "name": "Abolfazl Khadem",
-    "category": "language",
+    "category": "learning",
   },
   {
     "id": "UCCQfEp0QPDdeeN_uS2udc1Q",
     "name": "Learn With Babak",
-    "category": "language",
+    "category": "learning",
   },
   {
     "id": "UCqu8mtd9NBjgSaHUtHjRiLw",
@@ -212,7 +212,7 @@ Add another row at the end of the list, similar to the following object
   {
     "id": "UCZFPhD0VwLY4lHrtqiKTqtg",
     "name": "AlmaniBeFarsi Ashkan",
-    "category": "language",
+    "category": "learning",
   },
   {
     "id": "UC9y4OkZWR4rILRk7Kp3qEeg",
@@ -237,7 +237,7 @@ Add another row at the end of the list, similar to the following object
   {
     "id": "UCHXFMqf_vM498zUYGIbyElg",
     "name": "آموزش ترکی استانبولی با صبا",
-    "category": "language",
+    "category": "learning",
   },
   {
     "id": "UCD_13oc95PQEtvAvzQVUaLA",
@@ -277,7 +277,7 @@ Add another row at the end of the list, similar to the following object
   {
     "id": "UClomSLRfvKQtV1npg-YOWjQ",
     "name": "Technolotin",
-    "category": "programming",
+    "category": "computer",
   },
   {
     "id": "UCLXTPsfdA3fPUxj5SN1wlAA",
@@ -307,42 +307,42 @@ Add another row at the end of the list, similar to the following object
   {
     "id": "UCVC0JIvpY1BZ1PBzzZFk63w",
     "name": "Sallar Builds",
-    "category": "programming",
+    "category": "computer",
   },
   {
     "id": "UCsOZYyH_nhPJG5aC5P4fdxg",
     "name": "Farzad Nazifi",
-    "category": "programming",
+    "category": "computer",
   },
   {
     "id": "UCNJavFPJ16jeMP3zeviAJbQ",
     "name": "Seyed Naser Razavi",
-    "category": "programming",
+    "category": "computer",
   },
   {
     "id": "UCSecvuDZyO7cQh-C5AXUMQg",
     "name": "Ali Molaei",
-    "category": "learning",
+    "category": "computer",
   },
   {
     "id": "UCbUzynAcuG-JZYE7oI-B2NA",
     "name": "Amirahmad Adibi",
-    "category": "programming",
+    "category": "computer",
   },
   {
     "id": "UCks1-Od_hDk1mvpd8Ku_VQA",
     "name": "Siavash Mahmoudian",
-    "category": "programming",
+    "category": "computer",
   },
   {
     "id": "UCDVwCl1aKmLQQT1DS8IGDUw",
     "name": "Hamoon Mohammadian Pour",
-    "category": "programming",
+    "category": "computer",
   },
   {
     "id": "UCJKqjAlXrjlWPxY99mkNO0A",
     "name": "Payam Saderi",
-    "category": "programming",
+    "category": "computer",
   },
   {
     "id": "UCng61h_6CH2FHu9VSsSP1Uw",
@@ -352,32 +352,32 @@ Add another row at the end of the list, similar to the following object
   {
     "id": "UCdGv2Y_kH7CJJSotJEE4yTA",
     "name": "Maysam Rasheidi",
-    "category": "programming",
+    "category": "computer",
   },
   {
     "id": "UC6KguAaJYvYQXckq3f3jx0w",
     "name": "Sameer Rahmani",
-    "category": "programming",
+    "category": "computer",
   },
   {
     "id": "UCwkksy1YmPCEMUsEyzHn_Vg",
     "name": "Let's Make",
-    "category": "programming",
+    "category": "computer",
   },
   {
     "id": "UCnttDmeNZW53QgrsEN977yw",
     "name": "Masood Sadri",
-    "category": "programming",
+    "category": "computer",
   },
   {
     "id": "UCjOugvWkm7_xZ5nbf9mv0RQ",
     "name": "soroosh sarabadani",
-    "category": "programming",
+    "category": "computer",
   },
   {
     "id": "UCW0ojdh94N5-bFiidIepdDg",
     "name": "Parsclick",
-    "category": "programming",
+    "category": "computer",
   },
   {
     "id": "UCIJv7yd0QoyhCPpWzRXY1cQ",
@@ -392,7 +392,7 @@ Add another row at the end of the list, similar to the following object
   {
     "id": "UCw1NhBzoRNvb7gnLWxNqoIQ",
     "name": "Yaser Zhian",
-    "category": "programming",
+    "category": "computer",
   },
   {
     "id": "UCYzkK_bvLoTKmN1WIhOj_zQ",
