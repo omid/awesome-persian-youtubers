@@ -5,7 +5,7 @@ authors = ["Omid Rad <omidmr@gmail.com>"]
 edition = "2018"
 
 [dependencies]
-json5 = "0.2"
+json5 = "0.3"
 reqwest = { version = "0.10", features = ["json"] }
 tokio = { version = "0.2", features = ["full"] }
 serde = "1.0"
