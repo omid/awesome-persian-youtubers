@@ -1,7 +1,7 @@
 build: test
 	@echo -e '\e[1;31mBuilding...\e[0m'
 	@cd cli && \
-		cargo build --release && \
+		docker run --rm -v $$(pwd):/apy rust sh -c "cd apy && cargo build --release" && \
 		cp ./target/release/awesome-persian-youtubers ..
 
 test:
