@@ -22,10 +22,6 @@ Categories MUST be general enough. For example, "Music" is acceptable, but "Rock
     title: "علمی",
   },
   {
-    id: "automotive",
-    title: "خودرو",
-  },
-  {
     id: "vlog",
     title: "ولاگ",
   },
@@ -40,18 +36,6 @@ Categories MUST be general enough. For example, "Music" is acceptable, but "Rock
   {
     id: "graphic",
     title: "عکاسی و گرافیک",
-  },
-  {
-    id: "gaming",
-    title: "بازی",
-  },
-  {
-    id: "sport",
-    title: "ورزش",
-  },
-  {
-    id: "music",
-    title: "موسیقی",
   },
   {
     id: "misc",
