@@ -59,22 +59,22 @@ trait RequestTrait {
 }
 
 #[derive(Deserialize, Debug)]
-pub struct Request<'a> {
-    url_prefix: &'a str,
-    id: &'a str,
-    key: &'a str,
+pub struct Request {
+    url_prefix: String,
+    id: String,
+    key: String,
 }
 
 struct ChannelRequest;
 
 struct ActivitiesRequest;
 
-impl<'a> Request<'a> {
-    pub fn new(id: &'a str, key: &'a str) -> Self {
+impl Request {
+    pub fn new(id: &str, key: &str) -> Self {
         Self {
-            url_prefix: "https://www.googleapis.com/youtube/v3",
-            id,
-            key,
+            url_prefix: "https://www.googleapis.com/youtube/v3".to_string(),
+            id: id.to_string(),
+            key: key.to_string(),
         }
     }
 

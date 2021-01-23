@@ -79,7 +79,7 @@ Add another row at the end of the list, similar to the following object
     "name": "SoftwareTalks",
     "category": "computer",
   },
-//  {  // Youtube: This account has been terminated because we received multiple third-party claims of copyright infringement regarding material the user posted.
+//  {  // terminated
 //    "id": "UCyCTTHN1XuPCzAbB9dLikhw",
 //    "name": "FaraDars — فرادرس",
 //    "category": "learning",
@@ -299,11 +299,11 @@ Add another row at the end of the list, similar to the following object
     "name": "Language with Kahi",
     "category": "learning",
   },
-  {
-    "id": "UCJ3QUKcd9yOhiJzZBR2zT3Q",
-    "name": "7play.studio",
-    "category": "learning",
-  },
+//  { // terminated
+//    "id": "UCJ3QUKcd9yOhiJzZBR2zT3Q",
+//    "name": "7play.studio",
+//    "category": "learning",
+//  },
   {
     "id": "UCVC0JIvpY1BZ1PBzzZFk63w",
     "name": "Sallar Builds",
@@ -487,6 +487,31 @@ Add another row at the end of the list, similar to the following object
   {
     "id": "UCGx-2J-IijmymYC2Ol8eW0w",
     "name": "Mazin World",
+    "category": "misc",
+  },
+  {
+    "id": "UChJDoitU8BCdhxeAeFOQIHg",
+    "name": "Ziya Sadr",
+    "category": "learning",
+  },
+  {
+    "id": "UChaCOJzXdcxxt6cpQRnVeqg",
+    "name": "Farshad Nematdoust",
+    "category": "computer",
+  },
+  {
+    "id": "UCSbD8DbA2gkoDn1u_yLZS7w",
+    "name": "Cryptokoosh",
+    "category": "technology",
+  },
+  {
+    "id": "UC9YPp2Gpeu_nDnuWiygvXxg",
+    "name": "Abed Naseri",
+    "category": "vlog",
+  },
+  {
+    "id": "UCiUJolxFti9kAlkh24EefEA",
+    "name": "Nasser Ghanemzadeh",
     "category": "misc",
   },
 ]

@@ -11,10 +11,7 @@ test:
 
 check:
 	@cd cli && cargo +nightly fmt
-	@cd cli && cargo clippy --all -- -D clippy::all
+	@cd cli && cargo clippy --all -- -D clippy::all -A clippy::field-reassign-with-default
 	@cd cli && cargo +nightly udeps --all-targets
 	@cd cli && cargo outdated -wR
 	@cd cli && cargo update --dry-run
-
-check_nightly: check
-	@cd cli && cargo +nightly clippy --all -- -D clippy::all
