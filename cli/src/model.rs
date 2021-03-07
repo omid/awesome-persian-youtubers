@@ -1,6 +1,6 @@
 use crate::youtube::{ChannelResponseItem, Response};
 use chrono::{DateTime, Utc};
-use serde_derive::Deserialize;
+use serde_derive::{Deserialize, Serialize};
 use std::convert::TryFrom;
 
 #[derive(Deserialize, Debug, Default)]
@@ -11,7 +11,7 @@ pub struct Category {
     pub total_subscribers: i32,
 }
 
-#[derive(Debug, Eq, Ord, PartialEq, PartialOrd, Deserialize, Clone, Default)]
+#[derive(Debug, Eq, Ord, PartialEq, PartialOrd, Deserialize, Serialize, Clone, Default)]
 #[serde(default)]
 pub struct Channel {
     pub id: String,

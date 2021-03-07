@@ -19,9 +19,9 @@ jobs:
         API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
       run: |
         chmod a+x awesome-persian-youtubers
-        ./awesome-persian-youtubers > README.md
+        ./awesome-persian-youtubers -r README.md -j export/list.json -y export/list.yaml
     - name: Commit the changes
       uses: stefanzweifel/git-auto-commit-action@v4
       with:
-        commit_message: Update README.md
-        file_pattern: README.md
+        commit_message: Update README.md and the lists
+        file_pattern: README.md export/*

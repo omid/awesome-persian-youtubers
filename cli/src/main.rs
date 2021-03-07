@@ -3,8 +3,22 @@ use chrono::{Datelike, Duration, Utc};
 use persian::english_to_persian_digits;
 use ptime::from_gregorian_date;
 use serde::de;
-use std::{collections::HashMap, convert::TryInto};
+use std::{collections::HashMap, convert::TryInto, fs::File, io::Write, path::PathBuf};
+use structopt::StructOpt;
 use tokio::fs;
+
+#[derive(StructOpt, Debug)]
+#[structopt(name = "basic")]
+struct Opt {
+    #[structopt(short, long, parse(from_os_str))]
+    readme: PathBuf,
+
+    #[structopt(short, long, parse(from_os_str))]
+    json: PathBuf,
+
+    #[structopt(short, long, parse(from_os_str))]
+    yaml: PathBuf,
+}
 
 #[macro_use]
 mod macros;
@@ -16,6 +30,7 @@ mod youtube;
 #[tokio::main]
 async fn main() -> Result<(), Box<dyn std::error::Error>> {
     dotenv::dotenv().ok();
+    let opt = Opt::from_args();
 
     let mut categories: Vec<Category> = read_json_file("categories.json5").await?;
     let raw_channels: Vec<Channel> = read_json_file("channels.json5").await?;
@@ -67,7 +82,23 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
     }
     categories.sort_by(|a, b| b.total_subscribers.cmp(&a.total_subscribers));
 
-    println!("{}", generate_readme(&categories, &mut category_list).await);
+    let readme_content = generate_readme(&categories, &mut category_list).await;
+    let mut file = File::create(opt.readme)?;
+    file.write_all(readme_content.as_bytes())?;
+
+    let category_list = category_list
+        .iter()
+        .flat_map(|(_, value)| value.channels.clone())
+        .collect::<Vec<_>>();
+
+    let json_content = serde_json::to_string(&category_list).unwrap();
+    let mut file = File::create(opt.json)?;
+    file.write_all(json_content.as_bytes())?;
+
+    let yaml_content = serde_yaml::to_string(&category_list).unwrap();
+    let mut file = File::create(opt.yaml)?;
+    file.write_all(yaml_content.as_bytes())?;
+
     Ok(())
 }
 
