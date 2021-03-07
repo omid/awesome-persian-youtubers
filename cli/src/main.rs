@@ -30,7 +30,7 @@ mod youtube;
 #[tokio::main]
 async fn main() -> Result<(), Box<dyn std::error::Error>> {
     dotenv::dotenv().ok();
-    let opt = Opt::from_args();
+    let opt: Opt = Opt::from_args();
 
     let mut categories: Vec<Category> = read_json_file("categories.json5").await?;
     let raw_channels: Vec<Channel> = read_json_file("channels.json5").await?;
