@@ -514,4 +514,39 @@ Add another row at the end of the list, similar to the following object
     "name": "Nasser Ghanemzadeh",
     "category": "misc",
   },
+  {
+    "id": "UC9L_sf_AUqBuJi1cgCUC1Rw",
+    "name": "Hadi Moshayedi",
+    "category": "computer",
+  },
+  {
+    "id": "UC8q-CCyGP20I78UQFCovDCw",
+    "name": "Dev Quest",
+    "category": "computer",
+  },
+  {
+    "id": "UCvRY5AQuQy91hUhpRbJayvg",
+    "name": "Bazikhar Videocast",
+    "category": "misc",
+  },
+  {
+    "id": "UCIXThmX_uAp2cJTR-hTjdcA",
+    "name": "Rust in Farsi ツ",
+    "category": "computer",
+  },
+  {
+    "id": "UC6qiCkKqaipJmS73UK1xHYw",
+    "name": "Saeed Shahrivari",
+    "category": "computer",
+  },
+  {
+    "id": "UC0IBNJgLL5zUHXUxazRSMZA",
+    "name": "Ashpazi Ba Sana",
+    "category": "misc",
+  },
+  {
+    "id": "UCfTPRHu_t3OcSOCMR7mGV0A",
+    "name": "Ehsan",
+    "category": "computer",
+  },
 ]
