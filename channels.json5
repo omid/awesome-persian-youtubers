@@ -554,4 +554,9 @@ Add another row at the end of the list, similar to the following object
     "name": "sameet",
     "category": "computer",
   },
+   {
+    "id": "UCrBcbQWcD0ortWqHAlP94ug",
+    "name": "آموزش ساده و کاربردی هوش مصنوعی",
+    "category": "computer",
+  },
 ]
