@@ -3,12 +3,6 @@
 <p align="center">
   <img width="600" src="./assets/banner.svg" alt="لیست یوتیوبرهای فارسی زبان">
 </p>
-  
-<p align="center">
-  <img alt="Star" src="https://persian-badge.vercel.app/api/github/stars/omid/awesome-persian-youtubers?style=plastic">
-  <img alt="Contributors" src="https://persian-badge.vercel.app/api/github/contributors/omid/awesome-persian-youtubers?style=plastic">
-</p>
-  
 <br/><br/><br/><br/>
 
 - [ولاگ](#ولاگ)
