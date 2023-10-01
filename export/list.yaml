@@ -1,114 +1,59 @@
 ---
-- id: UCqu8mtd9NBjgSaHUtHjRiLw
-  name: Chef Javad Javadi
-  category: cooking
-  title: Chef Javad Javadi
-  description: "سلام دوستان \nFor any cooperation email us on \n👇🏾👇🏾👇🏾👇🏾👇🏾👇🏾👇🏾👇🏾👇🏾👇🏾\nJavadianahita60@gmail.com \n\n🇦🇺🇦🇺🇦🇺🇦🇺🇦🇺🇦🇺🇦🇺🇦🇺🇦🇺🇦🇺🇦🇺🇦🇺🇦🇺🇦🇺🇦🇺🇦🇺🇦🇺🇦🇺\nدوستان عزیز از کپی کردن فیلم ها و آپلود دوباره آن در یوتیوب خودداری کنید \nدر این صورت در یوتیوب از شما حتما شکایت می‌شود چون بنده اجازه \nکپی کردن را به هیچ کسی ندادم \nرفیق همیشگی \nجوادجوادی\nحتما ما رو در اینستاگرام فالو کنید\n🌭🍗🌭🥖🥕🥑🍍🥨🥓🍔🌮🥙🍕🥗🥝🥒🍠\n\n"
-  thumbnail: "https://yt3.ggpht.com/glaAgbF1eps6-6MEgz7xmAbFpJ2ofplGgaBXJFhDzijvwKdVlSDyzCArLOk6cN4lSkuiAO-vdg=s88-c-k-c0x00ffffff-no-rj"
-  link: "https://www.youtube.com/channel/UCqu8mtd9NBjgSaHUtHjRiLw"
-  subscriber_count: 273000
-  video_count: 1122
-  created_at: "2016-06-27T09:33:55Z"
-  updated_at: "2023-09-20T11:44:27Z"
-- id: UCAhExxi6ABgTxP_JcE8Cq4w
-  name: Khalil Oghab cooking آشپزی خلیل عقاب
-  category: cooking
-  title: Khalil Oghab cooking آشپزی خلیل عقاب
-  description: کانال آشپزی خلیل و شهرزاد
-  thumbnail: "https://yt3.ggpht.com/ytc/AOPolaQSqAvWKZFyT4vyTgUEyIXNCF-vRn5ra8Tke6Ar0A=s88-c-k-c0x00ffffff-no-rj"
-  link: "https://www.youtube.com/channel/UCAhExxi6ABgTxP_JcE8Cq4w"
-  subscriber_count: 4670
-  video_count: 163
-  created_at: "2014-08-01T04:18:53Z"
-  updated_at: "2023-01-03T20:59:26Z"
-- id: UCi_E-xnlfj3UYQZNUxSoS3g
-  name: جنگولک بازیهای من My dodgings
-  category: cooking
-  title: shirazian khaligar خوالیگر شیرازی
-  description: I am made of the art of cooking and the pleasure of eating
-  thumbnail: "https://yt3.ggpht.com/cs-sBMs6avnvE9m7WpMpjxzSuI_QBVBtWfVn8K5fVWIAPklvTRwsThj-1FoPQwB0r5qdczBz=s88-c-k-c0x00ffffff-no-rj"
-  link: "https://www.youtube.com/channel/UCi_E-xnlfj3UYQZNUxSoS3g"
-  subscriber_count: 697
-  video_count: 61
-  created_at: "2011-07-04T11:45:49Z"
-  updated_at: "2023-09-21T20:51:28Z"
-- id: UCVgdGai2DOWaY2JCiyj7fGg
-  name: Ashna Group
-  category: cooking
-  title: Ashna Group
-  description: "ٱموزش رایگان شیرینی و کیک\nFREE Training for Iranian Pastry"
-  thumbnail: "https://yt3.ggpht.com/ytc/AOPolaTiv3dFKpzbFUGVuRUgNk2zNiSKw2GOKzdKuTFK=s88-c-k-c0x00ffffff-no-rj"
-  link: "https://www.youtube.com/channel/UCVgdGai2DOWaY2JCiyj7fGg"
-  subscriber_count: 577
-  video_count: 33
-  created_at: "2017-07-06T23:54:14Z"
-  updated_at: "2022-09-28T20:55:32Z"
-- id: UCTz1gQUaMXe_73vYNLFCDAw
-  name: Cafe Matbakh
-  category: cooking
-  title: Global Food Quest
-  description: "Global Food Quest\nهر هفته آموزش پخت یک غذا"
-  thumbnail: "https://yt3.ggpht.com/kyRj1uVy9qqDX1aYssr3yWTkuyGQpyW744jGeZYi06vfoeQltcRewimm0cnBy_KaYsj10rZaRg=s88-c-k-c0x00ffffff-no-rj"
-  link: "https://www.youtube.com/channel/UCTz1gQUaMXe_73vYNLFCDAw"
-  subscriber_count: 97
-  video_count: 9
-  created_at: "2020-02-01T18:03:43.736Z"
-  updated_at: "2023-07-16T16:52:14Z"
 - id: UC9aYF7SavRo_A9psgpEmw0A
   name: SkillVid
   category: vlog
   title: SkillVid
   description: "امیرعباسم، طراح و توسعه دهنده وب، مترجم و مدرس\nسال‌هاست که سعی می‌کنم یه شیوه‌‌های مختلف،‌ دانسته‌هایم را با دیگران به اشتراک بگذارم ولی هیچ کدام از فعالیت‌های آموزشی قبلی من به شیرینی تولید ویدیو و آپلود آنها به یوتوب نبوده است. \n\nیوتوب به من کمک کرده که بتوانم هر آنچه میدانم را با دیگران به اشتراک بگذارم و این ارتباط با مخاطب در این پلتفرم کاملا دوطرفه و تعاملی است. از آنجاییکه همیشه دوست داشتم با بالاترین کیفیت ممکن،‌ محتوای آموزشی ‌تولید کنم،‌ به همین خاطر دقیقا همین رویه را در پیش گرفتم و سعی می‌کنم محتوایی که تولید می‌کنم از هر لحاظ با کیفیت باشد. امیدوارم با این ویدیو‌ها بتوانم اندکی به علاقه‌مندان حوزه های تولید محتوای ویدیوی و ادیت فیلم،‌ کمک کنم.\n\nدوستان ایمیل درج شده تنها برای تماس گرفتن جهت همکاری، تبلیغات  و اسپانسر شیپ است\nتبلیغات تنها برای شرکت ها و محصولات انجام می‌شود. از تبلیغ سرویس های دارای دامنه آی آر معذورم\namirabbas.abdolali در gmail دات com\n"
-  thumbnail: "https://yt3.ggpht.com/ytc/AOPolaT9hyN6EI7dvt0chJY-EXge7C5yFli17AxfSmv7vQ=s88-c-k-c0x00ffffff-no-rj"
+  thumbnail: "https://yt3.ggpht.com/ytc/APkrFKYrZNyJsYtlCk8zcMRnvjNT0QpxeolZk5aq0MpeSg=s88-c-k-c0x00ffffff-no-rj"
   link: "https://www.youtube.com/channel/UC9aYF7SavRo_A9psgpEmw0A"
-  subscriber_count: 147000
-  video_count: 305
+  subscriber_count: 148000
+  video_count: 306
   created_at: "2008-06-15T18:46:57Z"
-  updated_at: "2023-09-20T16:01:14Z"
+  updated_at: "2023-09-25T16:04:05Z"
 - id: UC9YPp2Gpeu_nDnuWiygvXxg
   name: Abed Naseri
   category: vlog
   title: Abed Naseri
   description: "خوش اومدی به کانال خودت! من عابد هستم، بیشتر ولاگ میسازم ولی همه نوع ویدیوی هم میسازم از ویدیوهای سفر گرفته تا آشپزی تا تعمیر ماشین و و و\n \nخلاصه هرچیزی رو خودم ازش لذت ببرم سعی میکنم در قالب ویدیو هم به شما ارائه بدم.\n\nانگشت مبارکت رو بذار روی دکمه ی سابسکرایب و به جمع ما بپیوند 🌹\n\nhttps://mohajet.com/impressum/\n"
-  thumbnail: "https://yt3.ggpht.com/ytc/AOPolaR4eA7Bzu3jDYh1Oh-uwEkD1320SPxkuwaN8v326Q=s88-c-k-c0x00ffffff-no-rj"
+  thumbnail: "https://yt3.ggpht.com/ytc/APkrFKakfwuiNqfZ5oaHPE3vDu97YbGr38soK_MzDHuB8g=s88-c-k-c0x00ffffff-no-rj"
   link: "https://www.youtube.com/channel/UC9YPp2Gpeu_nDnuWiygvXxg"
-  subscriber_count: 140000
-  video_count: 404
+  subscriber_count: 141000
+  video_count: 406
   created_at: "2015-03-05T12:01:51Z"
-  updated_at: "2023-09-21T17:39:35Z"
+  updated_at: "2023-09-30T17:26:08Z"
 - id: UCgKePkWtPuF36bJy0n2cEMQ
   name: Jadi Mirmirani
   category: vlog
   title: Jadi Mirmirani
   description: جادی هستم. یه برنامه نویس قدیمی، علاقمند لینوکس، مدیر سیستم، هکر و علاقمند امنیت بخصوص رمزنگاری و مهندسی معکوس و اهل دوچرخه و کتاب‌های باحال و خوشگذرونی و زندگی. اینجا بخشی از زندگیم رو به اشتراک می‌ذارم و چیزهایی که بلدم رو سعی می‌کنم یاد بدم و تا با هم بیشتر خوش بگذرونیم.
-  thumbnail: "https://yt3.ggpht.com/ytc/AOPolaSwFbQ2XvZSCXNmXp6iJd2emc1CYgkLShYyh1J0Mr8=s88-c-k-c0x00ffffff-no-rj"
+  thumbnail: "https://yt3.ggpht.com/ytc/APkrFKa1Z0ADt52P14-y6LjYKcUb7I8deNo5rsXd9_c6GyQ=s88-c-k-c0x00ffffff-no-rj"
   link: "https://www.youtube.com/channel/UCgKePkWtPuF36bJy0n2cEMQ"
-  subscriber_count: 53800
-  video_count: 591
+  subscriber_count: 54100
+  video_count: 592
   created_at: "2009-02-13T15:59:50Z"
-  updated_at: "2023-09-23T15:03:43Z"
+  updated_at: "2023-09-25T11:56:06Z"
 - id: UC8wmt6CzAKgD2j0vmFo8omw
   name: Family Abedi
   category: vlog
   title: Family Abedi
   description: "ما خانواده عابدی هستیم و در هانوفر آلمان زندگی میکنیم. شغل آزاد داریم و عاشق کارآفرینی، بیزینس و خلق کارهای جدید هستیم. دو تا مرغ داریم و دو تا خرگوش. عاشق سفریم. با ماشین دو بار از آلمان رفتیم ایران.\nدر این کانال می خوایم حس ها و تجربیات خوبمون رو بهمراه اطلاعات مفید و بدردبخور دیگه، با شما نیز به اشتراک بذاریم.\nبرای آشنایی بیشتر با ما به صفحه اینستاگراممون هم سر بزنید."
-  thumbnail: "https://yt3.ggpht.com/ytc/AOPolaQKmGeYeTOSBHRj2Rt-7Bmn_PSgaD5o77GBkkHG=s88-c-k-c0x00ffffff-no-rj"
+  thumbnail: "https://yt3.ggpht.com/ytc/APkrFKZNj53pBQNGyME8dd1-0fdggDM51XmqRi6MlzWd=s88-c-k-c0x00ffffff-no-rj"
   link: "https://www.youtube.com/channel/UC8wmt6CzAKgD2j0vmFo8omw"
-  subscriber_count: 27700
-  video_count: 393
+  subscriber_count: 27800
+  video_count: 394
   created_at: "2019-12-01T04:28:26.761419Z"
-  updated_at: "2023-09-22T16:12:22Z"
+  updated_at: "2023-09-29T16:37:35Z"
 - id: UCfHSZBC-aw_dEZK6LVDGCFA
   name: WeebHead
   category: vlog
   title: WeebHead
   description: "اولین و بزرگترین یوتیوبر انیمه ای فارسی زبان\nهادی هستم, ویبهد, و عمده فعالیت من در مورد انیمه و صنعت ژاپن هستش.\nدر این چنل شما بررسی و معرفی انیمه, چالش انیمه ای, معرفی مانگا, تحلیل قسمت به قسمت مخصوصا سری هایی مثل شینگکی نو کیوجین یا همان اتک تایتان یا اتک آن تایتان می بینید. جدای اون هم بخشی مخصوص گیمینگ هستش که البته بیشتر فعالیت در این حوزه در توییچ هست که لینکش رو دارید همینجا.\nو طبیعتا گهگاهی هم محتوای بی ربط به انیمه داریم.\nخوش آمدید عزیزان"
-  thumbnail: "https://yt3.ggpht.com/ytc/AOPolaQN0xCTF5BJ-_79hUS_nMOv1xmr0wffWy88fxj_=s88-c-k-c0x00ffffff-no-rj"
+  thumbnail: "https://yt3.ggpht.com/ytc/APkrFKZ2x1K74UPBg7O8PrOJ4Dhf4OVkV6IlcywXsAj0=s88-c-k-c0x00ffffff-no-rj"
   link: "https://www.youtube.com/channel/UCfHSZBC-aw_dEZK6LVDGCFA"
-  subscriber_count: 17600
-  video_count: 748
+  subscriber_count: 17700
+  video_count: 753
   created_at: "2020-02-09T19:46:27.689142Z"
-  updated_at: "2023-09-23T15:12:59Z"
+  updated_at: "2023-09-30T13:32:03Z"
 - id: UCLXTPsfdA3fPUxj5SN1wlAA
   name: Amin Sani
   category: vlog
@@ -116,18 +61,18 @@
   description: "من مهندس آی تی هستم و در کشورهای سوئد و نروژ کار می کنم\nراجع به کار و زندگی ولاگ درست می کنم و سعی می کنم چیزهای رو بگم که به درد بقیه بخوره\nپس اون دکمه سابسکرایب رو بزن\n\nI use Tubebuddy: https://www.tubebuddy.com/aminsani\n"
   thumbnail: "https://yt3.ggpht.com/Hiz8XVq6HIpye8MbBHmuIdbPdbonwrmtbMreyGlWZqgPcYn7VMKOW0_3nvTBGGV3HPvSS7Mj=s88-c-k-c0x00ffffff-no-rj"
   link: "https://www.youtube.com/channel/UCLXTPsfdA3fPUxj5SN1wlAA"
-  subscriber_count: 5980
-  video_count: 152
+  subscriber_count: 6010
+  video_count: 161
   created_at: "2009-08-11T19:10:49Z"
-  updated_at: "2023-09-22T15:59:24Z"
+  updated_at: "2023-09-29T15:03:19Z"
 - id: UCng61h_6CH2FHu9VSsSP1Uw
   name: Aidinism
   category: vlog
   title: Aidinism
   description: مستند های آموزشی، علمی، فلسفی و تجربه های سفر به نقاط مختلف دنیا
-  thumbnail: "https://yt3.ggpht.com/ytc/AOPolaTSWLiZpDX5IWMeP7ccRH8L7soBHJ8I0RZDFlOOKA=s88-c-k-c0x00ffffff-no-rj"
+  thumbnail: "https://yt3.ggpht.com/ytc/APkrFKZCty4ULbSVkID2fXeoMK7VCsIPh6W2joqqPV5vxg=s88-c-k-c0x00ffffff-no-rj"
   link: "https://www.youtube.com/channel/UCng61h_6CH2FHu9VSsSP1Uw"
-  subscriber_count: 5710
+  subscriber_count: 5730
   video_count: 130
   created_at: "2007-12-12T01:03:12Z"
   updated_at: "2023-09-23T09:48:44Z"
@@ -136,7 +81,7 @@
   category: vlog
   title: Pelak Media - پلاک مدیا
   description: پلاک مدیا یک ولاگ است. ولاگ چیست؟ همان ویدیو بلاگ است که به صورت روزمره رکورد و ادیت می‌شود. ما در پلاک مدیا به سراغ مکان‌ها و چالش‌های مختلف رفته و از آنها ویدیو تهیه می‌کنیم و با شما به اشتراک می‌گذاریم.
-  thumbnail: "https://yt3.ggpht.com/ytc/AOPolaQg5wbboA2XZjHQN05HBSqGzVprwpUwif8KnM6z=s88-c-k-c0x00ffffff-no-rj"
+  thumbnail: "https://yt3.ggpht.com/ytc/APkrFKYo39qAsBg20PPJzb1XvZoJOWW6Mpzsj4wrFAaQ=s88-c-k-c0x00ffffff-no-rj"
   link: "https://www.youtube.com/channel/UCGJQpeq3nqL0mQ75OJdusBA"
   subscriber_count: 3090
   video_count: 25
@@ -147,7 +92,7 @@
   category: vlog
   title: Mohajergram
   description: "🙋🏻‍♀️Maryam | Product Manager @ Amazon\n🙋🏻‍♂️Behrad | SWE/ML @ Meta\n📍Bay Area, California\n🌿Opinions our own\n\n"
-  thumbnail: "https://yt3.ggpht.com/ytc/AOPolaTIoxJKqaqUmesw_FKmmxXqlG9Dvgji7BS-J8Ab=s88-c-k-c0x00ffffff-no-rj"
+  thumbnail: "https://yt3.ggpht.com/ytc/APkrFKbVJN3iqo1lNd6HO09e8uYC07Qc4MURqfLflKAH=s88-c-k-c0x00ffffff-no-rj"
   link: "https://www.youtube.com/channel/UCh5HOR2TB67hpdCYSCGHSlQ"
   subscriber_count: 1600
   video_count: 28
@@ -158,251 +103,31 @@
   category: vlog
   title: mahshine
   description: "سلام سلام\nمن مهتاب هستم، خواننده ی اپرا و ساکن برلین، تو این کانال ویدیوهای مختلفی میذارم، از شرایط زندگی تو آلمان و اطلاعات مختصر درباره ی زندگی دانشجویی \nگرفته تا سفر به شهرها و کشورهای مختلف و موسیقی و سازشناسی و اپرا و ...\nبرای همگی دنیایی پر از نور و رنگ و هنر و خلاقیت آرزو میکنم\n\n  راستی من یک کانال دیگه هم دارم که اونجا برای قسمتهایی از اپراهای معروف و مهم زیرنویس انگلیسی و فارسی میذارم و نقاشیهای هنرمندان بزرگ رو هم بهتون نشون میدم\nart'n'sub\nhttps://www.youtube.com/channel/UCL9HHdrKdU7pTPO7K3ZIahA\n"
-  thumbnail: "https://yt3.ggpht.com/ytc/AOPolaS_zReYwiNSUJmbuYLUR4d9I2lOdQDxy5Vj99xC=s88-c-k-c0x00ffffff-no-rj"
+  thumbnail: "https://yt3.ggpht.com/ytc/APkrFKZUd2xp_Y1CeZOZ7SFJv1yY7zIDOFMTU6xWjT9u=s88-c-k-c0x00ffffff-no-rj"
   link: "https://www.youtube.com/channel/UCbx8TwP1Jp3iJDTTvg_Q_iw"
-  subscriber_count: 1320
-  video_count: 91
+  subscriber_count: 1340
+  video_count: 92
   created_at: "2018-09-11T16:11:24Z"
-  updated_at: "2023-09-20T17:00:41Z"
+  updated_at: "2023-09-27T17:50:02Z"
 - id: UCb-YTqQrsOualjIk0dkyHmg
   name: Vahid Homatash
   category: vlog
   title: Vahid Homatash
   description: سلام. من وحید هماتاش هستم. در این کانال یوتیوبی ، از دیجیتال مارکتینگ صحبت میکنم، از کار و زندگی در کانادا و همچنین محلی برای نمایش یکسری از نمونه کارهام. خوشحال خواهم شد که با من همراه باشید
-  thumbnail: "https://yt3.ggpht.com/ytc/AOPolaTGYo_XnbucmZQaWjnn79F5WZZqjfQVfyAqEN1y3g=s88-c-k-c0x00ffffff-no-rj"
+  thumbnail: "https://yt3.ggpht.com/ytc/APkrFKYnuAMYwdrOojoINRSAoVxqd7Lp_8QKjeLgUmIGhQ=s88-c-k-c0x00ffffff-no-rj"
   link: "https://www.youtube.com/channel/UCb-YTqQrsOualjIk0dkyHmg"
   subscriber_count: 159
   video_count: 104
   created_at: "2015-04-18T16:07:03Z"
   updated_at: "2023-08-04T03:03:55Z"
-- id: UCIJv7yd0QoyhCPpWzRXY1cQ
-  name: Shirfahm
-  category: science
-  title: Shirfahm
-  description: "شیرفهم جواب‌هایی ساده برای سوالات سخت است.\nدرباره پرسش‌هایی که هر روز ذهن ما را مشغول می‌کنند و کلک‌هایی ساده که کیفیت زندگی شما را بهتر می‌کند \n\nشیرفهم توسط پادکست استرینگ‌کست تهیه و ساخته شده و چهارشنبه هر هفته منتشر می‌شود."
-  thumbnail: "https://yt3.ggpht.com/ytc/AOPolaQsi3o4AjZbBR4M-TwD6ha2YmV4EasbQx5Yjt81=s88-c-k-c0x00ffffff-no-rj"
-  link: "https://www.youtube.com/channel/UCIJv7yd0QoyhCPpWzRXY1cQ"
-  subscriber_count: 7340
-  video_count: 79
-  created_at: "2020-02-15T21:07:53.017735Z"
-  updated_at: "2023-07-13T13:58:53Z"
-- id: UCWKn1Xuyq2K27ZAewFHQMcA
-  name: Radio-Teb
-  category: science
-  title: Radio-Teb / رادیو طب
-  description: "🍏رادیو طب، مجموعه ایست برای آموزش مطالب پزشکی به زبان فارسی.\nدر این برنامه ها تلاش می کنیم اطلاعات کاربردی و دقیقی در فهم بیماری های مزمن و درمان آنها به شما ارائه کنیم و به این وسیله گامی کوچک در کاهش رنج بیماران و هزینه درمان بیماری ها و ارتقا سلامت جامعه برداریم.\n🔖مطالب این صفحه در دو دسته ی کلی آموزش برای بیماران📗، و بازآموزی برای درمانگران📕 ارائه خواهد شد. طبیعتا مطالب مربوط به بازآموزی تیم درمانی حاوی اصطلاحات تخصصی پزشکی خواهد بود و برای مطالعه ی تحصیل کردگان سایر رشته ها مناسب نیست.\nHttps://t.me/carecomplete"
-  thumbnail: "https://yt3.ggpht.com/ytc/AOPolaRf41Ykhgu5N-KVAPCgxc7AIbNyko6LVRKbUy_9=s88-c-k-c0x00ffffff-no-rj"
-  link: "https://www.youtube.com/channel/UCWKn1Xuyq2K27ZAewFHQMcA"
-  subscriber_count: 6600
-  video_count: 22
-  created_at: "2018-09-08T06:23:25Z"
-  updated_at: "2023-09-17T07:04:07Z"
-- id: UCrj-Vs-7sMK0U9PSr5TbrZQ
-  name: مختصر و مفید
-  category: science
-  title: مختصر و مفید
-  description: "موضوعات بسیاری در دنیا هست که دانستنش برای ما جالبه، ولی نه وقت ما اجازه می‌ده که همه‌ش رو خیلی عمیق پیگیری کنیم و نه حتی لزومی داره! من اردشیر طیبی هستم و در «مختصر و مفید» تلاش می‌کنم موضوعاتی از دل تاریخ، سیاست و علم رو به زبانی ساده و قابل هضم و البته در مدت زمانی کوتاه، برای شما توضیح بدم. با این تذکر که من کارشناس هیچ چیزی نیستم. صرفا کنج‌کاوم و مشتاق یادگیری.\n«مختصر و مفید» یک پادکست هم داره که می‌تونید اون رو در تمامی پلتفرم‌های پادکست پیدا کنید. از جمله در:\nکست‌باکس: ⁦http://‪bit.ly/2GED31C‬⁩ \n‏اپل پادکست: ⁦‪http://apple.co/2YlaUY7‬⁩ \n‏گوگل پادکست: ⁦‪http://bit.ly/2K84RgO‬⁩ \n\nهمچنین متن اغلب مطالبی که در «مختصر و مفید» می‌بینید و می‌شنوید رو می‌تونید در وبسایت من هم پیدا کنید:\nhttp://ardeshirtayebi.com"
-  thumbnail: "https://yt3.ggpht.com/ytc/AOPolaQyOfW3OCkT8PVVJJHgFYr4ZAImfnWj18ITtLA=s88-c-k-c0x00ffffff-no-rj"
-  link: "https://www.youtube.com/channel/UCrj-Vs-7sMK0U9PSr5TbrZQ"
-  subscriber_count: 4950
-  video_count: 26
-  created_at: "2020-02-28T16:00:56.731098Z"
-  updated_at: "2023-07-20T17:35:06Z"
-- id: UCzcG-EnZ_-G-hTs7zmh823w
-  name: Vidoal
-  category: science
-  title: Vidoal
-  description: We will transform the way you learn
-  thumbnail: "https://yt3.ggpht.com/ytc/AOPolaQL8JgksV9Umv6-szmuS3jox3oAPkTvl4GwR7I7=s88-c-k-c0x00ffffff-no-rj"
-  link: "https://www.youtube.com/channel/UCzcG-EnZ_-G-hTs7zmh823w"
-  subscriber_count: 4830
-  video_count: 205
-  created_at: "2015-10-07T15:29:49Z"
-  updated_at: "2018-09-29T14:27:08Z"
-- id: UC3KlSuynF3PZlDnI88pkT6g
-  name: EGO-persian
-  category: science
-  title: EGO-persian
-  description: "در کانال ایگو ما سعی میکنیم موضوعات روانشناسی رو با انیمیشن های کوتاه و بیانی ساده مطرح کنیم.\n\nویدئو های این کانال بیشتر از موضوعات خودشناسی, رابطه, اضطراب و استرس, مدیریت بحران های روحی وشخصیت شناسی حرف میزند و از آنجایی که همه ما نیاز به بهتر شدن داریم, قطعا این کانال برای شما مفید خواهد بود."
-  thumbnail: "https://yt3.ggpht.com/ytc/AOPolaTaNu64DcnJd2bjcTZxhOQ6ACjDCbS7zN_Dr6Tn=s88-c-k-c0x00ffffff-no-rj"
-  link: "https://www.youtube.com/channel/UC3KlSuynF3PZlDnI88pkT6g"
-  subscriber_count: 351
-  video_count: 10
-  created_at: "2020-04-07T10:54:10.049154Z"
-  updated_at: "2020-07-06T15:30:01Z"
-- id: UCzU0kDI19R6g8JecB3K5Pog
-  name: Toraj Show
-  category: technology
-  title: Toraj Show
-  description: "چالشهای باحال خفن با تورج و ماریا .\nچنل های دیگمون رو فراموش نکنید.\n.\n.\n جهت همکاری ، اسپانسرینگ و تبلیغات با ایمیل زیر درتماس باشید.\nfor advertisment , sponsering and collaboration reach for this email\nadmin@torajshow.com\n"
-  thumbnail: "https://yt3.ggpht.com/ytc/AOPolaT1n-6tDjIHTIZIkuLgW8yzmZYoD1ALU3Yh5ZwHMw=s88-c-k-c0x00ffffff-no-rj"
-  link: "https://www.youtube.com/channel/UCzU0kDI19R6g8JecB3K5Pog"
-  subscriber_count: 69600
-  video_count: 685
-  created_at: "2017-07-11T15:01:08Z"
-  updated_at: "2023-09-23T16:30:11Z"
-- id: UCNqT8Qk747G4alIBzPgRQiw
-  name: Binosha - بینوشا
-  category: technology
-  title: Binosha - بینوشا
-  description: "تو بینوشا ما از تکنولوژی میگیم از لپ‌تاپ و موبایل تا هوش مصنوعی و فناوری‌های جدید اگه به این چیزها علاقه داری سابسکرایب کردن بینوشا فراموشت نشه 😍❤️\n\nایمیل ما برای تماس: info@binosha.com"
-  thumbnail: "https://yt3.ggpht.com/ytc/AOPolaQtzhzv7gk2bqDxMmqdBl_vWZEFjwePikvx4sEK=s88-c-k-c0x00ffffff-no-rj"
-  link: "https://www.youtube.com/channel/UCNqT8Qk747G4alIBzPgRQiw"
-  subscriber_count: 26400
-  video_count: 564
-  created_at: "2018-07-07T16:52:21Z"
-  updated_at: "2023-09-21T15:59:39Z"
-- id: UCD_13oc95PQEtvAvzQVUaLA
-  name: SampoyTech
-  category: technology
-  title: SampoyTech
-  description: "من سامان هستم \nاگه به اسمارت هوم و گجت‌های مختلف علاقه دارید می‌توانید کانال را دنبال کنید\nتوی این کانال دستگاه‌های خانه هوشمند و گجت‌های مختلف تکنولوژی را معرفی و بررسی می‌کنم\n\nfarsi persian \n"
-  thumbnail: "https://yt3.ggpht.com/6K2DGos7omojD8G3lj4WBBLwdzR3rCVsXyyWbbU1H1z3gaA0IL6r2YM_ZnSz39zacQA457ZgDro=s88-c-k-c0x00ffffff-no-rj"
-  link: "https://www.youtube.com/channel/UCD_13oc95PQEtvAvzQVUaLA"
-  subscriber_count: 13500
-  video_count: 233
-  created_at: "2020-03-13T17:26:14.735107Z"
-  updated_at: "2023-09-23T12:32:53Z"
-- id: UC5H38NMrMF1cOrKy_zOVGCg
-  name: Shahrouz Chorakchi
-  category: technology
-  title: Shahrouz Chorakchi
-  description: "➠Geek\n➠IT Specialist / Tech Journalist \n➠M.Sc. Informatics Student in Uni Hamburg  🇩🇪\n"
-  thumbnail: "https://yt3.ggpht.com/ytc/APkrFKalnSA7K3GN9gQnbV8AAdlUfibkp6IuaU1gEeRX=s88-c-k-c0x00ffffff-no-rj"
-  link: "https://www.youtube.com/channel/UC5H38NMrMF1cOrKy_zOVGCg"
-  subscriber_count: 10700
-  video_count: 251
-  created_at: "2015-10-12T08:56:42Z"
-  updated_at: "2023-09-23T21:11:42Z"
-- id: UCSbD8DbA2gkoDn1u_yLZS7w
-  name: Cryptokoosh
-  category: technology
-  title: Cryptokoosh
-  description: "اینجا کریپتوکوش هست و منم کوشانم، برنامه‌نویس و علاقه‌مند به رمزارز یا همون ارز دیجیتال که از علوم کامپیوتر شریف فارغ شدم\nبا دنبال کردن کانال من از اخبار داغ روزانه دنیای رمزارزها و جهان، آشنا میشین\nبا دنبال کردن کانال من یاد میگیرین چطور سرمایه‌گذاری خوبی داشته باشین\nبا دنبال کردن کانال من از تکنولوژی و مباحث فنی توی ارزهای دیجیتال مثل بیت کوین و بازار بورس و سرمایه آگاه میشین وهمینطور یاد میگیرینش\nبا دنبال کردن کانال من از بهترین فرصت‌های سرمایه‌ گذاری سال 2023 هم آگاه میشین\n کانال کریپتو کوش رو دنبال کنید\n"
-  thumbnail: "https://yt3.ggpht.com/ytc/AOPolaQJ1JLlGkU9CIzLvSPrGU8TZs0iiq-DXNW6qwtO=s88-c-k-c0x00ffffff-no-rj"
-  link: "https://www.youtube.com/channel/UCSbD8DbA2gkoDn1u_yLZS7w"
-  subscriber_count: 6610
-  video_count: 168
-  created_at: "2020-02-17T22:00:05.090403Z"
-  updated_at: "2023-07-17T19:55:36Z"
-- id: UCoS7gp1En5UUsCJ75R3LadA
-  name: Milad Ehrampoush
-  category: technology
-  title: Milad Ehrampoush
-  description: "در اینجا از علاقه‌مندی‌ها و تخصص‌هایم خواهم گفت، دنیای جذاب محتوا، روابط عمومی و تکنولوژی "
-  thumbnail: "https://yt3.ggpht.com/K93h77UDavBoGfnSBU3zo-fvfMPAA_TYCDtmY01QCrBkHFChiw93cpTQfNun-L9bRW2_b2aT7Q=s88-c-k-c0x00ffffff-no-rj"
-  link: "https://www.youtube.com/channel/UCoS7gp1En5UUsCJ75R3LadA"
-  subscriber_count: 5690
-  video_count: 118
-  created_at: "2009-04-15T20:53:11Z"
-  updated_at: "2023-08-27T11:30:43Z"
-- id: UCIOAToXqGOahdcukztzznFA
-  name: Baa Pooya
-  category: technology
-  title: BaaPooya
-  description: "من پویام و اینجا کانال باپویاست به کانال من خوش اومدید. توی این کانال سعی دارم هرهفته در مورد تکنولوژی های جالب با شما صحبت کنم.\nبرای شروع و چند هفته ی اول در مورد ماشین های تسلا صحبت خواهم کرد.\nاگر از محتوای این ویدیو خوشتون اومد حتما به این کانال سابسکرایب کنید."
-  thumbnail: "https://yt3.ggpht.com/ytc/AOPolaQnc0dYXEYGH69nYK4bgqRhcWlhzl2nRfaW3BN7=s88-c-k-c0x00ffffff-no-rj"
-  link: "https://www.youtube.com/channel/UCIOAToXqGOahdcukztzznFA"
-  subscriber_count: 1200
-  video_count: 19
-  created_at: "2020-04-17T17:13:06.131513Z"
-  updated_at: "2020-08-05T16:26:19Z"
-- id: UCsVi4oXN98rMc4vmxRu61JA
-  name: Deutsch Persisch TV
-  category: learning
-  title: Deutsch Persisch TV
-  description: "آموزش زبان آلمانی به فارسی از مبتدی تا پیشرفته  با روش آسان A1 bis C1\nنمونه سوالات امتحان های زبان آلمانی \nسوالات امتحان زندگی در آلمان \nسوالات جدید گواهینامه آلمانی \nآلمانی با احسان\nبرای حمایت مالی از کانال خودتان به لینک زیر مراجعه بفرمایید.\nhttps://paypal.me/DPTV1"
-  thumbnail: "https://yt3.ggpht.com/ytc/AOPolaR2vFZaVPkg-JkNP_nEA7atV-lZbcsCPTCVPFl6JA=s88-c-k-c0x00ffffff-no-rj"
-  link: "https://www.youtube.com/channel/UCsVi4oXN98rMc4vmxRu61JA"
-  subscriber_count: 127000
-  video_count: 1605
-  created_at: "2017-08-04T10:56:24Z"
-  updated_at: "2023-09-10T19:04:38Z"
-- id: UCCQfEp0QPDdeeN_uS2udc1Q
-  name: Learn With Babak
-  category: learning
-  title: Learn With Babak
-  description: "بابک هستم و در این کانال زبان های مختلف را آموزش میدهم. \nدر کنار آن سعی میکنم درباره علاقه مندی هایم در دنیای علم، دانش، تکنولوژی و هنر نیز صحبت کنم. \n\nامیدوارم ویدیوها مورد استفاده شما قرار گیرد و از تماشای آن ها لذت ببرید.\n"
-  thumbnail: "https://yt3.ggpht.com/B5doPjQ_P0wt9mtQ8fgku-sKWAGBo4xglkwPYreh1xATiw7QwYpanS-d30MlIpUlPyBGqnPUpFk=s88-c-k-c0x00ffffff-no-rj"
-  link: "https://www.youtube.com/channel/UCCQfEp0QPDdeeN_uS2udc1Q"
-  subscriber_count: 54200
-  video_count: 233
-  created_at: "2012-07-11T11:57:22Z"
-  updated_at: "2023-04-03T16:56:47Z"
-- id: UCiCLg475vLlYP2-u6etxZWQ
-  name: Language with Kahi
-  category: learning
-  title: norazaban
-  description: "آمــــــوزش زبان آلــمانى با نــــورا🇩🇪🇩🇪🇩🇪\nآمــوزش حرفه ای قواعد بصورت گام به گام\nپــــركاربردترين واژگان و اصطلاحات آلمانی"
-  thumbnail: "https://yt3.ggpht.com/p1xHyxyLsR4EEtGJqgYv7yxvY1iLUCHQPewj15Z1IAKOqDRieV8Q-KjQuJs3Y6yd3ja6byQA3Q=s88-c-k-c0x00ffffff-no-rj"
-  link: "https://www.youtube.com/channel/UCiCLg475vLlYP2-u6etxZWQ"
-  subscriber_count: 40200
-  video_count: 175
-  created_at: "2019-10-05T15:51:41Z"
-  updated_at: "2021-11-11T16:31:33Z"
-- id: UCABVLZ3YJ4MLFpvrO_wqDuA
-  name: Mostafa Shalchi
-  category: learning
-  title: "Mostafa Shalchi "
-  description: "سلام من مصطفی شالچی، معلم زبان فرانسه هستم و توی این کانال تمام تلاشم رو می‌کنم تا زبان فرانسه رو به بهترین شکل به شما یاد بدم. پس لطفا با من همراه باشید و فراموش نکنید که نظراتتون برای من خیلی مفیده\n#زبان_فرانسه \n"
-  thumbnail: "https://yt3.ggpht.com/JW01WgS3L-oaCF9JTv3lQoFSlvWSm_Cz5hFHxT-MQHyQ6V_WqG-mpah2l6z-SxfNYTiCd21uoA=s88-c-k-c0x00ffffff-no-rj"
-  link: "https://www.youtube.com/channel/UCABVLZ3YJ4MLFpvrO_wqDuA"
-  subscriber_count: 30800
-  video_count: 534
-  created_at: "2015-06-29T18:17:08Z"
-  updated_at: "2023-09-18T17:30:09Z"
-- id: UChJDoitU8BCdhxeAeFOQIHg
-  name: Ziya Sadr
-  category: learning
-  title: Ziya Sadr
-  description: "من ضیا صدر هستم. بیتکوینرم و در طی چند سال اخیر روی پدیده‌ی مالی غیرمتمرکز و جذابی به نام بیتکوین مطالعه کرده‌ام\nعمده فعالیت من در توییتر، وبسایت منابع فارسی بیتکوین، کانال تلگرام خودم و گروه تلگرامی سیمرغ و همچنین اخیرا این کانال یوتوب رو راه‌اندازی کردم و به آموزش‌ امنیت، حریم خصوصی، کیف‌پولها، ابزارها و نرم‌افزارهای بیتکوینی و همچنان اکوسیستم و مفاهیم بیتکوین\nمی‌پردازم\n\nلطفا کانال من را با دوستان و علاقه‌مندان به این موضوعات به اشتراک بگذارید\n"
-  thumbnail: "https://yt3.ggpht.com/nHKZQWp1TmQ9GKlCclkE_iuPRaZygK7Js3vtXpqutVDe54QGe-da899QG6lxsCAiWIUTsYGKbzg=s88-c-k-c0x00ffffff-no-rj"
-  link: "https://www.youtube.com/channel/UChJDoitU8BCdhxeAeFOQIHg"
-  subscriber_count: 6980
-  video_count: 177
-  created_at: "2020-10-26T14:26:44.737433Z"
-  updated_at: "2023-08-31T00:07:21Z"
-- id: UCm9Vl12BiP7ZovQY5m2CPqA
-  name: Almani ba Ehsan
-  category: learning
-  title: Mister Language
-  description: ""
-  thumbnail: "https://yt3.ggpht.com/ytc/AOPolaTOCTa6Gh8z9kcCru1cKkIL5oWkbC23dDDOE17t=s88-c-k-c0x00ffffff-no-rj"
-  link: "https://www.youtube.com/channel/UCm9Vl12BiP7ZovQY5m2CPqA"
-  subscriber_count: 6670
-  video_count: 17
-  created_at: "2020-03-02T23:38:16.569134Z"
-  updated_at: "2022-01-18T18:50:06Z"
-- id: UCz5rd9KctnDjWl7yQcAfsng
-  name: Abolfazl Khadem
-  category: learning
-  title: Abolfazl Khadem
-  description: "Hey everyone, I'm Abolfazl Khadem. I'm your assisting coach helping you score higher on the IELTS test. Who's the head coach? YOU. \n\nسلام. من ابوالفضل خادم هستم و می‌خوام به‌تون کمک کنم تا بتونین در آزمون آیلتس نمره‌ی خوبی بگیرین"
-  thumbnail: "https://yt3.ggpht.com/ytc/AOPolaQ4EHJOrFkH-kaRdRTN_LHWhz63ufU_rctdMVxxRQ=s88-c-k-c0x00ffffff-no-rj"
-  link: "https://www.youtube.com/channel/UCz5rd9KctnDjWl7yQcAfsng"
-  subscriber_count: 6120
-  video_count: 148
-  created_at: "2015-07-14T18:54:16Z"
-  updated_at: "2023-09-10T08:32:35Z"
-- id: UCHXFMqf_vM498zUYGIbyElg
-  name: آموزش ترکی استانبولی با صبا
-  category: learning
-  title: İşte Türkçe by Saba آموزش ترکی استانبولی با صبا
-  description: "سلام \nمن صبام و اینجام تا به شما ثابت کنم یادگیری ترکی استانبولی مثل آب خوردنه\n\nسعی میکنم توی هر ویدیو در کمتر از 11 دقیقه قواعد مهم و مثالهایی از زبان ترکی استانبولی بگم که هم برای شما مناسبه هم برای نوجوانان"
-  thumbnail: "https://yt3.ggpht.com/ytc/AOPolaSg-wzaX-VPSluRYkbAVe19HIhTAylOFlYUOXf7GA=s88-c-k-c0x00ffffff-no-rj"
-  link: "https://www.youtube.com/channel/UCHXFMqf_vM498zUYGIbyElg"
-  subscriber_count: 1400
-  video_count: 29
-  created_at: "2020-03-22T13:04:39.779865Z"
-  updated_at: "2022-10-16T18:40:15Z"
 - id: UCh5qhWefiliKnwIHg55ZbYw
   name: Radio Offside
   category: graphic
   title: MikaDart
   description: "تصویرسازی هم میتونه تفریح و سرگرمی باشه\nدرووووووووووود  ، میلاد  هستم،  از سال 90  فعالیتم رو در زمینه تصویر سازی در انجمن سینمای جوانان تهران  شروع کردم و  با ساخت فیلم کوتاه ، انیمیشن  استاپ موشن ، موزیک ویدیو و .... ادامه دادم \n اینجا میخاییم در کنار هم ،  سیر تا پیاز ساخت ویدیو و فیلم ، انیمیشن سازی ، کار با نرم افزارهای مختلف مثل افتر افکت و مورد  بررسی قرار بدیم  \nدر موردش بحث کنیم ، البته  این گوشه کنارا به موارد جانبی هم می پردازیم و خوش می گذرونیم.\nاگه مطالبی که تو کانال قرارداده میشه بهتون کمک میکنه تصاویر ، ویدیوها و فیلمهای بهتری بسازید ، به جمع ما بپیوندید و کانال رو سابسکرایب کنید 😉\nhttps://bit.ly/2KUWsh8\npersian ، farsi\n"
-  thumbnail: "https://yt3.ggpht.com/ytc/AOPolaRu4QiALqg7XGymf3-H6o_qH6ERVPkiHJHWP2GY=s88-c-k-c0x00ffffff-no-rj"
+  thumbnail: "https://yt3.ggpht.com/ytc/APkrFKY7ZojATP84htDbMwNRYjgT7MVkZFHeecblERuH=s88-c-k-c0x00ffffff-no-rj"
   link: "https://www.youtube.com/channel/UCh5qhWefiliKnwIHg55ZbYw"
-  subscriber_count: 17800
+  subscriber_count: 17900
   video_count: 321
   created_at: "2015-06-24T14:13:45Z"
   updated_at: "2023-08-30T16:05:30Z"
@@ -422,9 +147,9 @@
   category: graphic
   title: Mohammad Khalilbeigi
   description: "من محمد خلیل بیگی هستم.یک علاقه‌مند به دنیای عکاسی و البته تجهیزات عکاسی\nچند سال پیش سایت مستردوربین نقطه کام  رو راه‌اندازی کردم و سعی کردم روی سایت به پوشش خبرهای مربوطه بپردازم.اینجا با هم به بررسی و معرفی دوربین‌های عکاسی،تجهیزات جانبی،نرم‌افزارهای عکاسی و کلا چیزهایی که شاید در این حوزه برام جذاب باشه می‌پردازم\n\n\n"
-  thumbnail: "https://yt3.ggpht.com/ytc/AOPolaTaaqQgPJzyh22BZ9YCw146lLsoNKXnbxYwBRILRHk=s88-c-k-c0x00ffffff-no-rj"
+  thumbnail: "https://yt3.ggpht.com/ytc/APkrFKbOmT4GAQquzirUCvDUBUAybO4wHu9Xz3jovRg-bSc=s88-c-k-c0x00ffffff-no-rj"
   link: "https://www.youtube.com/channel/UC134y8iVcSgvt0Qe4WDuinQ"
-  subscriber_count: 1600
+  subscriber_count: 1610
   video_count: 105
   created_at: "2012-01-13T07:19:05Z"
   updated_at: "2022-03-16T07:37:44Z"
@@ -435,10 +160,10 @@
   description: "سلام من کیوان اسفندی هستم\nدر این کانال به زبان خیلی ساده با ترفند ها و نکاتی درباره محصولات اپل آشنا میشین و با تماشای ویدئو ها به مرور سرعت و کیفیت و حتی رنج کارهایی که با آیفون و آیپد و کامپیوتر مکتون انجام میدین افزایش پیدا میکنه.\nفراموش نکنید که در آموزش های پیچیده تر حتما به توضیحات ویدئو توجه کنید، تمام موارد تکمیلی در صورت نیاز در بخش توضیحات ویدئو اضافه میشود.\n\nMILESTONES:\nFirst Upload - 26 Aug 2018\n1K - 19 Sep 2019\n2K - 12 Feb 2020\n3K - 27 Apr 2020\n4K - 09 Jul 2020\n5K - 25 Sep 2020\n6K - 08 Oct 2020\n7K - 15 Nov 2020\n8K - 05 Feb 2021\n9K - 25 Apr 2021\n10K - 09 Jul 2021\n11K - 17 Sep 2021\n12K - 02 Oct 2021\n13K - 12 Nov 2021\n14K - 25 Dec 2021\n15K - 05 Feb 2022\n16K - 17 Mar 2022\n17K - 26 Apr 2022\n18K - 08 Jun 2022\n19K - 17 Jul 2022\n20K - 27 Aug 2022\n21K - 16 Sep 2022\n22K - 21 Oct 2022\n23K - 05 Dec 2022\n24K - 20 Jan 2023\n25K - 10 Mar 2023\nK1Tips  کیوان اسفندی"
   thumbnail: "https://yt3.ggpht.com/rEAZTS_eZJuVpftcHZx6u_9hX9WMDnsgkQpZeyViF2ZfZJKC9KkY9hM7nZbciLNO7GN7jOPcMg=s88-c-k-c0x00ffffff-no-rj"
   link: "https://www.youtube.com/channel/UC_tOsJgQZ-dEFw5DzhQ6xpw"
-  subscriber_count: 29000
-  video_count: 552
+  subscriber_count: 29100
+  video_count: 565
   created_at: "2018-07-22T09:50:50Z"
-  updated_at: "2023-09-23T16:30:03Z"
+  updated_at: "2023-09-30T15:35:57Z"
 - id: UCW0ojdh94N5-bFiidIepdDg
   name: Parsclick
   category: computer
@@ -457,7 +182,7 @@
   description: در این کانال مهارت‌های گوناگون مورد نیاز در حوزه هوش مصنوعی، یادگیری ماشین، شبکه‌های عصبی و یادگیری ژرف (یادگیری عمیق)، آموزش داده خواهد شد. از جمله مهم‌ترین این مهارت‌ها می‌توان به مهارت‌های برنامه‌نویسی در «پایتون»، آشنایی با مفاهیم مهم و الگوریتم‌های پرکاربرد یادگیری ماشین و یادگیری ژرف مانند شبکه‌های عصبی، شبکه‌های عصبی بازگشتی و شبکه‌های عصبی کانولوشن و به کارگیری این الگوریتم‌ها در عمل به منظور حل مسائل گوناگون دنیای واقعی اشاره نمود.
   thumbnail: "https://yt3.ggpht.com/nm2dzQ0I4Bh-PdTB6IDlBE-Si9vVYLnA_kzaqteV1iIY4mSiLBRb8hNu6TEZ37WM0WW7zknfzg=s88-c-k-c0x00ffffff-no-rj"
   link: "https://www.youtube.com/channel/UCNJavFPJ16jeMP3zeviAJbQ"
-  subscriber_count: 11700
+  subscriber_count: 11800
   video_count: 163
   created_at: "2013-06-07T12:30:21Z"
   updated_at: "2022-03-16T06:00:00Z"
@@ -468,7 +193,7 @@
   description: "Hi, I am Mehran Tarif, the senior full-stack developer.\nIn Silicium, I am teaching backend, frontend, DevOps, and Linux with more than 450 videos.\n\nLinks:\nhttps://mehran-tarif.com\nhttps://www.linkedin.com/in/mehran-tarif/\nhttps://youtube.com/silicium7\nhttps://twitter.com/mehran_tarif\nhttps://t.me/siliciumir\n"
   thumbnail: "https://yt3.ggpht.com/7QwULknzX2s0NMWpDKsrjTz9R0E9yBGi8kys7m5_vQkol1oGEUkgYzazU6orNh-RgqkpV7vn=s88-c-k-c0x00ffffff-no-rj"
   link: "https://www.youtube.com/channel/UCKSIjrrKLYi9N7cqREeENlw"
-  subscriber_count: 9080
+  subscriber_count: 9120
   video_count: 491
   created_at: "2019-09-15T05:47:16Z"
   updated_at: "2022-08-08T14:04:10Z"
@@ -479,7 +204,7 @@
   description: "سلام من امیراحمد ادیبی هستم \nچنل یوتوب خوب داشتن همیشه جز ارزوهام بوده و تا بتونم براش تلاش میکنم . \nاز سال 93 اموزش برنامه نویسی رو با اموزش برنامه نویسی اندروید شروع کردم . از اون موقع متوجه شدم که بچه ها خیلی اموزش هام رو دوست دارن و مثل اینکه اموزش هام خوبه . الان توی زرین پال محتوای اموزشی تولید میکنم و کلاس های خصوصی اموزش برنامه نویسی با بچه های خارج از شرکت دارم ."
   thumbnail: "https://yt3.ggpht.com/5PahkC5W8cWgM-gGKModCmQT6K-Rqo6GwkAXlPYtIk6ZoypRaH_CafMgQEfAOLjpBuKmOSYO=s88-c-k-c0x00ffffff-no-rj"
   link: "https://www.youtube.com/channel/UCbUzynAcuG-JZYE7oI-B2NA"
-  subscriber_count: 7880
+  subscriber_count: 7900
   video_count: 99
   created_at: "2014-03-23T15:03:47Z"
   updated_at: "2023-08-21T10:33:20Z"
@@ -510,9 +235,9 @@
   category: computer
   title: Geek Burger Show
   description: "سلام دوستان\nمن ناصر حاجلو هستم و از سال 1380 وارد حوزه آی‌تی شدم و بخصوص در ابتدای راه، به مشکلات زیادی خوردم و وقت و زمانم رو بخاطر نداشتن تجربه از دست دادم. \nحالا که تقریبا 20 سال هست که توی این حوزه توی شرکت‌های کوچک و بزرگ و در سمت‌های شغلی مختلف کار کردم و پائین و بالای این کار رو دیدم، تصمیم گرفتم این کانال رو تبدیل به جائی کنم که افرادی که تازه می‌خوان وارد این حوزه بشن اطلاعات مناسبی داشته باشن و با دید بهتری شغل خودشون رو انتخاب کنن. \nهمینطور افرادی که حرفه‌ای‌تر هستن و به آموزش‌های خوب نیاز دارن بتونن اینجا مواردی رو پیدا کنن که بقیه افراد به شکل دیگه‌ای راجع بهش صحبت می‌کنن. \nاميدوارم این کانال براتون مفید باشه\nارادتمند\nناصر حاجلو \n"
-  thumbnail: "https://yt3.ggpht.com/ytc/AOPolaQvLyI6MwJW_QN46edJ_VxSltcQwEUlMfb4o_Zm=s88-c-k-c0x00ffffff-no-rj"
+  thumbnail: "https://yt3.ggpht.com/ytc/APkrFKZBnvG7UOHUvpd8Xm7m_zDyoTVR1G4cJEfD9cTq=s88-c-k-c0x00ffffff-no-rj"
   link: "https://www.youtube.com/channel/UCAzoPZezvbQ8J2SqW1NByPg"
-  subscriber_count: 6990
+  subscriber_count: 7020
   video_count: 125
   created_at: "2020-04-19T10:36:03.119326Z"
   updated_at: "2022-09-12T05:30:06Z"
@@ -523,7 +248,7 @@
   description: ""
   thumbnail: "https://yt3.ggpht.com/HF_pvv_LPHsBcZ0unZwrMgv8BDlYgMTPXgiAlyTtkXsXFC73ASQKg2ycaLkLzWH84ymZJQAW=s88-c-k-c0x00ffffff-no-rj"
   link: "https://www.youtube.com/channel/UCnttDmeNZW53QgrsEN977yw"
-  subscriber_count: 3910
+  subscriber_count: 3930
   video_count: 35
   created_at: "2009-10-28T17:33:01Z"
   updated_at: "2023-09-22T12:08:06Z"
@@ -534,7 +259,7 @@
   description: "معرفی ساده قطعات الکترونیک و نحوه راه اندازی آنها همراه با تحلیل ساده مدار\n  www.yazdkit.com\n\nراه اندازی ماژول و قطعات با کامپایلر های بسکام\n Bascom , کیل keil , اردوینو Arduino\n\nاینجا خیلی ساده و راحت بهت الکترونیک رو آموزش میدم از مقدماتی تا پیشرفته\nتوی ویدئو ها از قطعات الکترونیک ساده استفاده میکنم که تو میتونی مدار و پروژه های حرفه ایی الکترونیک روباهاش بسازی و اختراع کنی.\nمدار های الکترونیک از بیرون که نگاه میتونی پیچیده به نظر میاد ولی با آموزش های مبتدی و در سطح هنرستان قدم به قدم بهت یاد میدم و میبینی چقدر ساده هست.\nاین کانال از نوجوان 10 ساله تا جوان 25 سال به بالا همه میتونن با آموزش هاش الکترونیک راحت  یاد بگیرن حتی اگه این رشته درس نخوندی.\n\nاگه توی کار تعمیرات مدار های الکترونیک هستی بهت وظیفه هر قطعه و نحوه کارش رو برات میگم که بتونی هر مدار رو تحلیل کنی \n\n"
   thumbnail: "https://yt3.ggpht.com/OJfg6V7jaN2jr6FMa73jheg8aGUy-pB-42y8VQEXBeHnzCh3sHiJBsh2wR0RVkZR673dTegMYA=s88-c-k-c0x00ffffff-no-rj"
   link: "https://www.youtube.com/channel/UCeTVcxtWMetcodC7Y6HdLjg"
-  subscriber_count: 3780
+  subscriber_count: 3820
   video_count: 238
   created_at: "2019-10-14T12:00:31.060481Z"
   updated_at: "2023-08-02T17:45:01Z"
@@ -543,9 +268,9 @@
   category: computer
   title: Ramin Zare
   description: "سلام. من رامین هستم. یه برنامه نویس که دوست دارم چیزایی که یادگرفتم را براتون به اشتراک بذارم\nاکثر ویدیو ها راجع به برنامه نویسی و تکنولوژی های مرتبط مخصوصاً زبان جاوا است. همچنین محتواهایی راجع به تجربه من از مهاجرت به دانمارک هم پیدا خواهید کرد.\n\nTelegram: https://t.me/raminzare_ch\n\nCompile Podcast: https://pod.link/1449983133\n"
-  thumbnail: "https://yt3.ggpht.com/ytc/AOPolaSm903ErkMThKfHjOn1L0_N3yPKYEE55PTJwHP0aw=s88-c-k-c0x00ffffff-no-rj"
+  thumbnail: "https://yt3.ggpht.com/ytc/APkrFKZORkIgOEMkmTCoAP_PNHmWkCWGiYmXQdTLyxgdfw=s88-c-k-c0x00ffffff-no-rj"
   link: "https://www.youtube.com/channel/UCwc1RZzEeELwPel5HFlKpzw"
-  subscriber_count: 2060
+  subscriber_count: 2070
   video_count: 378
   created_at: "2012-07-02T05:34:26Z"
   updated_at: "2022-01-21T12:00:33Z"
@@ -554,7 +279,7 @@
   category: computer
   title: Saeed Shahrivari
   description: "در این کانال ویدیوهای آموزشی در زمینه درس‌های مختلف کامپیوتر در مقاطع مختلف دانشگاهی قرار داده می‌شود. اغلب این ویدیوها برای تدریس در دانشگاه ارومیه استفاده شده است. برای اطلاعات و بروزرسانی‌های بیشتر می‌توانید در کانال تلگرامی زیر عضو شوید\nhttps://t.me/uushahrivari\n"
-  thumbnail: "https://yt3.ggpht.com/ytc/AOPolaQ9Q6QWiB9bo73lcokOwMh0IOxKbnKTn-M6UtI-Qw=s88-c-k-c0x00ffffff-no-rj"
+  thumbnail: "https://yt3.ggpht.com/ytc/APkrFKbjK_GlTHfhHI6-QyzJIld2dGMesSO5wBV2dupGQw=s88-c-k-c0x00ffffff-no-rj"
   link: "https://www.youtube.com/channel/UC6qiCkKqaipJmS73UK1xHYw"
   subscriber_count: 1850
   video_count: 308
@@ -567,7 +292,7 @@
   description: "My name is Sameer, I'm a software engineer by day and an amateur scientist by night. Most of my time goes to developing free software either by contributing to other projects or by working on my own stuff. I spend the majority of my time these days working on the Serene compiler and I make videos about compilers, software engineering and science in general."
   thumbnail: "https://yt3.ggpht.com/kzuKw8rEKTWQRgs1IN1lgwj4tHiiEZa1hmzaazhEn3PRVYdQQZNe5EZBZWTVMfEJFJlvC_b86Q=s88-c-k-c0x00ffffff-no-rj"
   link: "https://www.youtube.com/channel/UC6KguAaJYvYQXckq3f3jx0w"
-  subscriber_count: 1470
+  subscriber_count: 1480
   video_count: 47
   created_at: "2011-11-06T14:34:40Z"
   updated_at: "2023-06-12T10:07:03Z"
@@ -576,7 +301,7 @@
   category: computer
   title: Vahid Naeini
   description: ""
-  thumbnail: "https://yt3.ggpht.com/ytc/AOPolaTUTxHIS1WV_9EiGAefU_L9W_gIZARrVh87y_6QFw=s88-c-k-c0x00ffffff-no-rj"
+  thumbnail: "https://yt3.ggpht.com/ytc/APkrFKYEh5lpgBv2dgaJxSHE_nkGUztZJFpjXhKVTOlx-g=s88-c-k-c0x00ffffff-no-rj"
   link: "https://www.youtube.com/channel/UCc95fLUDogjmPlRwz2MZGNA"
   subscriber_count: 1290
   video_count: 33
@@ -589,7 +314,7 @@
   description: "بدون کار، تجربه به دست نمیاد و بدون تجربه، کار گیر نمیاد\n\nدیتاهاب، با هدف آموزش و تربیت نیروی کار هوش مصنوعی فعالیت خود را آغاز کرد. از جمله مهم‌ترین فعالیت‌ها، طرح کاراموزی رایگان دیتاشیپ است که ثبت نام در آن رایگان بوده و در صورت کسب امتیاز لازم، می‌توانید به صورت رایگان از آموزش‌ها استفاده کرده و با انجام تکالیف و پروژه‌های نزدیک به دنیای واقعی، تجربه لازم برای ورود به کار را پیدا کنید\n\n لطفا با لایک و سابسکرایب ما را در جهت پیشبرد بهتر هدف‌مان که گسترش علم است یاری بفرمایید\n"
   thumbnail: "https://yt3.ggpht.com/lgwmXEOPZKkOA06-AWq2mkbHCksDgmHxUE8-rbisTPyTZ5lVneJDhx8Wc-abT91kS4L9dFHdbg=s88-c-k-c0x00ffffff-no-rj"
   link: "https://www.youtube.com/channel/UCrBcbQWcD0ortWqHAlP94ug"
-  subscriber_count: 1200
+  subscriber_count: 1220
   video_count: 93
   created_at: "2021-11-15T09:19:10.622956Z"
   updated_at: "2023-06-25T20:30:04Z"
@@ -598,20 +323,20 @@
   category: computer
   title: Abbas Yazdanpanah
   description: در این کانال ویدئوهایی که توسط من در سایت blog.abyz.ir پخش می‌شود به اشتراک گذاشته می‌شود.
-  thumbnail: "https://yt3.ggpht.com/ytc/AOPolaQ-3RIn1KmjixFqlLcjLj10xdbLTcGuIGXFrzaDhg=s88-c-k-c0x00ffffff-no-rj"
+  thumbnail: "https://yt3.ggpht.com/ytc/APkrFKYXFnBSSceLS4T69IYzdnEmfH1NzFQFJDyqvvlOpw=s88-c-k-c0x00ffffff-no-rj"
   link: "https://www.youtube.com/channel/UCriDa1A8msrOTmfIFNFOhzA"
-  subscriber_count: 897
+  subscriber_count: 908
   video_count: 36
   created_at: "2013-09-06T10:19:19Z"
-  updated_at: "2023-06-26T19:26:54Z"
+  updated_at: "2023-09-28T22:15:24Z"
 - id: UCBM3dVa1OK3Mv2Mp2kbzdtA
   name: irlogcat
   category: computer
   title: irlogcat
   description: Tehran Android Developers
-  thumbnail: "https://yt3.ggpht.com/ytc/AOPolaTcSsUbSXa1XOM4Eck9W93XC1gpekcHSrtCLu5i=s88-c-k-c0x00ffffff-no-rj"
+  thumbnail: "https://yt3.ggpht.com/ytc/APkrFKalEpAuTBwFB4wSiiipqO7TbJAZXla8VxZ36Zcw=s88-c-k-c0x00ffffff-no-rj"
   link: "https://www.youtube.com/channel/UCBM3dVa1OK3Mv2Mp2kbzdtA"
-  subscriber_count: 781
+  subscriber_count: 782
   video_count: 117
   created_at: "2017-07-11T20:29:37Z"
   updated_at: "2022-03-12T03:06:30Z"
@@ -620,7 +345,7 @@
   category: computer
   title: ahmad tahani
   description: share knowledge about programming and design mobile and web application in persian language.
-  thumbnail: "https://yt3.ggpht.com/ytc/AOPolaRevb7OQH6O52bfLxaw_uRLA6CfuP_n2RsSYLYJ7A=s88-c-k-c0x00ffffff-no-rj"
+  thumbnail: "https://yt3.ggpht.com/ytc/APkrFKYkVK92imxjO5Tx0IqDAqFnbVsnHEsVKxz_5NPxjQ=s88-c-k-c0x00ffffff-no-rj"
   link: "https://www.youtube.com/channel/UC0zTl0iFLUxrJ_hafwdnLsw"
   subscriber_count: 735
   video_count: 86
@@ -631,7 +356,7 @@
   category: computer
   title: Alireza Ayinmehr
   description: Full-Stack Developer from Iran.
-  thumbnail: "https://yt3.ggpht.com/ytc/AOPolaT7lGT0le_WpVWAY814y0H1gkv1wYEW8Ctg_4w_mw=s88-c-k-c0x00ffffff-no-rj"
+  thumbnail: "https://yt3.ggpht.com/ytc/APkrFKaFwyGqm7Imb07YdW4mpku5-jtBZqIJ-gJzT2P_kw=s88-c-k-c0x00ffffff-no-rj"
   link: "https://www.youtube.com/channel/UCkuHzng-3im8CtounzRO-GQ"
   subscriber_count: 719
   video_count: 68
@@ -642,7 +367,7 @@
   category: computer
   title: Hadi Moshayedi
   description: Videos about programming based on my experiences in different projects.
-  thumbnail: "https://yt3.ggpht.com/ytc/AOPolaQgs_hQ9PkU1QuKjjU1sa7k_tIUHmjozivjhcolpM8=s88-c-k-c0x00ffffff-no-rj"
+  thumbnail: "https://yt3.ggpht.com/ytc/APkrFKYCzKgIBe-h-3x2Ishyl98iS0u7tRESDPaj3gLo-bM=s88-c-k-c0x00ffffff-no-rj"
   link: "https://www.youtube.com/channel/UC9L_sf_AUqBuJi1cgCUC1Rw"
   subscriber_count: 652
   video_count: 15
@@ -653,20 +378,20 @@
   category: computer
   title: Technolotin
   description: ما در تکنولوتین، قصد داریم ابزار و روش های آموزش برنامه نویسی و مفاهیم کامپیوتر رو به شما معرفی کنیم تا با استفاده از اونا بتونید به رشد فکری کودکان و نوجوانان خودتون کمک کنید.
-  thumbnail: "https://yt3.ggpht.com/ytc/AOPolaST92XcP6QFv0ozU_wfuU-Ji59EBJw6E5zPqAbP=s88-c-k-c0x00ffffff-no-rj"
+  thumbnail: "https://yt3.ggpht.com/ytc/APkrFKYTbDVDDKPyCtSbm-DA46Cj7y_CjnxKO1gQ0ojt=s88-c-k-c0x00ffffff-no-rj"
   link: "https://www.youtube.com/channel/UClomSLRfvKQtV1npg-YOWjQ"
-  subscriber_count: 642
-  video_count: 12
+  subscriber_count: 641
+  video_count: 13
   created_at: "2020-05-15T09:21:23.721008Z"
-  updated_at: "2023-08-07T08:41:44Z"
+  updated_at: "2023-09-25T09:09:54Z"
 - id: UCVC0JIvpY1BZ1PBzzZFk63w
   name: Sallar Builds
   category: computer
   title: Sallar Builds
   description: Watch me make things
-  thumbnail: "https://yt3.ggpht.com/ytc/AOPolaRaDqkayCHRqoU4eqBMkdjfSctV7EITJrl-lG6s=s88-c-k-c0x00ffffff-no-rj"
+  thumbnail: "https://yt3.ggpht.com/ytc/APkrFKaQh9PbuNdyDS07NxJb-17IuWl5OOZxeYl79XdG=s88-c-k-c0x00ffffff-no-rj"
   link: "https://www.youtube.com/channel/UCVC0JIvpY1BZ1PBzzZFk63w"
-  subscriber_count: 570
+  subscriber_count: 569
   video_count: 17
   created_at: "2009-11-30T22:04:14Z"
   updated_at: "2020-05-18T01:06:58Z"
@@ -675,9 +400,9 @@
   category: computer
   title: Forud Ghafouri
   description: ""
-  thumbnail: "https://yt3.ggpht.com/ytc/AOPolaQFQxihwk_x1O_WySTwZOnwGZQUSVX4GJLmKLexvXo=s88-c-k-c0x00ffffff-no-rj"
+  thumbnail: "https://yt3.ggpht.com/ytc/APkrFKZNznk_4qbgcTH39VoS9Bz5JTMtdYSRBaSt4fXiVyM=s88-c-k-c0x00ffffff-no-rj"
   link: "https://www.youtube.com/channel/UCdtGLDEOsnWlW1IsQFbCAsA"
-  subscriber_count: 558
+  subscriber_count: 559
   video_count: 22
   created_at: "2008-09-29T11:48:01Z"
   updated_at: "2021-04-12T03:42:59Z"
@@ -686,9 +411,9 @@
   category: computer
   title: Ehsan
   description: در این صفحه گفتگوهایی خواهیم داشت درباره مهاجرت برنامه‌نویس‌ها، نکته‌ها و مسایل مربوطه.
-  thumbnail: "https://yt3.ggpht.com/ytc/AOPolaQaKGPYggt8S7TV96FquX87AulSpGGns1qa2dAJ=s88-c-k-c0x00ffffff-no-rj"
+  thumbnail: "https://yt3.ggpht.com/ytc/APkrFKYn70BlnHD41IyuFOnsSHJfvYfdkq-jGHiyjE8E=s88-c-k-c0x00ffffff-no-rj"
   link: "https://www.youtube.com/channel/UCfTPRHu_t3OcSOCMR7mGV0A"
-  subscriber_count: 538
+  subscriber_count: 537
   video_count: 8
   created_at: "2020-02-26T17:53:41.053264Z"
   updated_at: "2023-05-31T20:11:04Z"
@@ -697,9 +422,9 @@
   category: computer
   title: Mehdi Allahyari
   description: "The goal of this channel is to provide Machine Learning videos in Farsi/Persian for all to enjoy and learn from.\n\n\nWeb Site: https://mallahyari.github.io/mehdi/\nGitHib: https://github.com/mallahyari\nMachine Learning Tutorials: https://mallahyari.github.io/ml_tutorial/\nMachine Learning GitHub: https://github.com/mallahyari/ml_tutorial"
-  thumbnail: "https://yt3.ggpht.com/ytc/AOPolaQ_aiQeTrlmZEe1iK6F91iUH1lqJ4y8RmAaRLv_W28=s88-c-k-c0x00ffffff-no-rj"
+  thumbnail: "https://yt3.ggpht.com/ytc/APkrFKYSicb-jA3nhsuf_IHGEAZhTwvDd23RIWgubub3JpQ=s88-c-k-c0x00ffffff-no-rj"
   link: "https://www.youtube.com/channel/UC67Fo8C3orrbokwF0CkVCDw"
-  subscriber_count: 496
+  subscriber_count: 497
   video_count: 31
   created_at: "2013-09-06T02:43:12Z"
   updated_at: "2023-06-10T00:48:09Z"
@@ -710,7 +435,7 @@
   description: "اینجا درمورد چیزهایی که یادمی‌گیریم صحبت می‌کنم. از آموزش‌های مربوط به برنامه‌نویسی گرفته تا مفاهیم مهمّی که دانستنشان برای همه‌ی آدم‌هایی که در تولید نرم‌افزار دخیل هستند ضروری است.\nحتماً برای خواندن مطالبم به وبلاگم سر بزنید.\nhttps://blog.alihoseiny.ir\nاگر هم سؤال یا درخواستی داشتید می‌توانید برایم ایمیل بفرستید.\n\nاحترام به کپی‌رایت:\nبخش‌هایی از تصاویر این حساب از آدرس زیر برداشته شده اند:\nhttps://www.freepik.com/free-vector/top-view-professional-office-desk_2940995.htm#page=11&query=keyboard&position=41"
   thumbnail: "https://yt3.ggpht.com/OoMB2TiQx4R1sXEHRUphk-RTQjNH76mG8u9ZBfoWXZqW5Ph7XARFT1Hf-uA8fFlp-4PTvhZa=s88-c-k-c0x00ffffff-no-rj"
   link: "https://www.youtube.com/channel/UC06FQRG-LX4Y1DeS08oGWbw"
-  subscriber_count: 469
+  subscriber_count: 470
   video_count: 13
   created_at: "2019-08-23T08:35:15Z"
   updated_at: "2023-02-13T17:26:39Z"
@@ -719,9 +444,9 @@
   category: computer
   title: Coding Dojo - باشگاه کدزنی
   description: "مهارت‌هایی مثل توسعه‌ی تست‌محور (TDD)، بازسازی کد (Refactoring)، طراحی خوب و... سخت به دست میاد و ساده از دست می‌ره.\nتو باشگاه کد می‌خوایم دور از پیچیدگی‌ها و دغدغه‌های کاری، روی بهبود این مهارت‌ها تمرکز کنیم."
-  thumbnail: "https://yt3.ggpht.com/ytc/AOPolaQMNRZYxns5JoRxjwdLRvwPXoERKTLLZIMUUJ3M=s88-c-k-c0x00ffffff-no-rj"
+  thumbnail: "https://yt3.ggpht.com/ytc/APkrFKZyuYZXUtrfTOlJl6K6MvMNUniXED8fgJ-HX_yW=s88-c-k-c0x00ffffff-no-rj"
   link: "https://www.youtube.com/channel/UCbDzaRXf6kr9VFaTDA_twRw"
-  subscriber_count: 417
+  subscriber_count: 418
   video_count: 15
   created_at: "2020-03-25T01:10:55.404313Z"
   updated_at: "2021-10-05T18:15:29Z"
@@ -730,7 +455,7 @@
   category: computer
   title: ohmytalks
   description: Oh my talks channel covers talks and courses with software engineering topics.
-  thumbnail: "https://yt3.ggpht.com/ytc/AOPolaTxKWoSbtlO4sw4Lh-tSbU8SBNYFXLvC39m3A8o=s88-c-k-c0x00ffffff-no-rj"
+  thumbnail: "https://yt3.ggpht.com/ytc/APkrFKb-jV7gY7Pbdgn6dM7r1VQ36DTsn3ndotr_ZohX=s88-c-k-c0x00ffffff-no-rj"
   link: "https://www.youtube.com/channel/UCjOugvWkm7_xZ5nbf9mv0RQ"
   subscriber_count: 374
   video_count: 22
@@ -741,9 +466,9 @@
   category: computer
   title: Payam Saderi
   description: "I am a linux sysadmin who try to be a good DevOps.I started to work in this filed as a front-end developer in 2003, aslo I have 12 years of experiences as Linux system administrator.\n\nI am very keen on learning and using new technology in my field. Producing podcast and videocast aslo writing blog are my hobbies."
-  thumbnail: "https://yt3.ggpht.com/ytc/AOPolaTC3h6Dcj5d1uKW89akD1C8cwFp4DCkQCpnKxml=s88-c-k-c0x00ffffff-no-rj"
+  thumbnail: "https://yt3.ggpht.com/ytc/APkrFKZq_1EaBjYt_7dB1F4RkAO_m2k-Pj-1uuQKgJd3=s88-c-k-c0x00ffffff-no-rj"
   link: "https://www.youtube.com/channel/UCJKqjAlXrjlWPxY99mkNO0A"
-  subscriber_count: 336
+  subscriber_count: 335
   video_count: 16
   created_at: "2009-02-16T08:46:34Z"
   updated_at: "2022-03-22T21:14:20Z"
@@ -752,9 +477,9 @@
   category: computer
   title: Yaser Zhian
   description: ""
-  thumbnail: "https://yt3.ggpht.com/ytc/AOPolaREH0hjJKmbcXHZaGWrjEG9cGrKnGXd8cLHzWTj=s88-c-k-c0x00ffffff-no-rj"
+  thumbnail: "https://yt3.ggpht.com/ytc/APkrFKaZHXJVpyqNVsQmdhgq8mYLxyef87tU7twXeEcW=s88-c-k-c0x00ffffff-no-rj"
   link: "https://www.youtube.com/channel/UCw1NhBzoRNvb7gnLWxNqoIQ"
-  subscriber_count: 314
+  subscriber_count: 316
   video_count: 56
   created_at: "2007-10-02T16:13:23Z"
   updated_at: "2023-03-10T18:48:01Z"
@@ -763,7 +488,7 @@
   category: computer
   title: Sajjad Heydari
   description: ""
-  thumbnail: "https://yt3.ggpht.com/ytc/AOPolaRvwGHPxCzHin_c52ZzmBAxXCRKgVSB29niOtCu1MQ=s88-c-k-c0x00ffffff-no-rj"
+  thumbnail: "https://yt3.ggpht.com/ytc/APkrFKZR09Fz7s63D2wRsdN-pNFUERls4-1b2xCdEomv0Ps=s88-c-k-c0x00ffffff-no-rj"
   link: "https://www.youtube.com/channel/UCYUilKxAgwih1ih4Dj8k_WQ"
   subscriber_count: 290
   video_count: 63
@@ -774,7 +499,7 @@
   category: computer
   title: Dev Quest
   description: ""
-  thumbnail: "https://yt3.ggpht.com/ytc/AOPolaR_057bAfyvAjWq7FN9f6FNK6Z78fclPsQTmnZ1=s88-c-k-c0x00ffffff-no-rj"
+  thumbnail: "https://yt3.ggpht.com/ytc/APkrFKaF_N_9asDce2G-oM_23M4P7YVxSIRhd3dxY-_T=s88-c-k-c0x00ffffff-no-rj"
   link: "https://www.youtube.com/channel/UC8q-CCyGP20I78UQFCovDCw"
   subscriber_count: 274
   video_count: 58
@@ -785,9 +510,9 @@
   category: computer
   title: "Let's Make"
   description: "سلام!\nبه چنل «بیاید بسازیم» خوش اومدید. \nمن اینجا قراره که وقتی چیزی میسازم، بخصوص در زمینه برنامه‌نویسی و سخت‌افزار؛ با شما به اشتراک بذارم. پس اگر به ساخت و ساز علاقه دارید، به جای درستی اومدید!"
-  thumbnail: "https://yt3.ggpht.com/ytc/AOPolaS8vTSSUonrwsdzR83jNvkixDGqCMGTaMbXqw35=s88-c-k-c0x00ffffff-no-rj"
+  thumbnail: "https://yt3.ggpht.com/ytc/APkrFKYhhPd74NbLWL40rd440354CebMjkZkqgfh2kIF=s88-c-k-c0x00ffffff-no-rj"
   link: "https://www.youtube.com/channel/UCwkksy1YmPCEMUsEyzHn_Vg"
-  subscriber_count: 257
+  subscriber_count: 258
   video_count: 45
   created_at: "2019-04-12T14:06:44Z"
   updated_at: "2021-01-08T16:52:33Z"
@@ -796,7 +521,7 @@
   category: computer
   title: Farid Ahmadian
   description: ""
-  thumbnail: "https://yt3.ggpht.com/ytc/AOPolaTbdXSbo6dUIxSJtBp1EuUUaCM8po4is57j6_WW=s88-c-k-c0x00ffffff-no-rj"
+  thumbnail: "https://yt3.ggpht.com/ytc/APkrFKbuXo3gt7XQOfu-mCKd-bl55BRt6FrWOlMAEAKX=s88-c-k-c0x00ffffff-no-rj"
   link: "https://www.youtube.com/channel/UCV-q5eC0hjN10KiCYRnVjnw"
   subscriber_count: 256
   video_count: 17
@@ -807,7 +532,7 @@
   category: computer
   title: Farzad Nazifi
   description: ""
-  thumbnail: "https://yt3.ggpht.com/ytc/AOPolaToBGKjcN-5yUd5YqyxVXbjSKSLOgzRRl3TKtaz2A=s88-c-k-c0x00ffffff-no-rj"
+  thumbnail: "https://yt3.ggpht.com/ytc/APkrFKYTgtMu4UkrgqIG2n9Wzyh8k6MtoSx4A_wKSUvMAA=s88-c-k-c0x00ffffff-no-rj"
   link: "https://www.youtube.com/channel/UCsOZYyH_nhPJG5aC5P4fdxg"
   subscriber_count: 250
   video_count: 15
@@ -818,7 +543,7 @@
   category: computer
   title: Sahar TheTallWitch
   description: "Posting Android tutorials\n\nTelegram channel: t.me/TheTallWitch"
-  thumbnail: "https://yt3.ggpht.com/ytc/AOPolaScnHH_GQtVQEh8plRyIY1BzGmgUrlyg7AKGSgGdg=s88-c-k-c0x00ffffff-no-rj"
+  thumbnail: "https://yt3.ggpht.com/ytc/APkrFKZx_tFELbCkLjJLtg1TnrbLlld3V_1sbObalSedIA=s88-c-k-c0x00ffffff-no-rj"
   link: "https://www.youtube.com/channel/UC7vYWtZShDLheammtHJpOLw"
   subscriber_count: 206
   video_count: 29
@@ -829,7 +554,7 @@
   category: computer
   title: Tech With K
   description: ""
-  thumbnail: "https://yt3.ggpht.com/ytc/AOPolaTvVQlE2tbkI1_TtUBvvrYzVXae0fFQ4N07rKnqFg=s88-c-k-c0x00ffffff-no-rj"
+  thumbnail: "https://yt3.ggpht.com/ytc/APkrFKYst6wBWivihXxf-jm8JvOPHTE30G4uPcJdTvBNQw=s88-c-k-c0x00ffffff-no-rj"
   link: "https://www.youtube.com/channel/UCxLYythN6WRXXIDj5zZfvUg"
   subscriber_count: 196
   video_count: 5
@@ -842,7 +567,7 @@
   description: "I have been working in the field of software engineering for about 10 years. I'm working on Big Data tools and related technologies such as Apache Kafka, Elasticsearch, Neo4j, and Apache Solr on a large-scale system with around +60 nodes and more than 100TB of Data.\nI'm also a professional in MariaDB / MySQL and have the experience to set up and maintain a large-scale high available MariaDB Cluster with 5 nodes and around 4TB with more than +1500 TPS.\n"
   thumbnail: "https://yt3.ggpht.com/F8NZdSovFFwqtViYEDa-x5NbIn5j9fQRYc9bQqz9WduFVJSy3nsKoFn0bWco0K0QPiBBdQ1fKA=s88-c-k-c0x00ffffff-no-rj"
   link: "https://www.youtube.com/channel/UCDVwCl1aKmLQQT1DS8IGDUw"
-  subscriber_count: 164
+  subscriber_count: 166
   video_count: 24
   created_at: "2018-08-03T14:24:07Z"
   updated_at: "2022-09-11T20:04:56Z"
@@ -851,9 +576,9 @@
   category: computer
   title: Rust in Farsi ツ
   description: می‌خوام اینجا یکمی در مورد زبان برنامه‌نویسی راست صحبت کنم.
-  thumbnail: "https://yt3.ggpht.com/ytc/AOPolaQ0lLRcueoP6sqr9GlvXfas-hVdHix-olHwpqd5=s88-c-k-c0x00ffffff-no-rj"
+  thumbnail: "https://yt3.ggpht.com/ytc/APkrFKbBozKIjS7_qlnjqSmzqhOYtPTIB2e7qkNSiMJK=s88-c-k-c0x00ffffff-no-rj"
   link: "https://www.youtube.com/channel/UCIXThmX_uAp2cJTR-hTjdcA"
-  subscriber_count: 144
+  subscriber_count: 145
   video_count: 24
   created_at: "2021-03-05T08:23:41.528832Z"
   updated_at: "2022-11-02T23:26:26Z"
@@ -862,9 +587,9 @@
   category: computer
   title: Ali Molaei
   description: ""
-  thumbnail: "https://yt3.ggpht.com/ytc/AOPolaROCZWY4moGjGLxJV3y5sqBc7hKA3R0PsUZsUib=s88-c-k-c0x00ffffff-no-rj"
+  thumbnail: "https://yt3.ggpht.com/ytc/APkrFKbKRIZGKiZ5DjH3GEvHCDx7K5uCgtD90PGHZrAD=s88-c-k-c0x00ffffff-no-rj"
   link: "https://www.youtube.com/channel/UCSecvuDZyO7cQh-C5AXUMQg"
-  subscriber_count: 58
+  subscriber_count: 57
   video_count: 11
   created_at: "2015-05-20T08:37:11Z"
   updated_at: "2023-08-17T07:39:20Z"
@@ -878,7 +603,150 @@
   subscriber_count: 46
   video_count: 63
   created_at: "2009-04-19T01:03:19Z"
-  updated_at: "2023-09-19T12:08:01Z"
+  updated_at: "2023-09-25T07:59:48Z"
+- id: UCks1-Od_hDk1mvpd8Ku_VQA
+  name: Siavash Mahmoudian
+  category: programming
+  title: Siavash Mahmoudian
+  description: "I'm me..."
+  thumbnail: "https://yt3.ggpht.com/mT0bUK4Cwacz5lKtdMVQRZ7vfeUX4kwydxej6PLdmaTtHuGx1wg3lbOu1NA7pIrMIELKDftt=s88-c-k-c0x00ffffff-no-rj"
+  link: "https://www.youtube.com/channel/UCks1-Od_hDk1mvpd8Ku_VQA"
+  subscriber_count: 7050
+  video_count: 31
+  created_at: "2007-08-27T12:31:57Z"
+  updated_at: "2022-09-26T00:15:57Z"
+- id: UCIJv7yd0QoyhCPpWzRXY1cQ
+  name: Shirfahm
+  category: science
+  title: Shirfahm
+  description: "شیرفهم جواب‌هایی ساده برای سوالات سخت است.\nدرباره پرسش‌هایی که هر روز ذهن ما را مشغول می‌کنند و کلک‌هایی ساده که کیفیت زندگی شما را بهتر می‌کند \n\nشیرفهم توسط پادکست استرینگ‌کست تهیه و ساخته شده و چهارشنبه هر هفته منتشر می‌شود."
+  thumbnail: "https://yt3.ggpht.com/ytc/APkrFKabiX62BV4pJOgbcgDmVK8Dl7cTYVXCoy3PQjJc=s88-c-k-c0x00ffffff-no-rj"
+  link: "https://www.youtube.com/channel/UCIJv7yd0QoyhCPpWzRXY1cQ"
+  subscriber_count: 7370
+  video_count: 79
+  created_at: "2020-02-15T21:07:53.017735Z"
+  updated_at: "2023-07-13T13:58:53Z"
+- id: UCWKn1Xuyq2K27ZAewFHQMcA
+  name: Radio-Teb
+  category: science
+  title: Radio-Teb / رادیو طب
+  description: "🍏رادیو طب، مجموعه ایست برای آموزش مطالب پزشکی به زبان فارسی.\nدر این برنامه ها تلاش می کنیم اطلاعات کاربردی و دقیقی در فهم بیماری های مزمن و درمان آنها به شما ارائه کنیم و به این وسیله گامی کوچک در کاهش رنج بیماران و هزینه درمان بیماری ها و ارتقا سلامت جامعه برداریم.\n🔖مطالب این صفحه در دو دسته ی کلی آموزش برای بیماران📗، و بازآموزی برای درمانگران📕 ارائه خواهد شد. طبیعتا مطالب مربوط به بازآموزی تیم درمانی حاوی اصطلاحات تخصصی پزشکی خواهد بود و برای مطالعه ی تحصیل کردگان سایر رشته ها مناسب نیست.\nHttps://t.me/carecomplete"
+  thumbnail: "https://yt3.ggpht.com/ytc/APkrFKZM5wwwj7UskjnU7XY8W3ZxizE8VhlJ66xum9e8=s88-c-k-c0x00ffffff-no-rj"
+  link: "https://www.youtube.com/channel/UCWKn1Xuyq2K27ZAewFHQMcA"
+  subscriber_count: 6620
+  video_count: 22
+  created_at: "2018-09-08T06:23:25Z"
+  updated_at: "2023-09-29T23:26:03Z"
+- id: UCrj-Vs-7sMK0U9PSr5TbrZQ
+  name: مختصر و مفید
+  category: science
+  title: مختصر و مفید
+  description: "موضوعات بسیاری در دنیا هست که دانستنش برای ما جالبه، ولی نه وقت ما اجازه می‌ده که همه‌ش رو خیلی عمیق پیگیری کنیم و نه حتی لزومی داره! من اردشیر طیبی هستم و در «مختصر و مفید» تلاش می‌کنم موضوعاتی از دل تاریخ، سیاست و علم رو به زبانی ساده و قابل هضم و البته در مدت زمانی کوتاه، برای شما توضیح بدم. با این تذکر که من کارشناس هیچ چیزی نیستم. صرفا کنج‌کاوم و مشتاق یادگیری.\n«مختصر و مفید» یک پادکست هم داره که می‌تونید اون رو در تمامی پلتفرم‌های پادکست پیدا کنید. از جمله در:\nکست‌باکس: ⁦http://‪bit.ly/2GED31C‬⁩ \n‏اپل پادکست: ⁦‪http://apple.co/2YlaUY7‬⁩ \n‏گوگل پادکست: ⁦‪http://bit.ly/2K84RgO‬⁩ \n\nهمچنین متن اغلب مطالبی که در «مختصر و مفید» می‌بینید و می‌شنوید رو می‌تونید در وبسایت من هم پیدا کنید:\nhttp://ardeshirtayebi.com"
+  thumbnail: "https://yt3.ggpht.com/ytc/APkrFKa26uz_c0ZA4aKrqVCfhaKoVUYTY4WOW6aNOXA=s88-c-k-c0x00ffffff-no-rj"
+  link: "https://www.youtube.com/channel/UCrj-Vs-7sMK0U9PSr5TbrZQ"
+  subscriber_count: 4950
+  video_count: 26
+  created_at: "2020-02-28T16:00:56.731098Z"
+  updated_at: "2023-07-20T17:35:06Z"
+- id: UCzcG-EnZ_-G-hTs7zmh823w
+  name: Vidoal
+  category: science
+  title: Vidoal
+  description: We will transform the way you learn
+  thumbnail: "https://yt3.ggpht.com/ytc/APkrFKaMnR0Wez-8lSwmy9kWRH_G1rvVVOnT79lc2K-X=s88-c-k-c0x00ffffff-no-rj"
+  link: "https://www.youtube.com/channel/UCzcG-EnZ_-G-hTs7zmh823w"
+  subscriber_count: 4830
+  video_count: 205
+  created_at: "2015-10-07T15:29:49Z"
+  updated_at: "2018-09-29T14:27:08Z"
+- id: UC3KlSuynF3PZlDnI88pkT6g
+  name: EGO-persian
+  category: science
+  title: EGO-persian
+  description: "در کانال ایگو ما سعی میکنیم موضوعات روانشناسی رو با انیمیشن های کوتاه و بیانی ساده مطرح کنیم.\n\nویدئو های این کانال بیشتر از موضوعات خودشناسی, رابطه, اضطراب و استرس, مدیریت بحران های روحی وشخصیت شناسی حرف میزند و از آنجایی که همه ما نیاز به بهتر شدن داریم, قطعا این کانال برای شما مفید خواهد بود."
+  thumbnail: "https://yt3.ggpht.com/ytc/APkrFKYTIPB8ocQBJwswWU7qZtEGDYgK6BGGat8HvWBd=s88-c-k-c0x00ffffff-no-rj"
+  link: "https://www.youtube.com/channel/UC3KlSuynF3PZlDnI88pkT6g"
+  subscriber_count: 353
+  video_count: 10
+  created_at: "2020-04-07T10:54:10.049154Z"
+  updated_at: "2020-07-06T15:30:01Z"
+- id: UCzU0kDI19R6g8JecB3K5Pog
+  name: Toraj Show
+  category: technology
+  title: Toraj Show
+  description: "چالشهای باحال خفن با تورج و ماریا .\nچنل های دیگمون رو فراموش نکنید.\n.\n.\n جهت همکاری ، اسپانسرینگ و تبلیغات با ایمیل زیر درتماس باشید.\nfor advertisment , sponsering and collaboration reach for this email\nadmin@torajshow.com\n"
+  thumbnail: "https://yt3.ggpht.com/ytc/APkrFKanY31yo52ZUy9lcU948Bp8ghW9aqfU5OA8rxdtSw=s88-c-k-c0x00ffffff-no-rj"
+  link: "https://www.youtube.com/channel/UCzU0kDI19R6g8JecB3K5Pog"
+  subscriber_count: 69700
+  video_count: 689
+  created_at: "2017-07-11T15:01:08Z"
+  updated_at: "2023-09-30T16:30:10Z"
+- id: UCNqT8Qk747G4alIBzPgRQiw
+  name: Binosha - بینوشا
+  category: technology
+  title: Binosha - بینوشا
+  description: "تو بینوشا ما از تکنولوژی میگیم از لپ‌تاپ و موبایل تا هوش مصنوعی و فناوری‌های جدید اگه به این چیزها علاقه داری سابسکرایب کردن بینوشا فراموشت نشه 😍❤️\n\nایمیل ما برای تماس: info@binosha.com"
+  thumbnail: "https://yt3.ggpht.com/ytc/APkrFKYqrBTnNyy-Oa2IDfr0ejOQnsX1QuEAV7idFf9h=s88-c-k-c0x00ffffff-no-rj"
+  link: "https://www.youtube.com/channel/UCNqT8Qk747G4alIBzPgRQiw"
+  subscriber_count: 26600
+  video_count: 566
+  created_at: "2018-07-07T16:52:21Z"
+  updated_at: "2023-09-28T15:54:59Z"
+- id: UCD_13oc95PQEtvAvzQVUaLA
+  name: SampoyTech
+  category: technology
+  title: SampoyTech
+  description: "من سامان هستم \nاگه به اسمارت هوم و گجت‌های مختلف علاقه دارید می‌توانید کانال را دنبال کنید\nتوی این کانال دستگاه‌های خانه هوشمند و گجت‌های مختلف تکنولوژی را معرفی و بررسی می‌کنم\n\nfarsi persian \n"
+  thumbnail: "https://yt3.ggpht.com/6K2DGos7omojD8G3lj4WBBLwdzR3rCVsXyyWbbU1H1z3gaA0IL6r2YM_ZnSz39zacQA457ZgDro=s88-c-k-c0x00ffffff-no-rj"
+  link: "https://www.youtube.com/channel/UCD_13oc95PQEtvAvzQVUaLA"
+  subscriber_count: 13600
+  video_count: 233
+  created_at: "2020-03-13T17:26:14.735107Z"
+  updated_at: "2023-09-23T12:32:53Z"
+- id: UC5H38NMrMF1cOrKy_zOVGCg
+  name: Shahrouz Chorakchi
+  category: technology
+  title: Shahrouz Chorakchi
+  description: "➠Geek\n➠IT Specialist / Tech Journalist \n➠M.Sc. Informatics Student in Uni Hamburg  🇩🇪\n"
+  thumbnail: "https://yt3.ggpht.com/ytc/APkrFKalnSA7K3GN9gQnbV8AAdlUfibkp6IuaU1gEeRX=s88-c-k-c0x00ffffff-no-rj"
+  link: "https://www.youtube.com/channel/UC5H38NMrMF1cOrKy_zOVGCg"
+  subscriber_count: 10800
+  video_count: 252
+  created_at: "2015-10-12T08:56:42Z"
+  updated_at: "2023-09-26T10:57:24Z"
+- id: UCSbD8DbA2gkoDn1u_yLZS7w
+  name: Cryptokoosh
+  category: technology
+  title: Cryptokoosh
+  description: "اینجا کریپتوکوش هست و منم کوشانم، برنامه‌نویس و علاقه‌مند به رمزارز یا همون ارز دیجیتال که از علوم کامپیوتر شریف فارغ شدم\nبا دنبال کردن کانال من از اخبار داغ روزانه دنیای رمزارزها و جهان، آشنا میشین\nبا دنبال کردن کانال من یاد میگیرین چطور سرمایه‌گذاری خوبی داشته باشین\nبا دنبال کردن کانال من از تکنولوژی و مباحث فنی توی ارزهای دیجیتال مثل بیت کوین و بازار بورس و سرمایه آگاه میشین وهمینطور یاد میگیرینش\nبا دنبال کردن کانال من از بهترین فرصت‌های سرمایه‌ گذاری سال 2023 هم آگاه میشین\n کانال کریپتو کوش رو دنبال کنید\n"
+  thumbnail: "https://yt3.ggpht.com/ytc/APkrFKZMXpJaFeytXlaOQoMRuMyVDMoq31NkgMLjR8v_=s88-c-k-c0x00ffffff-no-rj"
+  link: "https://www.youtube.com/channel/UCSbD8DbA2gkoDn1u_yLZS7w"
+  subscriber_count: 6610
+  video_count: 168
+  created_at: "2020-02-17T22:00:05.090403Z"
+  updated_at: "2023-07-17T19:55:36Z"
+- id: UCoS7gp1En5UUsCJ75R3LadA
+  name: Milad Ehrampoush
+  category: technology
+  title: Milad Ehrampoush
+  description: "در اینجا از علاقه‌مندی‌ها و تخصص‌هایم خواهم گفت، دنیای جذاب محتوا، روابط عمومی و تکنولوژی "
+  thumbnail: "https://yt3.ggpht.com/K93h77UDavBoGfnSBU3zo-fvfMPAA_TYCDtmY01QCrBkHFChiw93cpTQfNun-L9bRW2_b2aT7Q=s88-c-k-c0x00ffffff-no-rj"
+  link: "https://www.youtube.com/channel/UCoS7gp1En5UUsCJ75R3LadA"
+  subscriber_count: 5730
+  video_count: 119
+  created_at: "2009-04-15T20:53:11Z"
+  updated_at: "2023-09-27T16:30:04Z"
+- id: UCIOAToXqGOahdcukztzznFA
+  name: Baa Pooya
+  category: technology
+  title: BaaPooya
+  description: "من پویام و اینجا کانال باپویاست به کانال من خوش اومدید. توی این کانال سعی دارم هرهفته در مورد تکنولوژی های جالب با شما صحبت کنم.\nبرای شروع و چند هفته ی اول در مورد ماشین های تسلا صحبت خواهم کرد.\nاگر از محتوای این ویدیو خوشتون اومد حتما به این کانال سابسکرایب کنید."
+  thumbnail: "https://yt3.ggpht.com/ytc/APkrFKaHWty66YQvK3xr9Dc1WNUVUtr7ReysmCSFDLGY=s88-c-k-c0x00ffffff-no-rj"
+  link: "https://www.youtube.com/channel/UCIOAToXqGOahdcukztzznFA"
+  subscriber_count: 1200
+  video_count: 19
+  created_at: "2020-04-17T17:13:06.131513Z"
+  updated_at: "2020-08-05T16:26:19Z"
 - id: UC0IBNJgLL5zUHXUxazRSMZA
   name: Ashpazi Ba Sana
   category: misc
@@ -887,20 +755,20 @@
   thumbnail: "https://yt3.ggpht.com/8xRg56qsyrG277UvRtsPeth8t1_fV1N8FZsTFsWVG1ZalAogUMjFyx7icHVZxpksbP81bcGjqg=s88-c-k-c0x00ffffff-no-rj"
   link: "https://www.youtube.com/channel/UC0IBNJgLL5zUHXUxazRSMZA"
   subscriber_count: 100000
-  video_count: 1022
+  video_count: 1028
   created_at: "2016-12-24T23:28:01Z"
-  updated_at: "2023-09-23T12:55:41Z"
+  updated_at: "2023-09-30T16:16:47Z"
 - id: UChLs096B3kOpLYhVK1ldSvg
   name: Khosousi
   category: misc
   title: Khosousi
   description: مرجع آثار تصویری موسیقی سنتی
-  thumbnail: "https://yt3.ggpht.com/ytc/AOPolaTUpr-ihuyrrd3j8VUJnp9V7_j8zws5nJ-s3EQaXA=s88-c-k-c0x00ffffff-no-rj"
+  thumbnail: "https://yt3.ggpht.com/ytc/APkrFKaeMNEbdi7fXzb_qUl8sLVJJbmKyR0PcE4RysZTOA=s88-c-k-c0x00ffffff-no-rj"
   link: "https://www.youtube.com/channel/UChLs096B3kOpLYhVK1ldSvg"
-  subscriber_count: 29400
-  video_count: 873
+  subscriber_count: 29500
+  video_count: 874
   created_at: "2013-01-06T11:57:41Z"
-  updated_at: "2023-09-21T15:32:36Z"
+  updated_at: "2023-09-24T06:33:38Z"
 - id: UCHfQc3kjKZQcLJGyCkrGEqg
   name: Fariba Golafzan
   category: misc
@@ -908,18 +776,18 @@
   description: "آموزش خیاطی\n.هر یکشنبه و پنجشنبه براتون یک فیلم آموزشی درمورد خیاطی و مد داریم\n.میتونید خیاطی رو از پایه با من یاد بگیرید\n😊🌼وارد قسمت پلی لییست توی صفحه من بشید و ویدئو ها رو به ترتیب نگاه کنید تا مطلبی رو از قلم نندازید\n"
   thumbnail: "https://yt3.ggpht.com/dWRCI4WjtzBFaiUxKKAfrIyKYBY_ri1WUcxrfbLkPTFGofWMfKlkpWATyZOWOvp4Ba2o9XixuQ=s88-c-k-c0x00ffffff-no-rj"
   link: "https://www.youtube.com/channel/UCHfQc3kjKZQcLJGyCkrGEqg"
-  subscriber_count: 23900
-  video_count: 189
+  subscriber_count: 24100
+  video_count: 190
   created_at: "2020-10-23T16:59:22.542198Z"
-  updated_at: "2023-09-21T13:30:30Z"
+  updated_at: "2023-09-28T15:41:22Z"
 - id: UCkQHRufVtt7tchYqo5_mwww
   name: Tabaghe 16
   category: misc
   title: طبقه ۱۶
   description: "Hosted by Soheil Alavi, Friends join him at his place at floor 16th in Toronto to discuss startups, technology and life."
-  thumbnail: "https://yt3.ggpht.com/ytc/AOPolaQrjVArMbDy8PWRogOLoHeOH3m5kivECyDM0MgL=s88-c-k-c0x00ffffff-no-rj"
+  thumbnail: "https://yt3.ggpht.com/ytc/APkrFKb5TCkn5vCkXJw8ChGDM65274XC7k_DOHV8KX8Z=s88-c-k-c0x00ffffff-no-rj"
   link: "https://www.youtube.com/channel/UCkQHRufVtt7tchYqo5_mwww"
-  subscriber_count: 19400
+  subscriber_count: 19500
   video_count: 171
   created_at: "2020-07-06T23:52:31.918509Z"
   updated_at: "2023-09-22T10:30:17Z"
@@ -928,12 +796,12 @@
   category: misc
   title: Mohajerhub
   description: "سلام 👋 من احسانم. سال ۲۰۱۰ با ویزای دانشجویی به استرالیا مهاجرت کردم و در حال حاضر به عنوان برنامه‌نویس ارشد در ملبورن مشغول به کارم\n\nتوی این کانال تقریبا هر چیزی که در این مسیر و زندگی روزمره‌ام تجربه کردم رو بدون چشم‌داشتی به اشتراک می‌گذارم. زمان ما این چیزها نبود و امیدوارم به کارتون بیاد و اگر قصد مهاجرت به استرالیا رو دارید در این مسیر کمک‌تون کنه\n\nمن وکیل مهاجرتی نیستم. موسسه مهاجرتی هم نمی‌شناسم. اما از عنفوان نوجوانی تولید محتوا رو دوست داشتم و این کار رو به اشکال مختلف مثل نوشتن و عکس گرفتن در وبلاگ، فوتوبلاگ و نشریات وطنی کامپیوترانجام دادم. الانم که هر هفته حداقل یک ویدئو منتشر می‌کنم\n\nویدئوها شامل مطالب آموزشی و ولاگ میشه. همیشه سعی می‌کنم به مسائل صفر و یک نگاه نکنم و دید منصفانه‌ای داشته باشم. تقریبا تمام چیزهایی که در ویدئوها می‌گم همراه با سند و مدرک و برگرفته از منابع معتبره. من همه‌ی کامنت‌ها رو می‌خونم و جواب می‌دم. اما سوال‌هاتون رو می‌تونید در وبسایت مهاجرهاب هم بپرسید:\nhttps://mohajerhub.com\n\nاگر دوست داشتید سبسکرایب کنید. اگرم نه، قربان شما. خداحافظ\n"
-  thumbnail: "https://yt3.ggpht.com/ytc/AOPolaQJioh2RT58RoWYns7F-Cii3CiH9lxHSmurmus3=s88-c-k-c0x00ffffff-no-rj"
+  thumbnail: "https://yt3.ggpht.com/ytc/APkrFKagLb0T0rhwSPDHGYdvMz1Zi0AlED5YGKy9JoOR=s88-c-k-c0x00ffffff-no-rj"
   link: "https://www.youtube.com/channel/UCCptAC0mA2LkBBUTdOeVqIQ"
-  subscriber_count: 12100
-  video_count: 192
+  subscriber_count: 12200
+  video_count: 194
   created_at: "2020-05-09T11:55:11.481954Z"
-  updated_at: "2023-08-17T09:40:15Z"
+  updated_at: "2023-09-26T10:01:02Z"
 - id: UC06PtN6hXEGN3AXYcG8jQUw
   name: bitrun
   category: misc
@@ -952,18 +820,18 @@
   description: "Welcome to Tech Immigrants, where we showcase the inspiring journeys of tech-savvy professionals who have successfully landed jobs in the tech industry across the globe. Join us every Saturday and Sunday at 9 PM Iran time for live interviews with these experts as they share their experiences, insights, and advice on navigating the tech world. \nDuring our live sessions, you'll have the chance to ask your questions directly to these experts, gaining valuable insights and personalized guidance. From overcoming challenges to celebrating triumphs, our channel is dedicated to empowering and connecting tech enthusiasts seeking opportunities to grow their careers. \n\nSubscribe and be part of our thriving community today!\n\nTelegram Group:\nhttps://t.me/techimmigrants\n\n"
   thumbnail: "https://yt3.ggpht.com/_YNyPBmSpN02adHeqBrx8tjqCarIc4Eccnc5RPWd3JlH6zvRFvrNWfM2uv8ICemAW92TvkdNCw=s88-c-k-c0x00ffffff-no-rj"
   link: "https://www.youtube.com/channel/UCmpsA4b-NmZ_kCxgz3MY1mg"
-  subscriber_count: 7530
-  video_count: 148
+  subscriber_count: 7600
+  video_count: 150
   created_at: "2020-11-04T10:37:19.070361Z"
-  updated_at: "2023-09-23T13:28:43Z"
+  updated_at: "2023-09-30T19:12:13Z"
 - id: UCzN0k-uatGbvpzyAUfxLgBw
   name: Farzad Bayan
   category: misc
   title: Rozanak
   description: "روزنک: روزنه‌ای به سوی روشنی\nدر روزنک با ویدیوهایی کوتاه و به زبانی ساده (اما نه بیش از حد ساده) به ترویج روان‌شناسی می‌پردازیم"
-  thumbnail: "https://yt3.ggpht.com/ytc/AOPolaRKZa31J511MA3yxyX49phRH0AKaBe20cyvy0lV=s88-c-k-c0x00ffffff-no-rj"
+  thumbnail: "https://yt3.ggpht.com/ytc/APkrFKbdL6RPMIGXunD4iUnM3N8eBVcsHbkxkWhbI1pO=s88-c-k-c0x00ffffff-no-rj"
   link: "https://www.youtube.com/channel/UCzN0k-uatGbvpzyAUfxLgBw"
-  subscriber_count: 4720
+  subscriber_count: 4760
   video_count: 59
   created_at: "2012-01-20T11:05:11Z"
   updated_at: "2023-09-09T16:00:39Z"
@@ -972,9 +840,9 @@
   category: misc
   title: Immiversal
   description: "Immiversal | Broad Immigration Platform\n\nMeet your immigration expert\n\nقبل از هر اقدامی برای مهاجرت در سایت ثبت نام کنید\n\nHttps://immiversal.com"
-  thumbnail: "https://yt3.ggpht.com/ytc/AOPolaTLe6h1tPF77_FpJ3LokNWIyd0QfItIsf5VtbQv=s88-c-k-c0x00ffffff-no-rj"
+  thumbnail: "https://yt3.ggpht.com/ytc/APkrFKa3k41xpNLu5srj4K1tU-zdUc_7-Tf2ZBCSE-2o=s88-c-k-c0x00ffffff-no-rj"
   link: "https://www.youtube.com/channel/UCq54ZaMpfDehLNGGYfLziGQ"
-  subscriber_count: 4070
+  subscriber_count: 4080
   video_count: 200
   created_at: "2020-01-17T02:10:43.013832Z"
   updated_at: "2022-09-03T17:30:05Z"
@@ -983,7 +851,7 @@
   category: misc
   title: Radio Offside
   description: "پادکست تخصصی فوتبالی (و گاهی غیر فوتبالی) رادیو آفساید! اینجا دور هم مهم‌ترین و کم‌اهمیت‌ترین خبرهای دنیای فوتبال رو موشکافی می‌کنیم.\nRadio Offside, a podcast dedicated to European football in Persian.\n"
-  thumbnail: "https://yt3.ggpht.com/ytc/AOPolaTcB1cS0uhUh8bLcc0y7CamzX5ACo6-DzCnBXZG=s88-c-k-c0x00ffffff-no-rj"
+  thumbnail: "https://yt3.ggpht.com/ytc/APkrFKb3SJ0SBgYCTffl7_EZVWgdNgNWMZmqHc3Gt8Uw=s88-c-k-c0x00ffffff-no-rj"
   link: "https://www.youtube.com/channel/UCLKv-TQUDn_4Lz0VdxWSPLQ"
   subscriber_count: 3390
   video_count: 207
@@ -994,23 +862,12 @@
   category: misc
   title: Bazikhar Videocast
   description: "We are Bazikhar Videocast Magazine. \n\nWhat Bazikhar word means? It means that we are Game eaters! \nWe produce unique, sarcastic and fun videos about anything related to video games, in Persian!\nWith you guys, our beloved audience, we believe we rock!"
-  thumbnail: "https://yt3.ggpht.com/ytc/AOPolaTtX4g0z1OASYp1uS8UBzVbZT5FY08YywMOw5ak=s88-c-k-c0x00ffffff-no-rj"
+  thumbnail: "https://yt3.ggpht.com/ytc/APkrFKb1FW9ihLbnwyXdxVCPFdhcgy1XZJ_22H8EkxXG=s88-c-k-c0x00ffffff-no-rj"
   link: "https://www.youtube.com/channel/UCvRY5AQuQy91hUhpRbJayvg"
-  subscriber_count: 3130
+  subscriber_count: 3250
   video_count: 81
   created_at: "2019-12-10T10:28:33.289278Z"
   updated_at: "2022-09-14T13:27:19Z"
-- id: UCiUJolxFti9kAlkh24EefEA
-  name: Nasser Ghanemzadeh
-  category: misc
-  title: Nasser Ghanemzadeh
-  description: "به کانال من خوش آمدید! من ناصر غانم‌زاده هستم و هدف از این كانال صحبت درباره‌ی مدیریت و رهبری، تبدیل شدن از بنیانگذار/ کارآفرین به یک مدیرعامل عالی (مدیرممتاز) است. در کنار این‌ها درباره‌ی بهترین کتاب‌ها و ابزارهای روز مدیریت و رهبری تیم‌های فناور صحبت خواهم کرد. \nدر کنار استراتژی و مفاهيم پایه به تاکتیک‌ها و سیستم‌های مدیریتی نیز خواهم پرداخت.\n"
-  thumbnail: "https://yt3.ggpht.com/Wnd_J2ZCIDujrclVkYyKLF3NtoOo9M3BVhADOrgYgJNyq3FLfyA6TYWYntO4zQUv4PIp77Twnw=s88-c-k-c0x00ffffff-no-rj"
-  link: "https://www.youtube.com/channel/UCiUJolxFti9kAlkh24EefEA"
-  subscriber_count: 2110
-  video_count: 103
-  created_at: "2010-06-27T08:26:50Z"
-  updated_at: "2023-09-22T04:39:05Z"
 - id: UCCQywMu-nGPmdO1eMVuoKYQ
   name: Bahar Abedi
   category: misc
@@ -1018,16 +875,27 @@
   description: ""
   thumbnail: "https://yt3.ggpht.com/-wD02zofPNTycIoWG9QPlxxHI_RBFUkDzUV_G2zdeGRWDJllZMCpJoNxIMVYRMN-4kQOWkas1Xw=s88-c-k-c0x00ffffff-no-rj"
   link: "https://www.youtube.com/channel/UCCQywMu-nGPmdO1eMVuoKYQ"
-  subscriber_count: 2090
-  video_count: 210
+  subscriber_count: 2180
+  video_count: 220
   created_at: "2012-12-14T14:42:01Z"
-  updated_at: "2023-09-23T19:12:08Z"
+  updated_at: "2023-09-30T17:01:43Z"
+- id: UCiUJolxFti9kAlkh24EefEA
+  name: Nasser Ghanemzadeh
+  category: misc
+  title: Nasser Ghanemzadeh
+  description: "به کانال من خوش آمدید! من ناصر غانم‌زاده هستم و هدف از این كانال صحبت درباره‌ی مدیریت و رهبری، تبدیل شدن از بنیانگذار/ کارآفرین به یک مدیرعامل عالی (مدیرممتاز) است. در کنار این‌ها درباره‌ی بهترین کتاب‌ها و ابزارهای روز مدیریت و رهبری تیم‌های فناور صحبت خواهم کرد. \nدر کنار استراتژی و مفاهيم پایه به تاکتیک‌ها و سیستم‌های مدیریتی نیز خواهم پرداخت.\n"
+  thumbnail: "https://yt3.ggpht.com/Wnd_J2ZCIDujrclVkYyKLF3NtoOo9M3BVhADOrgYgJNyq3FLfyA6TYWYntO4zQUv4PIp77Twnw=s88-c-k-c0x00ffffff-no-rj"
+  link: "https://www.youtube.com/channel/UCiUJolxFti9kAlkh24EefEA"
+  subscriber_count: 2120
+  video_count: 105
+  created_at: "2010-06-27T08:26:50Z"
+  updated_at: "2023-09-29T12:46:27Z"
 - id: UCKMq8ked2ePAL0bQtu6k7WA
   name: DoSarneshin
   category: misc
   title: DoSarneshin
   description: "DoSarneshin - دوسرنشین\n\nبررسی ماشین و نکات آموزشی با سینا و نیما\n\nCar reviews and fun facts with Sina and Nima"
-  thumbnail: "https://yt3.ggpht.com/ytc/AOPolaRJ3oyKZf7xQ7AViLPh1ZKUKUTCPfDDjDh6JvVZTg=s88-c-k-c0x00ffffff-no-rj"
+  thumbnail: "https://yt3.ggpht.com/ytc/APkrFKbvDAYhsuFos5m_RPswlEPI8jZhEnGCUapYKTcrVg=s88-c-k-c0x00ffffff-no-rj"
   link: "https://www.youtube.com/channel/UCKMq8ked2ePAL0bQtu6k7WA"
   subscriber_count: 1060
   video_count: 9
@@ -1038,9 +906,9 @@
   category: misc
   title: Persian Game Jammers
   description: "⭕️ پاتوقی برای بازی‌سازها و زدن گیم‌جم بر بدن! 😉\nA cool community for Gamedevs and Game jammers\n"
-  thumbnail: "https://yt3.ggpht.com/ytc/AOPolaQOjeaD_0EJ0ZC2GX8dYRC7DllvKTLGNVmOb_w=s88-c-k-c0x00ffffff-no-rj"
+  thumbnail: "https://yt3.ggpht.com/ytc/APkrFKbBCDZDI3JhOE1xX6lsbYzbin1q5M6zyRXRF7E=s88-c-k-c0x00ffffff-no-rj"
   link: "https://www.youtube.com/channel/UCYIsZ1th8QX8r1-3h3KtBug"
-  subscriber_count: 296
+  subscriber_count: 298
   video_count: 50
   created_at: "2020-08-11T12:58:42.379937Z"
   updated_at: "2023-09-11T08:04:15Z"
@@ -1051,7 +919,7 @@
   description: اینجا بازیهای رومیزی یا همون بوردگیم معرفی میکنیم. ما، فرود و بیتا، بازیهای جدید تجربه میکنیم و سعی میکنیم شما رو تو این تجربه آماتوری خودمون شریک کنیم.
   thumbnail: "https://yt3.ggpht.com/TU2AGM1igOZdDHW_QTa8kxIiGEK3xc5IERWVvvE6kcpYhrToBxg_818f4jWHK16jAumTXQDCvA=s88-c-k-c0x00ffffff-no-rj"
   link: "https://www.youtube.com/channel/UCJL8t1gU39jjusk9TuXAJwQ"
-  subscriber_count: 256
+  subscriber_count: 254
   video_count: 31
   created_at: "2020-01-28T21:35:20.270307Z"
   updated_at: "2023-06-19T22:34:32Z"
@@ -1060,20 +928,152 @@
   category: misc
   title: بشنووباورکن
   description: "«بشنووباورکن»  پیوند قصه، موسیقی و حرکت است\nمن دنا نعمت الهی هستم\nمدرس موسیقی و حرکت با نگرش ارف ـ شولورک\nدانش‌آموخته‌ی دانشکده‌ی کارل ارف، دانشگاه موتسارتئوم سالزبورگ، اتریش\n\nدر این کانال ایده‌های خودم را برای ساخت بازی‌های موسیقایی برای بچه‌ها به اشتراک می‌گذارم"
-  thumbnail: "https://yt3.ggpht.com/ytc/AOPolaTWZi8283gTFJOoA8eD8c7aEMrLjGtrKMhpS-Tw=s88-c-k-c0x00ffffff-no-rj"
+  thumbnail: "https://yt3.ggpht.com/ytc/APkrFKZwdbu_LYg2s_cd_WshrtyPX7WY35u7iGDmoFGh=s88-c-k-c0x00ffffff-no-rj"
   link: "https://www.youtube.com/channel/UCYzkK_bvLoTKmN1WIhOj_zQ"
-  subscriber_count: 158
+  subscriber_count: 160
   video_count: 14
   created_at: "2020-06-30T14:23:57.006038Z"
   updated_at: "2021-08-12T12:33:55Z"
-- id: UCks1-Od_hDk1mvpd8Ku_VQA
-  name: Siavash Mahmoudian
-  category: programming
-  title: Siavash Mahmoudian
-  description: "I'm me..."
-  thumbnail: "https://yt3.ggpht.com/mT0bUK4Cwacz5lKtdMVQRZ7vfeUX4kwydxej6PLdmaTtHuGx1wg3lbOu1NA7pIrMIELKDftt=s88-c-k-c0x00ffffff-no-rj"
-  link: "https://www.youtube.com/channel/UCks1-Od_hDk1mvpd8Ku_VQA"
-  subscriber_count: 7050
-  video_count: 31
-  created_at: "2007-08-27T12:31:57Z"
-  updated_at: "2022-09-26T00:15:57Z"
+- id: UCqu8mtd9NBjgSaHUtHjRiLw
+  name: Chef Javad Javadi
+  category: cooking
+  title: Chef Javad Javadi
+  description: "سلام دوستان \nFor any cooperation email us on \n👇🏾👇🏾👇🏾👇🏾👇🏾👇🏾👇🏾👇🏾👇🏾👇🏾\nJavadianahita60@gmail.com \n\n🇦🇺🇦🇺🇦🇺🇦🇺🇦🇺🇦🇺🇦🇺🇦🇺🇦🇺🇦🇺🇦🇺🇦🇺🇦🇺🇦🇺🇦🇺🇦🇺🇦🇺🇦🇺\nدوستان عزیز از کپی کردن فیلم ها و آپلود دوباره آن در یوتیوب خودداری کنید \nدر این صورت در یوتیوب از شما حتما شکایت می‌شود چون بنده اجازه \nکپی کردن را به هیچ کسی ندادم \nرفیق همیشگی \nجوادجوادی\nحتما ما رو در اینستاگرام فالو کنید\n🌭🍗🌭🥖🥕🥑🍍🥨🥓🍔🌮🥙🍕🥗🥝🥒🍠\n\n"
+  thumbnail: "https://yt3.ggpht.com/glaAgbF1eps6-6MEgz7xmAbFpJ2ofplGgaBXJFhDzijvwKdVlSDyzCArLOk6cN4lSkuiAO-vdg=s88-c-k-c0x00ffffff-no-rj"
+  link: "https://www.youtube.com/channel/UCqu8mtd9NBjgSaHUtHjRiLw"
+  subscriber_count: 273000
+  video_count: 1125
+  created_at: "2016-06-27T09:33:55Z"
+  updated_at: "2023-09-30T09:55:01Z"
+- id: UCAhExxi6ABgTxP_JcE8Cq4w
+  name: Khalil Oghab cooking آشپزی خلیل عقاب
+  category: cooking
+  title: Khalil Oghab cooking آشپزی خلیل عقاب
+  description: کانال آشپزی خلیل و شهرزاد
+  thumbnail: "https://yt3.ggpht.com/ytc/APkrFKZwZDoc3HLs29NE2dd1-Lbwy7eZsBWSl4ak-Kx9sg=s88-c-k-c0x00ffffff-no-rj"
+  link: "https://www.youtube.com/channel/UCAhExxi6ABgTxP_JcE8Cq4w"
+  subscriber_count: 4670
+  video_count: 163
+  created_at: "2014-08-01T04:18:53Z"
+  updated_at: "2023-01-03T20:59:26Z"
+- id: UCi_E-xnlfj3UYQZNUxSoS3g
+  name: جنگولک بازیهای من My dodgings
+  category: cooking
+  title: shirazian khaligar خوالیگر شیرازی
+  description: I am made of the art of cooking and the pleasure of eating
+  thumbnail: "https://yt3.ggpht.com/cs-sBMs6avnvE9m7WpMpjxzSuI_QBVBtWfVn8K5fVWIAPklvTRwsThj-1FoPQwB0r5qdczBz=s88-c-k-c0x00ffffff-no-rj"
+  link: "https://www.youtube.com/channel/UCi_E-xnlfj3UYQZNUxSoS3g"
+  subscriber_count: 699
+  video_count: 62
+  created_at: "2011-07-04T11:45:49Z"
+  updated_at: "2023-09-29T07:02:48Z"
+- id: UCVgdGai2DOWaY2JCiyj7fGg
+  name: Ashna Group
+  category: cooking
+  title: Ashna Group
+  description: "ٱموزش رایگان شیرینی و کیک\nFREE Training for Iranian Pastry"
+  thumbnail: "https://yt3.ggpht.com/ytc/APkrFKZb98rNDj4ZdiMxyixWoNaC7_YShHMQQDuRo37W=s88-c-k-c0x00ffffff-no-rj"
+  link: "https://www.youtube.com/channel/UCVgdGai2DOWaY2JCiyj7fGg"
+  subscriber_count: 577
+  video_count: 33
+  created_at: "2017-07-06T23:54:14Z"
+  updated_at: "2022-09-28T20:55:32Z"
+- id: UCTz1gQUaMXe_73vYNLFCDAw
+  name: Cafe Matbakh
+  category: cooking
+  title: Global Food Quest | کافه مطبخ
+  description: "Global Food Quest\nهر هفته آموزش پخت یک غذا"
+  thumbnail: "https://yt3.ggpht.com/kyRj1uVy9qqDX1aYssr3yWTkuyGQpyW744jGeZYi06vfoeQltcRewimm0cnBy_KaYsj10rZaRg=s88-c-k-c0x00ffffff-no-rj"
+  link: "https://www.youtube.com/channel/UCTz1gQUaMXe_73vYNLFCDAw"
+  subscriber_count: 98
+  video_count: 10
+  created_at: "2020-02-01T18:03:43.736Z"
+  updated_at: "2023-09-26T15:16:21Z"
+- id: UCsVi4oXN98rMc4vmxRu61JA
+  name: Deutsch Persisch TV
+  category: learning
+  title: Deutsch Persisch TV
+  description: "آموزش زبان آلمانی به فارسی از مبتدی تا پیشرفته  با روش آسان A1 bis C1\nنمونه سوالات امتحان های زبان آلمانی \nسوالات امتحان زندگی در آلمان \nسوالات جدید گواهینامه آلمانی \nآلمانی با احسان\nبرای حمایت مالی از کانال خودتان به لینک زیر مراجعه بفرمایید.\nhttps://paypal.me/DPTV1"
+  thumbnail: "https://yt3.ggpht.com/ytc/APkrFKZyPJMo48wRhuUl1iJTnjkdePBbbgyJGiXZd-i-dA=s88-c-k-c0x00ffffff-no-rj"
+  link: "https://www.youtube.com/channel/UCsVi4oXN98rMc4vmxRu61JA"
+  subscriber_count: 127000
+  video_count: 1606
+  created_at: "2017-08-04T10:56:24Z"
+  updated_at: "2023-09-24T19:00:27Z"
+- id: UCCQfEp0QPDdeeN_uS2udc1Q
+  name: Learn With Babak
+  category: learning
+  title: Learn With Babak
+  description: "بابک هستم و در این کانال زبان های مختلف را آموزش میدهم. \nدر کنار آن سعی میکنم درباره علاقه مندی هایم در دنیای علم، دانش، تکنولوژی و هنر نیز صحبت کنم. \n\nامیدوارم ویدیوها مورد استفاده شما قرار گیرد و از تماشای آن ها لذت ببرید.\n"
+  thumbnail: "https://yt3.ggpht.com/B5doPjQ_P0wt9mtQ8fgku-sKWAGBo4xglkwPYreh1xATiw7QwYpanS-d30MlIpUlPyBGqnPUpFk=s88-c-k-c0x00ffffff-no-rj"
+  link: "https://www.youtube.com/channel/UCCQfEp0QPDdeeN_uS2udc1Q"
+  subscriber_count: 54300
+  video_count: 233
+  created_at: "2012-07-11T11:57:22Z"
+  updated_at: "2023-04-03T16:56:47Z"
+- id: UCiCLg475vLlYP2-u6etxZWQ
+  name: Language with Kahi
+  category: learning
+  title: norazaban
+  description: "آمــــــوزش زبان آلــمانى با نــــورا🇩🇪🇩🇪🇩🇪\nآمــوزش حرفه ای قواعد بصورت گام به گام\nپــــركاربردترين واژگان و اصطلاحات آلمانی"
+  thumbnail: "https://yt3.ggpht.com/p1xHyxyLsR4EEtGJqgYv7yxvY1iLUCHQPewj15Z1IAKOqDRieV8Q-KjQuJs3Y6yd3ja6byQA3Q=s88-c-k-c0x00ffffff-no-rj"
+  link: "https://www.youtube.com/channel/UCiCLg475vLlYP2-u6etxZWQ"
+  subscriber_count: 40200
+  video_count: 175
+  created_at: "2019-10-05T15:51:41Z"
+  updated_at: "2021-11-11T16:31:33Z"
+- id: UCABVLZ3YJ4MLFpvrO_wqDuA
+  name: Mostafa Shalchi
+  category: learning
+  title: "Mostafa Shalchi "
+  description: "سلام من مصطفی شالچی، معلم زبان فرانسه هستم و توی این کانال تمام تلاشم رو می‌کنم تا زبان فرانسه رو به بهترین شکل به شما یاد بدم. پس لطفا با من همراه باشید و فراموش نکنید که نظراتتون برای من خیلی مفیده\n#زبان_فرانسه \n"
+  thumbnail: "https://yt3.ggpht.com/JW01WgS3L-oaCF9JTv3lQoFSlvWSm_Cz5hFHxT-MQHyQ6V_WqG-mpah2l6z-SxfNYTiCd21uoA=s88-c-k-c0x00ffffff-no-rj"
+  link: "https://www.youtube.com/channel/UCABVLZ3YJ4MLFpvrO_wqDuA"
+  subscriber_count: 31000
+  video_count: 535
+  created_at: "2015-06-29T18:17:08Z"
+  updated_at: "2023-09-24T17:30:03Z"
+- id: UChJDoitU8BCdhxeAeFOQIHg
+  name: Ziya Sadr
+  category: learning
+  title: Ziya Sadr
+  description: "من ضیا صدر هستم. بیتکوینرم و در طی چند سال اخیر روی پدیده‌ی مالی غیرمتمرکز و جذابی به نام بیتکوین مطالعه کرده‌ام\nعمده فعالیت من در توییتر، وبسایت منابع فارسی بیتکوین، کانال تلگرام خودم و گروه تلگرامی سیمرغ و همچنین اخیرا این کانال یوتوب رو راه‌اندازی کردم و به آموزش‌ امنیت، حریم خصوصی، کیف‌پولها، ابزارها و نرم‌افزارهای بیتکوینی و همچنان اکوسیستم و مفاهیم بیتکوین\nمی‌پردازم\n\nلطفا کانال من را با دوستان و علاقه‌مندان به این موضوعات به اشتراک بگذارید\n"
+  thumbnail: "https://yt3.ggpht.com/nHKZQWp1TmQ9GKlCclkE_iuPRaZygK7Js3vtXpqutVDe54QGe-da899QG6lxsCAiWIUTsYGKbzg=s88-c-k-c0x00ffffff-no-rj"
+  link: "https://www.youtube.com/channel/UChJDoitU8BCdhxeAeFOQIHg"
+  subscriber_count: 6970
+  video_count: 177
+  created_at: "2020-10-26T14:26:44.737433Z"
+  updated_at: "2023-08-31T00:07:21Z"
+- id: UCm9Vl12BiP7ZovQY5m2CPqA
+  name: Almani ba Ehsan
+  category: learning
+  title: Mister Language
+  description: ""
+  thumbnail: "https://yt3.ggpht.com/ytc/APkrFKZaaslAat5GKPL8qNSrjcHHjSuwe8ar-GKWNgfe=s88-c-k-c0x00ffffff-no-rj"
+  link: "https://www.youtube.com/channel/UCm9Vl12BiP7ZovQY5m2CPqA"
+  subscriber_count: 6670
+  video_count: 17
+  created_at: "2020-03-02T23:38:16.569134Z"
+  updated_at: "2022-01-18T18:50:06Z"
+- id: UCz5rd9KctnDjWl7yQcAfsng
+  name: Abolfazl Khadem
+  category: learning
+  title: Abolfazl Khadem
+  description: "Hey everyone, I'm Abolfazl Khadem. I'm your assisting coach helping you score higher on the IELTS test. Who's the head coach? YOU. \n\nسلام. من ابوالفضل خادم هستم و می‌خوام به‌تون کمک کنم تا بتونین در آزمون آیلتس نمره‌ی خوبی بگیرین"
+  thumbnail: "https://yt3.ggpht.com/ytc/APkrFKZ-bcDyKh3IaDAWXroxrkTvQpPgoEbivuUElZxg0A=s88-c-k-c0x00ffffff-no-rj"
+  link: "https://www.youtube.com/channel/UCz5rd9KctnDjWl7yQcAfsng"
+  subscriber_count: 6190
+  video_count: 148
+  created_at: "2015-07-14T18:54:16Z"
+  updated_at: "2023-09-10T08:32:35Z"
+- id: UCHXFMqf_vM498zUYGIbyElg
+  name: آموزش ترکی استانبولی با صبا
+  category: learning
+  title: İşte Türkçe by Saba آموزش ترکی استانبولی با صبا
+  description: "سلام \nمن صبام و اینجام تا به شما ثابت کنم یادگیری ترکی استانبولی مثل آب خوردنه\n\nسعی میکنم توی هر ویدیو در کمتر از 11 دقیقه قواعد مهم و مثالهایی از زبان ترکی استانبولی بگم که هم برای شما مناسبه هم برای نوجوانان"
+  thumbnail: "https://yt3.ggpht.com/ytc/APkrFKY3zWK9gC-hTx2FQ12ibnxM6utFNvEqJrbvMwf4Jg=s88-c-k-c0x00ffffff-no-rj"
+  link: "https://www.youtube.com/channel/UCHXFMqf_vM498zUYGIbyElg"
+  subscriber_count: 1400
+  video_count: 29
+  created_at: "2020-03-22T13:04:39.779865Z"
+  updated_at: "2022-10-16T18:40:15Z"
